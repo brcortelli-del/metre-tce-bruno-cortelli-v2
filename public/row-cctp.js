@@ -28,7 +28,7 @@ export function collectRowCctp(project){
 }
 export function rowCctpText(project){
  const groups=collectRowCctp(project),count=groups.reduce((n,g)=>n+g.articles.length,0);
- return ['MÉTRÉ TCE – BRUNO CORTELLI','CCTP — '+project.title,`Articles enregistrés dans les lignes : ${count} / ${(project.rows||[]).length}`,'Périmètre : tout le projet, indépendamment des filtres.','Brouillons à relire ; références et règles de mesurage à vérifier au marché.',...groups.flatMap(g=>['','LOT : '+g.lot,...g.articles.flatMap(({row,article,stale})=>['',`${row.code||row.rowNumber||'Sans code'} — ${row.label}`,stale?'À RELIRE : les données de l’ouvrage ont changé depuis la rédaction.':'',article.text])])].filter((v,i,a)=>v!==''||a[i-1]!=='').join('\n');
+ return ['ATELIER MÉTRÉ PRO','CCTP — '+project.title,`Articles enregistrés dans les lignes : ${count} / ${(project.rows||[]).length}`,'Périmètre : tout le projet, indépendamment des filtres.','Brouillons à relire ; références et règles de mesurage à vérifier au marché.',...groups.flatMap(g=>['','LOT : '+g.lot,...g.articles.flatMap(({row,article,stale})=>['',`${row.code||row.rowNumber||'Sans code'} — ${row.label}`,stale?'À RELIRE : les données de l’ouvrage ont changé depuis la rédaction.':'',article.text])])].filter((v,i,a)=>v!==''||a[i-1]!=='').join('\n');
 }
 export async function generateRowCctp({row,project,context='',demo=false,signal},{fetcher=fetch}={}){
  const response=await fetcher('/api/generer-cctp',{method:'POST',credentials:'same-origin',headers:{'content-type':'application/json'},cache:'no-store',signal,body:JSON.stringify({poste:rowCctpPayload(row,project.country),contexteProjet:context,country:project.country,demo})});

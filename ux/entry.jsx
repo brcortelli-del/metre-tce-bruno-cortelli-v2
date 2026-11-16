@@ -267,7 +267,7 @@ function App({ bridge }) {
           <span>
             atelier
             <span className="brand-metre">
-              métré<span className="brand-dot">.</span>
+              métré pro<span className="brand-dot">.</span>
             </span>
           </span>
         </a>

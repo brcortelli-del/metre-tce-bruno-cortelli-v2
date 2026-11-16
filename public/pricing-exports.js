@@ -18,7 +18,7 @@ export function pricingCsv(project) {
 }
 export function createPricingWorkbook(project, ExcelJS, { internal = false } = {}) {
   const report = buildPricingReport(project); assertReady(report);
-  const wb = new ExcelJS.Workbook(); wb.creator = 'Atelier Métré TCE'; wb.calcProperties.fullCalcOnLoad = true;
+  const wb = new ExcelJS.Workbook(); wb.creator = 'Atelier Métré Pro'; wb.calcProperties.fullCalcOnLoad = true;
   const dpgf = wb.addWorksheet(documentName(project));
   const info = wb.addWorksheet('Fiche projet');
   const header = (sheet, labels, widths) => {

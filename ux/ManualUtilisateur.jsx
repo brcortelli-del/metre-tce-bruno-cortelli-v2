@@ -67,7 +67,7 @@ const ContentBlock = memo(function ContentBlock({ block, zoom, onNavigate }) {
 const PrintManual = memo(function PrintManual({ data, showCorrection, root }) {
   const chapters=manualPrintChapters(data,showCorrection);
   return <div className="manual-print-document" ref={root}>
-    <h1>Manuel d’utilisation & cahier d’exercices</h1><p>Atelier Métré TCE · Édition complète · {data.updatedAt}</p>
+    <h1>Manuel d’utilisation & cahier d’exercices</h1><p>Atelier Métré Pro · Édition complète · {data.updatedAt}</p>
     <p>{showCorrection?'Le corrigé est inclus, conformément au choix d’affichage.':'Version apprenant : le corrigé est exclu.'}</p>
     <h2>Sommaire</h2><ol>{chapters.map(c=><li key={c.id}>{c.number} · {c.title}</li>)}</ol>
     {chapters.map(c=><section className="manual-print-chapter" key={c.id}><div className="manual-chapter-heading"><span className="manual-kicker">CHAPITRE {c.number} / {String(chapters.length).padStart(2,'0')}</span><h2>{c.title}</h2><p>{c.subtitle}</p></div>

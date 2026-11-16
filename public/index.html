@@ -2,14 +2,14 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Atelier Métré — Mon calculateur TCE</title>
+  <title>Atelier Métré Pro — Métré TCE</title>
   <meta name="description" content="Votre atelier privé de métré TCE : calculs détaillés, déductions et avant-métré exportable.">
   <meta name="color-scheme" content="light dark"><meta name="theme-color" content="#125548">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23125548'/%3E%3Cpath d='M10 28V12h20v16zM15 12v6m5-6v4m5-4v6' fill='none' stroke='%23fff' stroke-width='2'/%3E%3C/svg%3E">
   <link rel="stylesheet" href="./style.css"><script type="module" src="./app.js"></script>
 </head>
 <body>
-  <header class="topbar"><div class="brand"><span class="logo" aria-hidden="true">▥</span><span>ATELIER <b>MÉTRÉ</b></span></div><div class="topmeta"><span>Formation métreur TCE</span><span class="private"><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="3.5" y="7" width="9" height="7" rx="1.5"/><path d="M5.5 7V4a2.5 2.5 0 0 1 5 0v3"/></svg>Espace privé</span></div></header>
+  <header class="topbar"><div class="brand"><span class="logo" aria-hidden="true">▥</span><span>ATELIER <b>MÉTRÉ PRO</b></span></div><div class="topmeta"><span>Formation métreur TCE</span><span class="private"><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="3.5" y="7" width="9" height="7" rx="1.5"/><path d="M5.5 7V4a2.5 2.5 0 0 1 5 0v3"/></svg>Espace privé</span></div></header>
   <main>
     <div id="workspaceHeading"></div>
     <section class="country-bar" aria-label="Pays du chantier"><div><span class="eyebrow">RÉFÉRENTIEL DU CHANTIER</span><div class="country-toggle" role="group" aria-label="Mode pays"><button type="button" data-tour="country-france" data-country="france" aria-pressed="true">🇫🇷 Mode France</button><button type="button" data-tour="country-luxembourg" data-country="luxembourg" aria-pressed="false">🇱🇺 Mode Luxembourg</button></div><p id="countryStatus" role="status"></p></div><details class="country-help"><summary>Règles et vérifications FR / LU</summary><p>Le pays adapte les déductions des baies isolées, les références et les descriptifs. Choisis le corps d’état dans la fiche de calcul. Les autres déductions saisies et les lignes négatives restent explicites.</p><p>France : quantité nette pédagogique, sans seuil national présumé. Luxembourg : CTG012/013 et profils particuliers, sous réserve du marché. Les tableaux, niches, baies regroupées ou en angle nécessitent un relevé distinct.</p><p>Les brouillons CCTP de chaque pays sont conservés. La TVA et les prix restent ceux du projet.</p><p><a href="/data/cctp-fr-lu.json" download="Bibliotheque_FR_LU_Lots01_02.json">↓ JSON FR/LU</a> · <a href="/data/cctp-audit-fr-lu.json" download="Audit_FR_LU.json">↓ Audit et sources</a></p><p><a href="/data/referentiel-normatif-france-lots01-02.json" download="Referentiel_normatif_FR_Lots01_02.json">↓ JSON normatif France · lots 01–02</a> · <a href="/data/audit-normatif-france.json" download="Audit_normatif_FR.json">↓ Registre et sources normatives</a></p><p>Audit du 13 novembre 2026 : statuts et domaines vérifiés sur les notices officielles ; clauses intégrales de métré non certifiées. Les autres lots restent à auditer.</p></details></section>
@@ -46,7 +46,7 @@
     <section id="proWorkspace" class="pro-workspace" hidden></section>
     <section id="planWorkspace" class="plan-workspace" hidden></section>
     <aside class="method-note"><span class="note-icon" aria-hidden="true">i</span><div><b>Un appui pour tes exercices de métré.</b><p>Vérifie les cotes du plan et les règles de déduction de ton cours. Pour les semelles et les fouilles, saisis la longueur développée après correction des angles et intersections. Le calculateur ne déduit pas ces recouvrements automatiquement.</p></div></aside>
-    <footer class="page-footer"><span>ATELIER MÉTRÉ <span class="muted">/ TCE</span></span><span>Projets synchronisés dans ton espace privé. Sauvegarde JSON disponible pour conserver une copie.</span></footer>
+    <footer class="page-footer"><span>ATELIER MÉTRÉ PRO <span class="muted">/ TCE</span></span><span>Projets synchronisés dans ton espace privé. Sauvegarde JSON disponible pour conserver une copie.</span></footer>
   </main>
   <div id="toast" class="toast" role="status" hidden></div>
   <dialog id="confirmDialog"><form method="dialog"><h2 id="confirmTitle">Confirmer</h2><p id="confirmText"></p><div class="dialog-actions"><button value="cancel" class="secondary">Annuler</button><button value="confirm" class="primary">Confirmer</button></div></form></dialog>

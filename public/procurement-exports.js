@@ -5,7 +5,7 @@ const fmt = n => new Intl.NumberFormat('fr-FR', { maximumFractionDigits: 6 }).fo
 
 export function createProcurementWorkbook(project, report, ExcelJS) {
   assertProcurementExport(report);
-  const wb = new ExcelJS.Workbook(); wb.creator = 'Atelier Métré TCE'; wb.calcProperties.fullCalcOnLoad = true;
+  const wb = new ExcelJS.Workbook(); wb.creator = 'Atelier Métré Pro'; wb.calcProperties.fullCalcOnLoad = true;
   const needs = wb.addWorksheet('Besoins fournisseurs'), sources = wb.addWorksheet('Détail des calculs'), checks = wb.addWorksheet('Contrôles');
   const header = (sheet, labels, widths) => {
     sheet.addRow(labels); sheet.getRow(1).font = { bold: true, color: { argb: 'FFFFFFFF' } };

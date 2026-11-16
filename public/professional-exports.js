@@ -1,7 +1,7 @@
 import {fmt,lineAmount} from './core.js';
 import {workColor} from './professional-core.js';
 import {pageSource,extensionResults,premiumProperties} from './premium-metre.js';
-export const PRO_TITLE='Métré TCE – Bruno Cortelli';
+export const PRO_TITLE='Atelier Métré Pro';
 export const PRO_HEADERS=['Code','Désignation','Lot TCE','Niveau','Zone','Unité','Quantité','PV HT','Montant HT','Couleur','Minute de calcul','Convention déductions','Page source','Surface projetée nette','Pente (%)','Coefficient de pente'];
 export const rowProof=row=>(row.result?.steps||[]).join(' | ');
 export function groupProfessionalRows(rows,by='lot',project={}) {
