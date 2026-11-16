@@ -1,0 +1,498 @@
+[
+  {
+    "reference_cours": "NF P98-331",
+    "statut": "en_vigueur",
+    "references_proposees": [
+      "NF P98-331 — août 2020"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF P98-331",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p98331/chaussees-et-dependances-tranchees-ouverture-remblayage-refection/fa193146/85652",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Tranchées de réseaux enterrés sous chaussées et dépendances ; ne constitue pas un référentiel universel de tous les terrassements de bâtiment."
+  },
+  {
+    "reference_cours": "P40-202 (DTU 60.11)",
+    "statut": "ancienne_edition_annulee_remplacement_prouve",
+    "references_proposees": [
+      "NF DTU 60.11 P1-1, P1-2, P2 et P3 — août 2013"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — DTU 60.11 octobre 1988, annulé et remplacé",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-6011/travaux-de-batiment-plomberie-sanitaire-pour-batiment-a-usage-dhabitation-/fa018789/10808",
+        "repere": "Rubrique « Norme remplacée par » : quatre parties de 2013, en vigueur."
+      },
+      {
+        "titre": "AFNOR — NF DTU 60.11 édition 2013",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa183834/1390",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Règles de calcul des réseaux de plomberie sanitaire et d'eaux pluviales. Choisir la partie correspondant au réseau ; ce n'est pas une règle de métré des maçonneries."
+  },
+  {
+    "reference_cours": "XP P16-603 (DTU 64.1)",
+    "statut": "annulee_remplacement_par_chaine_prouve",
+    "references_proposees": [
+      "NF DTU 64.1 P1-1, P1-2 et P2 — août 2013"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — XP DTU 64.1 P1-1 mars 2007",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/xp-dtu-641-p11/mise-en-oeuvre-des-dispositifs-dassainissement-non-collectif-dit-autonome-m/fa139464/336685",
+        "repere": "Rubriques normes remplacées : XP P16-603 1998 ; norme remplacée par : NF DTU 64.1 P1-1 août 2013."
+      },
+      {
+        "titre": "AFNOR — NF DTU 64.1 août 2013",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa183720/1377",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Champ indiqué par l'édition actuelle : assainissement non collectif des maisons individuelles jusqu'à 20 pièces principales ; à articuler avec les prescriptions réglementaires et la filière du projet."
+  },
+  {
+    "reference_cours": "NF EN 1916",
+    "statut": "en_vigueur",
+    "references_proposees": [
+      "NF EN 1916 — décembre 2003"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 1916",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1916/tuyaux-et-pieces-complementaires-en-beton-non-arme-beton-fibre-acier-et-bet/fa040422/22318",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Norme de produits : tuyaux et pièces complémentaires en béton. La notice mentionne le complément NF P16-345-2 ; vérifier son édition et le domaine du produit avant prescription."
+  },
+  {
+    "reference_cours": "EN 681-1",
+    "statut": "transposition_fr_en_vigueur",
+    "references_proposees": [
+      "NF EN 681-1 — décembre 1996",
+      "NF EN 681-1/A3 — décembre 2005"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 681-1",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-6811/garnitures-detancheite-en-caoutchouc-specification-des-materiaux-pour-garni/fa025796/12835",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      },
+      {
+        "titre": "AFNOR — NF EN 681-1/A3",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-6811-a3/garnitures-detancheite-en-caoutchouc-specification-des-materiaux-pour-garni/fa139794/26421",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Garnitures en caoutchouc vulcanisé. Base et A3 vérifiés ; contrôler l'ensemble des amendements applicables au produit et au marché, sans prétendre que cette liste est consolidée exhaustive."
+  },
+  {
+    "reference_cours": "NF EN 295",
+    "statut": "serie_a_preciser",
+    "references_proposees": [
+      "NF EN 295 — série, parties à sélectionner selon les produits et essais"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 295-1 mai 2013",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-2951/systemes-de-tuyaux-en-gres-vitrifie-pour-les-collecteurs-dassainissement-et/fa160178/41417",
+        "repere": "Exemple de partie identifiée, en vigueur : exigences des tuyaux, raccords et assemblages en grès vitrifié. Ne prouve pas le statut de toutes les parties."
+      }
+    ],
+    "controle": "La référence sans numéro de partie est insuffisante. Ne pas remplacer automatiquement toute la série par la seule partie 1."
+  },
+  {
+    "reference_cours": "NF T54-090",
+    "statut": "non_verifie",
+    "references_proposees": [],
+    "sources": [],
+    "controle": "Aucune notice primaire actuelle résolue dans cette recherche. Conserver la référence de cours comme historique non vérifiée ; aucun remplacement automatique. Ne pas confondre avec NF T54-080, qui traite d'un autre sujet."
+  },
+  {
+    "reference_cours": "NF EN 14758-1",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 14758-1 — avril 2023"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 14758-1",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-147581/systemes-de-canalisations-en-plastique-pour-les-branchements-et-les-collect/fa200694/344956",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "PP avec modificateurs minéraux pour assainissement enterré sans pression. La notice indique le remplacement de mai 2012 ; ne pas généraliser à tous les tuyaux plastiques."
+  },
+  {
+    "reference_cours": "NF P98-302",
+    "statut": "annulee_remplacement_prouve",
+    "references_proposees": [
+      "NF EN 1340 — février 2004",
+      "NF P98-340/CN — mars 2004"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF P98-302 juin 1982",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p98302/chaussees-bordures-et-caniveaux-prefabriques-en-beton/fa017231/52712",
+        "repere": "Ancienne norme annulée ; rubrique remplacée par : NF EN1340 février2004 et NF P98-340/CN mars2004, toutes deux indiquées en vigueur."
+      }
+    ],
+    "controle": "Bordures et caniveaux préfabriqués en béton : compléter les exigences européennes par les profils nationaux correspondant au produit."
+  },
+  {
+    "reference_cours": "NF A35-024",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF A35-024 — juillet 2019"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF A35-024",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-a35024/aciers-pour-beton-arme-treillis-soudes-de-surface-constitues-de-fils-de-dia/fa193237/83029",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Treillis soudés de surface en fils de diamètre nominal inférieur à 5 mm. Ne pas les confondre avec les treillis structuraux du domaine NF A35-080-2."
+  },
+  {
+    "reference_cours": "NF EN 12350-1",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12350-1 — août 2019"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12350-1 — Prélèvement et appareillage commun",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123501/essais-pour-beton-frais-partie-1-prelevement-et-appareillage-commun/fa190557/83429",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12350-2",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12350-2 — juin 2019"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12350-2 — Essai d’affaissement",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123502/essais-pour-beton-frais-partie-2-essai-daffaissement/fa190558/83431",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12350-6",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12350-6 — août 2019"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12350-6 — Masse volumique du béton frais",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123506/essais-pour-beton-frais-partie-6-masse-volumique/fa190562/83423",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12350-7",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12350-7 — juin 2019, tirage 2 avril 2022"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12350-7 — Teneur en air, compressibilité",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123507/essais-pour-beton-frais-partie-7-teneur-en-air-methode-de-la-compressibilit/fa190563/83427",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12390-1",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12390-1 — juillet 2021"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12390-1 — Éprouvettes et moules",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123901/essais-pour-beton-durci-partie-1-forme-dimensions-et-autres-exigences-aux-e/fa195833/264178",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12390-2",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12390-2 — juin 2019"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12390-2 — Confection et conservation des éprouvettes",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123902/essais-pour-beton-durci-partie-2-confection-et-conservation-des-eprouvettes/fa190565/83458",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12390-7",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12390-7 — juin 2019, tirage 2 avril 2023"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12390-7 — Masse volumique du béton durci",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123907/essais-pour-beton-durci-partie-7-masse-volumique-du-beton-durci/fa190568/83465",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12390-6",
+    "statut": "ancienne_edition_annulee_remplacement_prouve",
+    "references_proposees": [
+      "NF EN 12390-6 — novembre 2023"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 12390-6 avril 2012 et remplacement 2023",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123906/essais-pour-beton-durci-partie-6-determination-de-la-resistance-en-traction/fa163501/39060",
+        "repere": "Rubrique norme remplacée par : novembre2023 en vigueur ; édition2012 annulée."
+      }
+    ],
+    "controle": "Essai de traction par fendage d'éprouvettes. Référence actuelle proposée, sans importer le contenu payant de l'essai ni en déduire une règle de décompte."
+  },
+  {
+    "reference_cours": "DIN 4030-2",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "DIN 4030-2:2024-07"
+    ],
+    "sources": [
+      {
+        "titre": "DIN Media — DIN 4030-2:2024-07",
+        "url": "https://www.dinmedia.de/de/norm/din-4030-2/372561800",
+        "repere": "Norme marquée AKTUELL ; remplace DIN4030-2:2008-06 ; notice consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Échantillonnage et analyse des eaux et sols agressifs pour le béton. Le statut allemand n'en impose pas l'application automatique en France ou au Luxembourg ; vérifier le marché et les règles nationales."
+  },
+  {
+    "reference_cours": "ISO 4316",
+    "statut": "publiee_actuelle_revision_en_cours",
+    "references_proposees": [
+      "ISO 4316:1977"
+    ],
+    "sources": [
+      {
+        "titre": "ISO — ISO 4316:1977",
+        "url": "https://www.iso.org/standard/10185.html",
+        "repere": "Statut Published, version encore current ; confirmation2019, révision ISO/DIS4316 en cours ; consultée le 13 novembre2026."
+      }
+    ],
+    "controle": "Détermination potentiométrique du pH des solutions aqueuses d'agents de surface. Ne pas remplacer par un projet DIS ni généraliser son domaine à toute analyse géotechnique."
+  },
+  {
+    "reference_cours": "FD P18-011",
+    "statut": "fascicule_documentation_en_vigueur",
+    "references_proposees": [
+      "FD P18-011 — juin 2022"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — FD P18-011",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/fd-p18011/beton-definition-et-classification-des-environnements-chimiquement-agressif/fa204582/328696",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Recommandations pour les environnements chimiquement agressifs. Fascicule de documentation, à distinguer d'une norme d'exécution et à articuler avec la version de NF EN206/CN du marché."
+  },
+  {
+    "reference_cours": "NF EN 197-1",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 197-1 — avril 2012"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 197-1",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1971/ciment-partie-1-composition-specifications-et-criteres-de-conformite-des-ci/fa149898/1234",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Ciments courants. Une autre partie ou norme de ciment peut viser d'autres compositions ; aucune substitution automatique de tous les ciments ni dosage universel n'est déduit."
+  },
+  {
+    "reference_cours": "NF EN 12620",
+    "statut": "version_amendee_en_vigueur",
+    "references_proposees": [
+      "NF EN 12620+A1 — juin 2008"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN12620+A1",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-12620-a1/granulats-pour-beton/fa157250/31276",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Granulats pour béton ; notice de la version amendée en vigueur vérifiée. Les caractéristiques requises dépendent du béton et du marché."
+  },
+  {
+    "reference_cours": "NF EN 934-2",
+    "statut": "version_amendee_en_vigueur",
+    "references_proposees": [
+      "NF EN 934-2+A1 — août 2012"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN934-2+A1",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-9342-a1/adjuvants-pour-betons-mortier-et-coulis-partie-2-adjuvants-pour-beton-defin/fa178669/1262",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Adjuvants pour béton : caractéristiques des produits, pas prescriptions universelles de dosage ou de métré."
+  },
+  {
+    "reference_cours": "NF EN 1008",
+    "statut": "en_vigueur",
+    "references_proposees": [
+      "NF EN 1008 — juillet 2003"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN1008",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1008/eau-de-gachage-pour-betons-specifications-dechantillonnage-dessais-et-deval/fa027978/21631",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Eau de gâchage pour béton : échantillonnage, essais et aptitude à l'emploi ; date ancienne ne signifie pas annulation."
+  },
+  {
+    "reference_cours": "FD P18-503",
+    "statut": "fascicule_documentation_en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "FD P18-503 — décembre 2023"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — FD P18-503",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/fd-p18503/surfaces-et-parements-de-beton-elements-didentification/fa207953/355352",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Surfaces et parements de béton : remplace juin2021. Fascicule de documentation ; les niveaux d'acceptation du parement sont à prescrire au marché."
+  },
+  {
+    "reference_cours": "NF EN 12504-2",
+    "statut": "en_vigueur_edition_identifiee",
+    "references_proposees": [
+      "NF EN 12504-2 — juillet 2021"
+    ],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN12504-2",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-125042/essais-pour-beton-dans-les-structures-partie-2-essais-non-destructifs-deter/fa195835/263915",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Indice de rebondissement au scléromètre ; ne pas assimiler directement cet indice à une résistance sans la procédure d'évaluation applicable."
+  },
+  {
+    "reference_cours": "Eurocode 1",
+    "statut": "serie_generique_a_preciser",
+    "references_proposees": [],
+    "sources": [
+      {
+        "titre": "AFNOR Normalisation — Eurocodes",
+        "url": "https://normalisation.afnor.org/thematiques/eurocodes/",
+        "repere": "Organisation des Eurocodes, famille EN1991 ; notice générale, pas un contrôle exhaustif des éditions de chaque partie."
+      }
+    ],
+    "controle": "Famille de normes de calcul des actions sur les structures. Sélectionner les parties, amendements, génération et annexes nationales formant un ensemble cohérent pour le marché ; aucune partie particulière imposée par cette entrée générique."
+  },
+  {
+    "reference_cours": "Eurocode 3",
+    "statut": "serie_generique_a_preciser",
+    "references_proposees": [],
+    "sources": [
+      {
+        "titre": "AFNOR Normalisation — Eurocodes",
+        "url": "https://normalisation.afnor.org/thematiques/eurocodes/",
+        "repere": "Organisation des Eurocodes, famille EN1993 ; notice générale, pas un contrôle exhaustif des éditions de chaque partie."
+      }
+    ],
+    "controle": "Famille de normes de calcul des structures en acier. Sélectionner les parties, amendements, génération et annexes nationales formant un ensemble cohérent pour le marché ; aucune partie particulière imposée par cette entrée générique."
+  },
+  {
+    "reference_cours": "Eurocode 4",
+    "statut": "serie_generique_a_preciser",
+    "references_proposees": [],
+    "sources": [
+      {
+        "titre": "AFNOR Normalisation — Eurocodes",
+        "url": "https://normalisation.afnor.org/thematiques/eurocodes/",
+        "repere": "Organisation des Eurocodes, famille EN1994 ; notice générale, pas un contrôle exhaustif des éditions de chaque partie."
+      }
+    ],
+    "controle": "Famille de normes de calcul des structures mixtes acier-béton. Sélectionner les parties, amendements, génération et annexes nationales formant un ensemble cohérent pour le marché ; aucune partie particulière imposée par cette entrée générique."
+  },
+  {
+    "reference_cours": "Eurocode 2",
+    "statut": "ensemble_a_confirmer_transition_generations",
+    "references_proposees": [],
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN1992-1-1 octobre2005",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784",
+        "repere": "Notice ancienne génération toujours indiquée en vigueur."
+      },
+      {
+        "titre": "AFNOR — NF EN1992-1-1/NA août2026",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211-na/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa300691/604320",
+        "repere": "Notice août2026 en vigueur ; résumé renvoie à la nouvelle EN1992-1-1 ratifiée2023, alors que le titre conserve la mention2005 : incohérence de catalogue signalée, pas fusion automatique."
+      },
+      {
+        "titre": "Commission européenne JRC — seconde génération des Eurocodes",
+        "url": "https://eurocodes.jrc.ec.europa.eu/second-generation-eurocodes",
+        "repere": "Calendrier général DoP30septembre2027, DoW30mars2028 et nécessité des annexes/plans nationaux."
+      }
+    ],
+    "controle": "Le simple nom Eurocode2 est insuffisant : choisir génération, parties et annexes nationales cohérentes du marché. Ne pas recycler les formules BAEL sous une étiquette Eurocode, ni mélanger annexes de générations différentes."
+  },
+  {
+    "reference_cours": "CPT Planchers titre II",
+    "statut": "ancien_referentiel_edition_et_domaine_a_confirmer",
+    "references_proposees": [
+      "NF DTU 23.4 — juillet2021, domaine des prédalles industrialisées à vérifier"
+    ],
+    "sources": [
+      {
+        "titre": "BNIB — période de transition pour les planchers à prédalles",
+        "url": "https://www.bnib.fr/2020/06/19/periode-de-transition-planchers-a-predalles-beton/",
+        "repere": "Annonce de la transition CPTPlanchers titreII édition2016, cahier2892-V2, jusqu’à publication NFDTU23.4."
+      },
+      {
+        "titre": "AFNOR — NF DTU23.4 juillet2021",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa202736/239452",
+        "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026."
+      }
+    ],
+    "controle": "Référence ancienne incomplète sans édition. NFDTU23.4 actuel concerne les prédalles industrialisées ; confirmer le système, son domaine traditionnel ou son Avis technique avant remplacement. Ne pas remplacer par DTU23.2 qui vise les dalles alvéolées."
+  }
+]

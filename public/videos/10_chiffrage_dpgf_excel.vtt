@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.446
+Dans l’étude de prix, les quantités de la minute alimentent les sous-détails. Renseigne le coût de
+
+2
+00:00:06.446 --> 00:00:13.294
+main-d’œuvre, les matériaux et le matériel. Le déboursé sec est ensuite multiplié par le coefficient de vente
+
+3
+00:00:13.294 --> 00:00:20.143
+choisi. Les méthodes de coefficient sont explicites. Contrôle les prix manquants, la TVA, les arrondis et les
+
+4
+00:00:20.143 --> 00:00:26.589
+totaux par lot. Le bordereau client Excel exclut les coûts internes ; l’étude interne conserve les
+
+5
+00:00:26.589 --> 00:00:28.200
+sous-détails pour ta vérification.

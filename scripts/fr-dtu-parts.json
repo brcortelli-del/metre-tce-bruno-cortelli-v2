@@ -1,0 +1,531 @@
+[
+  {
+    "id": "FR_DTU_13_1",
+    "nom": "NF DTU 13.1 — Fondations superficielles",
+    "parties": [
+      {
+        "code": "NF DTU 13.1 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "septembre 2019",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p11/travaux-de-batiment-fondations-superficielles-partie-11-cahier-des-clauses-/fa193423/323032"
+      },
+      {
+        "code": "NF DTU 13.1 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "septembre 2019",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p12/dtu-131-travaux-de-batiment-fondations-superficielles-partie-12-criteres-ge/fa193424/323015"
+      },
+      {
+        "code": "NF DTU 13.1 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "septembre 2019",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p2/travaux-de-batiment-fondations-superficielles-partie-2-cahier-des-clauses-a/fa193425/323161"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Définir le mesurage au bordereau et dans les pièces du marché. La notice de P2 établit son objet administratif ; elle ne permet pas de vérifier une convention de déduction ou un seuil. Calcul géométrique et quantité contractuellement payable doivent rester distingués.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "L'édition de 2019 remplace les anciens DTU13.11/13.12 ; respecter son domaine et l'étude géotechnique. CCT signifie cahier des clauses techniques types : il sert à rédiger le CCTP du chantier, sans être lui-même un CCTP particulier. Aucun seuil inventé."
+  },
+  {
+    "id": "FR_DTU_13_2",
+    "nom": "NF DTU 13.2 — Fondations profondes",
+    "parties": [
+      {
+        "code": "NF DTU 13.2 P1-1",
+        "titre": "Éléments relatifs à l’exécution — Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "mai 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p11/travaux-de-batiment-fondations-profondes-partie-11-elements-relatifs-a-lexe/fa196703/323092"
+      },
+      {
+        "code": "NF DTU 13.2 P1-2",
+        "titre": "Critères de choix des matériaux",
+        "role": "CGM",
+        "millesime": "mai 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p12/travaux-de-batiment-fondations-profondes-partie-12-criteres-de-choix-des-ma/fa196704/323044"
+      },
+      {
+        "code": "NF DTU 13.2 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "mai 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p2/travaux-de-batiment-fondations-profondes-partie-2-cahier-des-clauses-admini/fa196705/323010"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Le sommaire public AFNOR de P2 identifie un chapitre6 relatif au règlement des travaux. Son texte intégral n'a pas été consulté : aucune règle détaillée, unité de paiement, tolérance ou déduction n'est déduite du seul intitulé. Lire les stipulations rendues contractuelles.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "P1-1 complète les normes d'exécution des pieux, micropieux et barrettes dans son domaine, sans s'y substituer. La présence d'un chapitre de règlement n'autorise pas à inventer ses conventions. Distinction nécessaire entre CCT d'exécution, CGM et CCS."
+  },
+  {
+    "id": "FR_DTU_13_3",
+    "nom": "NF DTU 13.3 — Travaux de dallages : conception, calcul et exécution",
+    "parties": [
+      {
+        "code": "NF DTU 13.3 P1-1-1",
+        "titre": "Cahier des clauses techniques types des dallages hors maisons individuelles",
+        "role": "CCT_HORS_MAISONS_INDIVIDUELLES",
+        "millesime": "décembre 2021",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p111/travaux-de-dallages-conception-calcul-et-execution-partie-111-cahier-des-cl/fa190587/317637"
+      },
+      {
+        "code": "NF DTU 13.3 P1-1-2",
+        "titre": "Cahier des clauses techniques types des dallages de maisons individuelles",
+        "role": "CCT_MAISONS_INDIVIDUELLES",
+        "millesime": "décembre 2021",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p112/travaux-de-dallages-conception-calcul-et-execution-partie-112-cahier-des-cl/fa190588/317419"
+      },
+      {
+        "code": "NF DTU 13.3 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "décembre 2021",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p12/travaux-de-dallages-conception-calcul-et-execution-partie-12-criteres-gener/fa190589/317352"
+      },
+      {
+        "code": "NF DTU 13.3 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "décembre 2021",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p2/travaux-de-dallages-conception-calcul-et-execution-partie-2-cahier-des-clau/fa190590/317688"
+      }
+    ],
+    "regle_metre": {
+      "texte": "La surface, le volume, les couches et les déductions à retenir pour le règlement doivent être précisés par les pièces du marché. Les notices ne démontrent aucun seuil numérique de non-déduction applicable automatiquement.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Ce DTU comprend quatre parties, avec deux CCT distincts selon le type d'ouvrage. Ne pas créer un unique P1-1 fictif, ni appliquer les dispositions hors maisons individuelles au cas maison individuelle sans contrôler le domaine. Dallage sur terre-plein et plancher porté ne sont pas interchangeables. Une dalle portée relève des référentiels d'exécution et du système concernés, notamment NFDTU21 ou NFDTU23.x, et non automatiquement du DTU13.3 des dallages."
+  },
+  {
+    "id": "FR_DTU_20_1",
+    "nom": "NF DTU 20.1 — Maçonnerie de petits éléments : parois et murs",
+    "parties": [
+      {
+        "code": "NF DTU 20.1 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "juillet 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p11/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181579/323052"
+      },
+      {
+        "code": "NF DTU 20.1 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "juillet 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p12/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181580/323134"
+      },
+      {
+        "code": "NF DTU 20.1 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "juillet 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p2/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181581/323047"
+      },
+      {
+        "code": "NF DTU 20.1 P3",
+        "titre": "Dispositions constructives minimales",
+        "role": "DISPOSITIONS_CONSTRUCTIVES",
+        "millesime": "juillet 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p3/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa168781/323086"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Aucun seuil de déduction des baies, ni traitement contractuel des tableaux, retours ou linteaux, n'a été vérifié dans les seules notices publiques. Définir ces conventions au marché ; ne pas attribuer au DTU20.1 une règle générale de déduction au-delà de0,50m².",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "L'édition2020 comporte une P3 de dispositions constructives minimales, en complément des trois parties CCT/CGM/CCS. Norme de mise en œuvre et dispositions constructives ne valent pas automatiquement règle générale de quantification. Ne pas substituer Eurocode6 au DTU d'exécution."
+  },
+  {
+    "id": "FR_DTU_21",
+    "nom": "NF DTU 21 — Exécution des ouvrages en béton",
+    "parties": [
+      {
+        "code": "NF DTU 21 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "juin 2017",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p11/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-11-cahier/fa164660/322933"
+      },
+      {
+        "code": "NF DTU 21 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "juin 2017",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p12/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-12-criter/fa166676/323041"
+      },
+      {
+        "code": "NF DTU 21 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "juin 2017",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p2/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-2-cahier-/fa166677/323178"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Le sommaire public AFNOR de P2 présente les domaines, références, consistance, coordination et difficultés techniques ; il ne présente pas de chapitre de décompte. La vérification effectuée ne démontre aucun seuil de non-déduction de0,05m³. Les conventions de règlement du béton, des aciers et du coffrage doivent être établies par les documents contractuels.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Ne pas attribuer au NFDTU21 un seuil de0,05m³ sur la seule existence de P2. Le CCT d'exécution, les critères des matériaux et les clauses administratives ont des rôles distincts ; ils ne dispensent pas d'une règle de mesurage contractuelle explicite. Ne pas remplacer ce DTU par Eurocode2 : leurs fonctions diffèrent."
+  },
+  {
+    "id": "FR_DTU_23_1",
+    "nom": "DTU 23.1 — Murs en béton banché",
+    "parties": [
+      {
+        "code": "NF P18-210",
+        "titre": "DTU23.1 — Cahier des clauses techniques, partie1",
+        "role": "CCT_STRUCTURE_ANCIENNE",
+        "millesime": "mai 1993",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p18210/dtu-231-travaux-de-batiment-murs-en-beton-banche-cahier-des-clauses-techniq/fa029709/290"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Le statut actuel du cahier technique est vérifié. Aucune convention de mesurage ni déduction n'a été vérifiée dans la notice ; préciser au marché le décompte des voiles, réservations, coffrages et retours.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "La liste CSTB des DTU en vigueur identifie ici une partie1 codifiée NF P18-210. Respecter cette structure historique : ne pas inventer NFDTU23.1P1-1, P1-2 ou P2. Le millésime1993 reste indiqué en vigueur ; sa seule ancienneté ne prouve pas une annulation."
+  },
+  {
+    "id": "FR_DTU_23_2",
+    "nom": "NF DTU 23.2 — Planchers à dalles alvéolées préfabriquées en béton",
+    "parties": [
+      {
+        "code": "NF DTU 23.2 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "août 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p11/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154781/323135"
+      },
+      {
+        "code": "NF DTU 23.2 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "août 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p12/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154782/322924"
+      },
+      {
+        "code": "NF DTU 23.2 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "août 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p2/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154783/322936"
+      },
+      {
+        "code": "NF DTU 23.2 P3",
+        "titre": "Règles de calculs",
+        "role": "REGLES_DE_CALCUL",
+        "millesime": "août 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p3/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154784/323128"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Les notices et la liste CSTB permettent d'identifier quatre parties, mais ne prouvent pas une règle chiffrée de mesurage des dalles alvéolées, trémies et rives. Lire le CCS et les pièces contractuelles applicables avant d'automatiser une convention.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Domaine des dalles alvéolées, à distinguer des prédalles et des poutrelles-entrevous. P3 est une partie de calcul, pas une règle de règlement. Le résumé de la notice web P1-1 comporte une anomalie étrangère au sujet ; seules identité, date, statut et partie, corroborés par la liste CSTB, sont retenus."
+  },
+  {
+    "id": "FR_DTU_23_4",
+    "nom": "NF DTU 23.4 — Planchers à prédalles industrialisées en béton",
+    "parties": [
+      {
+        "code": "NF DTU 23.4 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "juillet 2021, tirage2 février2023",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p11/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa159042/323094"
+      },
+      {
+        "code": "NF DTU 23.4 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "juillet 2021",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p12/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa159040/323101"
+      },
+      {
+        "code": "NF DTU 23.4 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "juillet 2021",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p2/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-2/fa159043/321831"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Aucune règle de déduction ou de paiement n'a été vérifiée au texte intégral. Le marché doit préciser surfaces, limites des prestations de prédalle et béton complémentaire, trémies et accessoires ; ne pas assimiler une simple surface géométrique à la quantité payable sans convention.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Vérifier que le procédé relève du domaine du DTU ou de son évaluation technique. Une ancienne référence générique au CPTPlanchers titreII doit être datée et rattachée au système concerné ; NFDTU23.4 ne doit pas être appliqué indistinctement aux dalles alvéolées ou aux poutrelles."
+  },
+  {
+    "id": "FR_DTU_23_5",
+    "nom": "NF DTU 23.5 — Planchers à poutrelles en béton",
+    "parties": [
+      {
+        "code": "NF DTU 23.5 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "mai 2019",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p11/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-11-cahie/fa190170/322987"
+      },
+      {
+        "code": "NF DTU 23.5 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "mai 2019",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p12/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-12-crite/fa190171/323105"
+      },
+      {
+        "code": "NF DTU 23.5 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "mai 2019",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p2/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-2-cahier/fa190172/323149"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Le sommaire de P2 expose consistance, coordination et traitement des difficultés techniques ; il ne démontre pas de seuil universel de déduction. Fixer au marché le mesurage des planchers, trémies, chevêtres et composants distincts.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Référence pertinente pour les systèmes industriels de poutrelles-entrevous dans son domaine. Ne pas appliquer le NFDTU23.2 des dalles alvéolées ni le NFDTU23.4 des prédalles par simple analogie. Le CCT fournit des spécifications types pour le CCTP ; le CCS ne se lit pas comme une table de seuils supposés."
+  },
+  {
+    "id": "FR_DTU_14_1",
+    "nom": "NF DTU14.1 — Travaux de cuvelage",
+    "parties": [
+      {
+        "code": "NF DTU 14.1 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "novembre 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p11/travaux-de-batiment-travaux-de-cuvelage-partie-11-cahier-des-clauses-techni/fa190167/323080"
+      },
+      {
+        "code": "NF DTU 14.1 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "novembre 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p12/travaux-de-batiment-travaux-de-cuvelage-partie-12-criteres-generaux-de-choi/fa190168/323124"
+      },
+      {
+        "code": "NF DTU 14.1 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "novembre 2020",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p2/travaux-de-batiment-travaux-de-cuvelage-partie-2-cahier-des-clauses-adminis/fa190169/323196"
+      }
+    ],
+    "regle_metre": {
+      "texte": "La notice identifie les clauses techniques, le choix des matériaux et les clauses administratives du cuvelage ; elle ne prouve aucun seuil de déduction, ni convention de mesurage des retours, raccords ou points singuliers. Préciser ces prestations et les unités au marché.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Cuvelage de la partie immergée d'un bâtiment dans le domaine du DTU ; ne pas assimiler une simple protection de soubassement ou un drainage à un cuvelage. Pour l'ouvrage GO-F23, sélectionner le système et ses performances au projet. Les notices ne permettent pas de certifier son adéquation ni un mode de règlement chiffré."
+  },
+  {
+    "id": "FR_DTU_64_1",
+    "nom": "NF DTU64.1 — Assainissement non collectif des maisons individuelles jusqu’à20pièces principales",
+    "parties": [
+      {
+        "code": "NF DTU 64.1 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "août 2013, tirage2 août2013",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p11/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167571/323100"
+      },
+      {
+        "code": "NF DTU 64.1 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "août 2013",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p12/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167570/323129"
+      },
+      {
+        "code": "NF DTU 64.1 P2",
+        "titre": "Cahier des clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "août 2013",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p2/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167569/322982"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Aucune convention chiffrée de déduction ou de règlement n'a été vérifiée au texte intégral. Décrire séparément les équipements, conduites, fouilles et ouvrages de traitement effectivement prévus, et leurs limites de fourniture selon le marché.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Référence d'assainissement non collectif pour maisons individuelles dans son domaine ; ne pas la traiter comme une norme générale de tous les réseaux VRD ou collecteurs publics. La limite indiquée par son titre est20pièces principales, à ne pas convertir arbitrairement en20équivalents-habitants. L'ancienne XP P16-603 est historique."
+  },
+  {
+    "id": "FR_DTU_60_11",
+    "nom": "NF DTU60.11 — Calcul des installations de plomberie sanitaire et d’eaux pluviales",
+    "parties": [
+      {
+        "code": "NF DTU 60.11 P1-1",
+        "titre": "Réseaux d’alimentation d’eau froide et chaude sanitaire",
+        "role": "CALCUL_RESEAUX_EFS_ECS",
+        "millesime": "août 2013",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p11/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa155244/323122"
+      },
+      {
+        "code": "NF DTU 60.11 P1-2",
+        "titre": "Conception et dimensionnement des réseaux bouclés",
+        "role": "CONCEPTION_DIMENSIONNEMENT_BOUCLAGE_ECS",
+        "millesime": "août 2013",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p12/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175666/323123"
+      },
+      {
+        "code": "NF DTU 60.11 P2",
+        "titre": "Évacuation des eaux usées et des eaux vannes",
+        "role": "CALCUL_EVACUATION_EU_EV",
+        "millesime": "août 2013",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p2/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175665/323062"
+      },
+      {
+        "code": "NF DTU 60.11 P3",
+        "titre": "Évacuation des eaux pluviales",
+        "role": "CALCUL_EVACUATION_EP",
+        "millesime": "août 2013, tirage2 octobre2013",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p3/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175664/323131"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Ces parties donnent des règles de conception et de dimensionnement des installations de bâtiment. Aucune règle de mesurage contractuel ou de déduction n'en est déduite ; définir le règlement des longueurs, équipements et accessoires dans les documents du marché.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Structure particulière à respecter : P1-1 n'est pas un CCT, P1-2 n'est pas un CGM et P2 n'est pas un CCS. P2 traite du calcul des évacuations EU/EV, P3 des EP. Ne pas appliquer ces règles de réseaux de bâtiment à l'ensemble des réseaux VRD par défaut ; choisir la partie et vérifier le domaine du tronçon étudié."
+  },
+  {
+    "id": "FR_DTU_20_13",
+    "nom": "NF DTU20.13 — Cloisons en maçonnerie de petits éléments",
+    "parties": [
+      {
+        "code": "NF DTU 20.13 P1-1",
+        "titre": "Cahier des clauses techniques types",
+        "role": "CCT",
+        "millesime": "octobre 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p11/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-11-cah/fa151066/322971"
+      },
+      {
+        "code": "NF DTU 20.13 P1-1/A1",
+        "titre": "Amendement1 au cahier des clauses techniques types",
+        "role": "AMENDEMENT_CCT",
+        "millesime": "juillet 2016",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p11-a1/travaux-de-batiments-cloisons-en-maconnerie-de-petits-elements-partie-11-ca/fa063368/57509"
+      },
+      {
+        "code": "NF DTU 20.13 P1-2",
+        "titre": "Critères généraux de choix des matériaux",
+        "role": "CGM",
+        "millesime": "octobre 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p12/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-12-cri/fa151067/323158"
+      },
+      {
+        "code": "NF DTU 20.13 P1-2/A1",
+        "titre": "Amendement1 aux critères généraux de choix des matériaux",
+        "role": "AMENDEMENT_CGM",
+        "millesime": "juillet 2016",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p12-a1/travaux-de-batiments-cloisons-en-maconnerie-de-petits-elements-partie-12-cr/fa063369/57510"
+      },
+      {
+        "code": "NF DTU 20.13 P2",
+        "titre": "Cahier de clauses administratives spéciales types",
+        "role": "CCS",
+        "millesime": "octobre 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p2/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-2-cahi/fa125242/322969"
+      },
+      {
+        "code": "NF DTU 20.13 P3",
+        "titre": "Mémento",
+        "role": "MEMENTO",
+        "millesime": "octobre 2008",
+        "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p3/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-3-meme/fa125243/323183"
+      },
+      {
+        "code": "NF DTU 20.13 P3/A1",
+        "titre": "Amendement1 au mémento",
+        "role": "AMENDEMENT_MEMENTO",
+        "millesime": "juin 2016",
+        "statut": "en_vigueur_liste_CSTB_fevrier2026_verifiee_2026-11-13",
+        "url": "https://boutique.cstb.fr/getattachment/69975ed5-11eb-451d-91cb-74116a8312d5/Liste-DTU-Fevrier-2026.pdf"
+      }
+    ],
+    "regle_metre": {
+      "texte": "Le sommaire public de P2 décrit la consistance des travaux et la coordination ; aucun seuil numérique de déduction n'y est établi. Les ouvertures, retours, tableaux et prestations accessoires doivent être réglés selon les conventions explicites du marché.",
+      "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+      "seuil_m3": null,
+      "seuil_m2": null
+    },
+    "alerte": "Pour les cloisons non porteuses de petits éléments maçonnés dans son domaine, à distinguer des murs porteurs du DTU20.1 et des cloisons sèches. Quatre parties de base et trois amendements2016 identifiés ; ne pas oublier les amendements en conservant seulement2008. Aucun seuil0,50m²supposé n'est attribué au CCS."
+  }
+]

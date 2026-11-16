@@ -1,0 +1,12 @@
+export const DEFAULT_LOTS=['Terrassement','Fondations','Soubassements','Gros œuvre','Charpente','Couverture','Étanchéité','Menuiseries extérieures','Menuiseries intérieures','Plâtrerie / Isolation','Électricité','Plomberie / Chauffage','Revêtements de sol','Peinture','VRD'];
+export const ROLES={owner:'Dirigeant · propriétaire',dirigeant:'Dirigeant',metreur:'Métreur',conducteur:'Conducteur de travaux'};
+export const DEFAULT_SETTINGS={vat:20,currency:'EUR',sellMode:'coefficient',k:1.3,overhead:15,risk:3,margin:10,hourlyRate:35};
+const component=(name,unit,ratio,waste=0)=>({id:crypto.randomUUID(),name,unit,ratio,waste,unitCost:null,supplier:'À définir',packSize:1});
+export function defaultAssemblies(){return[
+{id:'cloison-ba13',name:'Cloison BA13 double face — exemple à adapter',unit:'m²',hours:.45,equipment:0,components:[component('Plaque BA13','m²',2,5),component('Rails','m',.8,5),component('Montants','m',2.4,5),component('Isolant','m²',1,5),component('Bandes','m',2.8,5),component('Vis','u',30,5)]},
+{id:'beton',name:'Béton mis en œuvre',unit:'m³',hours:0,equipment:0,components:[component('Béton','m³',1,5)]},
+{id:'carrelage',name:'Carrelage — fourniture seule',unit:'m²',hours:0,equipment:0,components:[component('Carrelage','m²',1,10)]},
+{id:'parpaings',name:'Maçonnerie blocs 20 × 20 × 50 — exemple',unit:'m²',hours:0,equipment:0,components:[component('Parpaing 20 × 20 × 50','u',10,5)]}];}
+export function normalizeProjectFields(data){return{
+meta:{address:'',client:'',architect:'',studyDate:new Date().toISOString().slice(0,10),...(data.meta||{})},
+settings:{...DEFAULT_SETTINGS,...(data.settings||{})},lots:Array.isArray(data.lots)?data.lots:DEFAULT_LOTS.slice(),spaces:Array.isArray(data.spaces)?data.spaces:[],variables:Array.isArray(data.variables)?data.variables:[],assemblies:Array.isArray(data.assemblies)?data.assemblies:defaultAssemblies(),bpu:Array.isArray(data.bpu)?data.bpu:[],ratios:Array.isArray(data.ratios)?data.ratios:[{name:'Fondations — hypothèse du devoir 4',value:25,unit:'kg/m³'},{name:'Dalle — à renseigner selon étude',value:null,unit:'kg/m³'},{name:'Poteau — à renseigner selon étude',value:null,unit:'kg/m³'}],revisions:Array.isArray(data.revisions)?data.revisions:[],cloudId:typeof data.cloudId==='string'?data.cloudId:null,cloudVersion:Number.isInteger(data.cloudVersion)?data.cloudVersion:0,draftDirty:!!data.draftDirty,approval:data.approval||null};}

@@ -1,0 +1,1462 @@
+{
+  "referentiel_normes_france": [
+    {
+      "code_norme": "CCTG fascicule 2",
+      "titre_officiel": "Terrassements généraux",
+      "statut": "Référence contractuelle — liste consolidée au19octobre2026",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne référence à l’arrêté du3janvier2003.",
+      "impact_metre_et_calcul": "Règles de paiement et attachements selon fascicule et pièces effectivement incorporés ; pas d’édition2026 du fascicule déduite de la seule mise à jour de la liste.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir CCTG fascicule 2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "CCTG fascicules 70-I / 70-II",
+      "titre_officiel": "Ouvrages d’assainissement — canalisations à écoulement à surface libre et gestion des eaux pluviales",
+      "statut": "Référence contractuelle — parties de mai2021 dans liste consolidée2026",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "CCTG fascicule70 générique du cours.",
+      "impact_metre_et_calcul": "Choisir la partie selon l’ouvrage et préciser contrôles, réception, attachements et unités au bordereau.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir CCTG fascicules 70-I / 70-II, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Code de la commande publique",
+      "titre_officiel": "Code de la commande publique",
+      "statut": "Réglementation — code consolidé au13novembre2026",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancien Code des marchés publics / décret du1eraoût2006 cité L1 p.37.",
+      "impact_metre_et_calcul": "Identifier les pièces et le mode de prix du marché ; les mesurages, constats et quantités payables dépendent du contrat. Pas de seuil de baie tiré du seul code.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Code de la commande publique, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Code de l’environnement R554-20 / R554-25",
+      "titre_officiel": "Consultation du guichet unique au stade du projet",
+      "statut": "Réglementation — domaine et version consolidée vérifiés",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Repérage des réseaux et sécurité des travaux à proximité des ouvrages enterrés évoqués dans les cours ; ne pas conserver le seul décret de 1965 comme référence.",
+      "impact_metre_et_calcul": "Prévoir, lorsque le projet et le marché les justifient, les investigations, sondages, protections et sujétions de terrassement à proximité des réseaux. Aucun pourcentage de majoration automatique n’est vérifié.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Code de l’environnement R554-20 / R554-25, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Code du travail R4534-22 à R4534-39",
+      "titre_officiel": "Terrassements à ciel ouvert",
+      "statut": "Réglementation — domaine et version consolidée vérifiés",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Livre 1, p. 107-108 : décret n° 65-48 du 8 janvier 1965, titre IV et article 178.",
+      "impact_metre_et_calcul": "Détailler les protections, profils et emprises justifiés par les plans et l’étude. Aucun seuil de déduction, pente universelle ou coefficient de volume n’est créé par cette règle de sécurité.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Code du travail R4534-22 à R4534-39, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "DIN 4030-2:2024-07",
+      "titre_officiel": "Évaluation des eaux, sols et gaz agressifs pour le béton — Partie2 : prélèvement et analyse des échantillons d’eau et de sol",
+      "statut": "En vigueur — DIN 4030-2:2024-07",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "DIN 4030-2",
+      "impact_metre_et_calcul": "Échantillonnage et analyse des eaux et sols agressifs pour le béton. Le statut allemand n'en impose pas l'application automatique en France ou au Luxembourg ; vérifier le marché et les règles nationales. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir DIN 4030-2:2024-07, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "DTU 11.1",
+      "titre_officiel": "Sondage des sols de fondation",
+      "statut": "Annulé — aucun remplacement unique établi",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "DTU11.1 historique ; déjà signalé retiré dans L1 p.107.",
+      "impact_metre_et_calcul": "Définir mission, reconnaissance et méthodes d’essai avec le géotechnicien. Aucune classe de sol ni méthode actuelle déduite d’un ancien DTU.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "DTU 12",
+      "titre_officiel": "Terrassement pour le bâtiment",
+      "statut": "Annulé — aucun remplacement unique et équivalent établi",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "DTU12 historique ; déjà signalé retiré dans L1 p.107.",
+      "impact_metre_et_calcul": "Revoir classification, profils, sécurité, réemploi et contrôles avec les études et le marché. Ni le foisonnement ni le mesurage payable ne sont universels.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "Décret2009-697, article17",
+      "titre_officiel": "Décret du16juin2009 relatif à la normalisation",
+      "statut": "Réglementation — article17 consolidé vérifié",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "L1 p.24/40 présente trop généralement les normes comme rendues applicables par décret.",
+      "impact_metre_et_calcul": "Distinguer application volontaire, obligation rendue par arrêté et engagement contractuel. Aucun DTU n’est déclaré universellement obligatoire par ce registre.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Décret2009-697, article17, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "FD P15-010",
+      "titre_officiel": "Liants hydrauliques - Guide d'utilisation des ciments",
+      "statut": "En vigueur — octobre 1997 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancien P15-010, selon notice.",
+      "impact_metre_et_calcul": "Guide documentaire ; il ne remplace pas les spécifications actuelles des ciments ni NF EN206.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir FD P15-010, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "FD P18-011",
+      "titre_officiel": "Béton — Définition et classification des environnements chimiquement agressifs",
+      "statut": "Document en vigueur — juin 2022",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "FD P18-011",
+      "impact_metre_et_calcul": "Recommandations pour les environnements chimiquement agressifs. Fascicule de documentation, à distinguer d'une norme d'exécution et à articuler avec la version de NF EN206/CN du marché. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir FD P18-011, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "FD P18-326",
+      "titre_officiel": "Béton - Zones de gel en France",
+      "statut": "En vigueur — août 2016 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancien FD P18-326 novembre2004.",
+      "impact_metre_et_calcul": "Guide des zones de gel ; ne pas attribuer une classe d’exposition complète à partir de la seule commune.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir FD P18-326, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "FD P18-503",
+      "titre_officiel": "Surfaces et parements de béton — Éléments d’identification",
+      "statut": "Document en vigueur — décembre 2023",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "FD P18-503",
+      "impact_metre_et_calcul": "Surfaces et parements de béton : remplace juin2021. Fascicule de documentation ; les niveaux d'acceptation du parement sont à prescrire au marché. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir FD P18-503, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "ISO 4316:1977",
+      "titre_officiel": "Agents de surface — Détermination du pH des solutions aqueuses — Méthode potentiométrique",
+      "statut": "En vigueur — ISO 4316:1977",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "ISO 4316",
+      "impact_metre_et_calcul": "Détermination potentiométrique du pH des solutions aqueuses d'agents de surface. Ne pas remplacer par un projet DIS ni généraliser son domaine à toute analyse géotechnique. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir ISO 4316:1977, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF A 45-003",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A 45-003",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF A 45-008",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A 45-008",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF A 45-009",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A 45-009",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF A 45-202",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A 45-202",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF A35-024",
+      "titre_officiel": "Aciers pour béton armé — Treillis soudés de surface constitués de fils de diamètre inférieur à5mm",
+      "statut": "En vigueur — juillet 2019",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A35-024",
+      "impact_metre_et_calcul": "Treillis soudés de surface en fils de diamètre nominal inférieur à 5 mm. Ne pas les confondre avec les treillis structuraux du domaine NF A35-080-2. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF A35-024, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF A35-027",
+      "titre_officiel": "Produits en acier pour béton armé - Armatures",
+      "statut": "En vigueur — décembre 2015 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A35-027 janvier2003 du cours, puis édition2009.",
+      "impact_metre_et_calcul": "Armatures façonnées : fabrication, réception et identification ; conserver la nomenclature de l’étude et le domaine produit.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF A35-027, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF A35-080-1",
+      "titre_officiel": "Aciers pour béton armé — Aciers soudables — Partie1 : barres et couronnes",
+      "statut": "En vigueur — mai 2020 (barres/couronnes)",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A 35-016",
+      "impact_metre_et_calcul": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF A35-080-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF A35-080-2",
+      "titre_officiel": "Aciers pour béton armé — Aciers soudables — Partie2 : treillis soudés",
+      "statut": "En vigueur — mars 2022 (treillis, selon domaine)",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF A 35-016",
+      "impact_metre_et_calcul": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF A35-080-2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF B 10-001",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF B 10-001",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF B 10-102",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF B 10-102",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF B 10-103",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF B 10-103",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF B 10-401",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF B 10-401",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF B 10-402",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF B 10-402",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF B 10-403",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF B 10-403",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF DTU 13.1",
+      "titre_officiel": "Fondations superficielles",
+      "statut": "En vigueur — septembre 2019 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "DTU 13.11 et DTU 13.12 ; le NF DTU13.1 ne remplace pas à lui seul l’ensemble du calcul géotechnique.",
+      "impact_metre_et_calcul": "L'édition de 2019 remplace les anciens DTU13.11/13.12 ; respecter son domaine et l'étude géotechnique. CCT signifie cahier des clauses techniques types : il sert à rédiger le CCTP du chantier, sans être lui-même un CCTP particulier. Aucun seuil inventé. Définir le mesurage au bordereau et dans les pièces du marché. La notice de P2 établit son objet administratif ; elle ne permet pas de vérifier une convention de déduction ou un seuil. Calcul géométrique et quantité contractuellement payable doivent rester distingués.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 13.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 13.2",
+      "titre_officiel": "Fondations profondes",
+      "statut": "En vigueur — mai 2020 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "P1-1 complète les normes d'exécution des pieux, micropieux et barrettes dans son domaine, sans s'y substituer. La présence d'un chapitre de règlement n'autorise pas à inventer ses conventions. Distinction nécessaire entre CCT d'exécution, CGM et CCS. Le sommaire public AFNOR de P2 identifie un chapitre6 relatif au règlement des travaux. Son texte intégral n'a pas été consulté : aucune règle détaillée, unité de paiement, tolérance ou déduction n'est déduite du seul intitulé. Lire les stipulations rendues contractuelles.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 13.2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 13.3",
+      "titre_officiel": "Travaux de dallages : conception, calcul et exécution",
+      "statut": "En vigueur — décembre 2021 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "Ce DTU comprend quatre parties, avec deux CCT distincts selon le type d'ouvrage. Ne pas créer un unique P1-1 fictif, ni appliquer les dispositions hors maisons individuelles au cas maison individuelle sans contrôler le domaine. Dallage sur terre-plein et plancher porté ne sont pas interchangeables. Une dalle portée relève des référentiels d'exécution et du système concernés, notamment NFDTU21 ou NFDTU23.x, et non automatiquement du DTU13.3 des dallages. La surface, le volume, les couches et les déductions à retenir pour le règlement doivent être précisés par les pièces du marché. Les notices ne démontrent aucun seuil numérique de non-déduction applicable automatiquement.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 13.3, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 14.1",
+      "titre_officiel": "Travaux de cuvelage",
+      "statut": "En vigueur — novembre 2020 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "Cuvelage de la partie immergée d'un bâtiment dans le domaine du DTU ; ne pas assimiler une simple protection de soubassement ou un drainage à un cuvelage. Pour l'ouvrage GO-F23, sélectionner le système et ses performances au projet. Les notices ne permettent pas de certifier son adéquation ni un mode de règlement chiffré. La notice identifie les clauses techniques, le choix des matériaux et les clauses administratives du cuvelage ; elle ne prouve aucun seuil de déduction, ni convention de mesurage des retours, raccords ou points singuliers. Préciser ces prestations et les unités au marché.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 14.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 20.1",
+      "titre_officiel": "Maçonnerie de petits éléments : parois et murs",
+      "statut": "En vigueur — juillet 2020 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Anciennes éditions de P10-202 / DTU20.1 ; ne remplace pas les règles BAEL.",
+      "impact_metre_et_calcul": "L'édition2020 comporte une P3 de dispositions constructives minimales, en complément des trois parties CCT/CGM/CCS. Norme de mise en œuvre et dispositions constructives ne valent pas automatiquement règle générale de quantification. Ne pas substituer Eurocode6 au DTU d'exécution. Aucun seuil de déduction des baies, ni traitement contractuel des tableaux, retours ou linteaux, n'a été vérifié dans les seules notices publiques. Définir ces conventions au marché ; ne pas attribuer au DTU20.1 une règle générale de déduction au-delà de0,50m².",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 20.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 21",
+      "titre_officiel": "Exécution des ouvrages en béton",
+      "statut": "En vigueur — juin 2017 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P18-201 / DTU21, édition mars2004.",
+      "impact_metre_et_calcul": "Ne pas attribuer au NFDTU21 un seuil de0,05m³ sur la seule existence de P2. Le CCT d'exécution, les critères des matériaux et les clauses administratives ont des rôles distincts ; ils ne dispensent pas d'une règle de mesurage contractuelle explicite. Ne pas remplacer ce DTU par Eurocode2 : leurs fonctions diffèrent. Le sommaire public AFNOR de P2 présente les domaines, références, consistance, coordination et difficultés techniques ; il ne présente pas de chapitre de décompte. La vérification effectuée ne démontre aucun seuil de non-déduction de0,05m³. Les conventions de règlement du béton, des aciers et du coffrage doivent être établies par les documents contractuels.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 21, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 23.2",
+      "titre_officiel": "Planchers à dalles alvéolées préfabriquées en béton",
+      "statut": "En vigueur — août 2008 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "Domaine des dalles alvéolées, à distinguer des prédalles et des poutrelles-entrevous. P3 est une partie de calcul, pas une règle de règlement. Le résumé de la notice web P1-1 comporte une anomalie étrangère au sujet ; seules identité, date, statut et partie, corroborés par la liste CSTB, sont retenus. Les notices et la liste CSTB permettent d'identifier quatre parties, mais ne prouvent pas une règle chiffrée de mesurage des dalles alvéolées, trémies et rives. Lire le CCS et les pièces contractuelles applicables avant d'automatiser une convention.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 23.2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 23.4",
+      "titre_officiel": "Planchers à prédalles industrialisées en béton",
+      "statut": "En vigueur — juillet 2021, tirage2 février2023, juillet 2021 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "Vérifier que le procédé relève du domaine du DTU ou de son évaluation technique. Une ancienne référence générique au CPTPlanchers titreII doit être datée et rattachée au système concerné ; NFDTU23.4 ne doit pas être appliqué indistinctement aux dalles alvéolées ou aux poutrelles. Aucune règle de déduction ou de paiement n'a été vérifiée au texte intégral. Le marché doit préciser surfaces, limites des prestations de prédalle et béton complémentaire, trémies et accessoires ; ne pas assimiler une simple surface géométrique à la quantité payable sans convention.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 23.4, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 23.5",
+      "titre_officiel": "Planchers à poutrelles en béton",
+      "statut": "En vigueur — mai 2019 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "Référence pertinente pour les systèmes industriels de poutrelles-entrevous dans son domaine. Ne pas appliquer le NFDTU23.2 des dalles alvéolées ni le NFDTU23.4 des prédalles par simple analogie. Le CCT fournit des spécifications types pour le CCTP ; le CCS ne se lit pas comme une table de seuils supposés. Le sommaire de P2 expose consistance, coordination et traitement des difficultés techniques ; il ne démontre pas de seuil universel de déduction. Fixer au marché le mesurage des planchers, trémies, chevêtres et composants distincts.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 23.5, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1008",
+      "titre_officiel": "Eau de gâchage pour bétons — Spécifications d’échantillonnage, d’essais et d’évaluation de l’aptitude à l’emploi",
+      "statut": "En vigueur — juillet 2003",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 1008",
+      "impact_metre_et_calcul": "Eau de gâchage pour béton : échantillonnage, essais et aptitude à l'emploi ; date ancienne ne signifie pas annulation. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1008, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12350-1",
+      "titre_officiel": "Essais pour béton frais — Partie1 : Prélèvement et appareillage commun",
+      "statut": "En vigueur — août 2019",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12350-1",
+      "impact_metre_et_calcul": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12350-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12350-2",
+      "titre_officiel": "Essais pour béton frais — Partie2 : Essai d’affaissement",
+      "statut": "En vigueur — juin 2019",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12350-2",
+      "impact_metre_et_calcul": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12350-2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12350-6",
+      "titre_officiel": "Essais pour béton frais — Partie6 : Masse volumique",
+      "statut": "En vigueur — août 2019",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12350-6",
+      "impact_metre_et_calcul": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12350-6, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12350-7",
+      "titre_officiel": "Essais pour béton frais — Partie7 : Teneur en air — Méthode de la compressibilité",
+      "statut": "En vigueur — juin 2019, tirage 2 avril 2022",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12350-7",
+      "impact_metre_et_calcul": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12350-7, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12390-1",
+      "titre_officiel": "Essais pour béton durci — Partie1 : Forme, dimensions et autres exigences relatives aux éprouvettes et aux moules",
+      "statut": "En vigueur — juillet 2021",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12390-1",
+      "impact_metre_et_calcul": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12390-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12390-2",
+      "titre_officiel": "Essais pour béton durci — Partie2 : Confection et conservation des éprouvettes pour essais de résistance",
+      "statut": "En vigueur — juin 2019",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12390-2",
+      "impact_metre_et_calcul": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12390-2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12390-3",
+      "titre_officiel": "Essais pour béton durci — Partie3 : Résistance à la compression des éprouvettes",
+      "statut": "En vigueur — juin 2019",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12390-3:1999",
+      "impact_metre_et_calcul": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12390-3, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12390-6",
+      "titre_officiel": "Essais pour béton durci — Partie6 : Résistance en traction par fendage d’éprouvettes",
+      "statut": "En vigueur — novembre 2023",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12390-6",
+      "impact_metre_et_calcul": "Essai de traction par fendage d'éprouvettes. Référence actuelle proposée, sans importer le contenu payant de l'essai ni en déduire une règle de décompte. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12390-6, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12390-7",
+      "titre_officiel": "Essais pour béton durci — Partie7 : Masse volumique du béton durci",
+      "statut": "En vigueur — juin 2019, tirage 2 avril 2023",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12390-7",
+      "impact_metre_et_calcul": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12390-7, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12504-2",
+      "titre_officiel": "Essais pour béton dans les structures — Partie2 : essais non destructifs — Détermination de l’indice de rebondissement",
+      "statut": "En vigueur — juillet 2021",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12504-2",
+      "impact_metre_et_calcul": "Indice de rebondissement au scléromètre ; ne pas assimiler directement cet indice à une résistance sans la procédure d'évaluation applicable. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12504-2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12620+A1",
+      "titre_officiel": "Granulats pour béton",
+      "statut": "En vigueur — juin 2008",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 12620",
+      "impact_metre_et_calcul": "Granulats pour béton ; notice de la version amendée en vigueur vérifiée. Les caractéristiques requises dépendent du béton et du marché. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12620+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 13263-1+A1",
+      "titre_officiel": "Fumée de silice pour béton - Partie 1 : définitions, exigences et critères de conformité",
+      "statut": "En vigueur — mai 2009 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P18-502 puis NF EN13263-1, selon chaîne.",
+      "impact_metre_et_calcul": "Spécifications de la fumée de silice ; prise en compte dans le béton selon spécification et étude, pas de dosage universel.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 13263-1+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1340",
+      "titre_officiel": "Éléments pour bordures de trottoir en béton — Prescriptions et méthodes d’essai",
+      "statut": "En vigueur — février 2004",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P98-302",
+      "impact_metre_et_calcul": "Bordures et caniveaux préfabriqués en béton : compléter les exigences européennes par les profils nationaux correspondant au produit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1340, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 13791",
+      "titre_officiel": "Évaluation de la résistance à la compression sur site des structures et des éléments préfabriqués en béton",
+      "statut": "En vigueur — août2019 ; usage du complément national français à respecter",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancien projet prNF EN13791 et édition antérieure, selon chaîne.",
+      "impact_metre_et_calcul": "La notice demande d’appliquer NF EN13791/CN lorsqu’un document national vise NF EN13791. Ce complément2021 reproduit le texte européen avec dispositions françaises ; ne pas déduire directement une résistance d’un indice sclérométrique.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 13791, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 13791/CN",
+      "titre_officiel": "Évaluation de la résistance à la compression sur site des structures et des éléments préfabriqués en béton — Complément national",
+      "statut": "En vigueur — octobre 2021",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "prNF EN 13791",
+      "impact_metre_et_calcul": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 13791/CN, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 14647",
+      "titre_officiel": "Ciment d’aluminates de calcium — Composition, spécifications et critères de conformité",
+      "statut": "En vigueur — décembre2006",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P15-315 avril1991 et P15-316, selon domaine.",
+      "impact_metre_et_calcul": "Choisir le ciment adapté à l’emploi et l’étude ; ne pas remplacer un ciment spécial par un ciment courant du seul fait de la révision.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 14647, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 15037-3+A1",
+      "titre_officiel": "Produits préfabriqués en béton - Systèmes de planchers à poutrelles et entrevous - Partie 3 : entrevous en terre cuite",
+      "statut": "En vigueur — juin 2011 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P13-302 puis NF EN15037-3, selon chaîne.",
+      "impact_metre_et_calcul": "Entrevous en terre cuite : ne remplace pas le dimensionnement du plancher complet.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 15037-3+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 15167-1",
+      "titre_officiel": "Laitier granulé de haut-fourneau moulu pour utilisation dans le béton, mortier et coulis - Partie 1 : définitions, exigences et critères de conformité",
+      "statut": "En vigueur — septembre 2006 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P18-506, pour le laitier moulu utilisé comme addition.",
+      "impact_metre_et_calcul": "Vérifier l’addition et les conditions de prise en compte dans le béton ; ne pas assimiler laitier granulat et laitier moulu.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 15167-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 16907-1",
+      "titre_officiel": "Terrassement — Partie 1 : principes et règles générales",
+      "statut": "En vigueur — décembre2018",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Complément de cadre actuel, pas remplacement automatique et unique du DTU12.",
+      "impact_metre_et_calcul": "Séparer profils théoriques/constatés et volumes en place, foisonnés, compactés. Les coefficients se justifient par le projet.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 16907-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 197-1",
+      "titre_officiel": "Ciment — Partie1 : composition, spécifications et critères de conformité des ciments courants",
+      "statut": "En vigueur — avril 2012",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P15-301 / ENV197-1 et édition NF EN197-1 de février2001, par chaîne de remplacement ; ne remplace pas tous les ciments spéciaux.",
+      "impact_metre_et_calcul": "Ciments courants. Une autre partie ou norme de ciment peut viser d'autres compositions ; aucune substitution automatique de tous les ciments ni dosage universel n'est déduit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 197-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 197-5",
+      "titre_officiel": "Ciment — Partie5 : ciment Portland composé CEM II/C-M et Ciment composé CEM VI",
+      "statut": "En vigueur — mai2021",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Complément pour ciments non couverts par NF EN197-1 ; pas remplacement général de197-1.",
+      "impact_metre_et_calcul": "Les familles de ciments actuelles ne se limitent pas aux anciennes désignations du cours ; vérifier aptitude à l’emploi et béton spécifié.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 197-5, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 197-6",
+      "titre_officiel": "Ciment — Partie6 : ciment à base de matériaux de construction recyclés",
+      "statut": "En vigueur — juin2023",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Complément demandé au référentiel des ciments, pas remplacement de tous les ciments courants.",
+      "impact_metre_et_calcul": "Le choix du ciment et la prise en compte environnementale restent liés au produit et aux études ; aucun dosage forfaitaire ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 197-6, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1991 (Eurocode 1)",
+      "titre_officiel": "Eurocode 1 — Actions sur les structures",
+      "statut": "À confirmer — série, actions et génération à préciser",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NV65 dans le domaine vent/neige concerné ; ne pas transposer les zones historiques.",
+      "impact_metre_et_calcul": "Les sections et fixations peuvent évoluer après calcul. Aucune majoration forfaitaire des surfaces ou volumes.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF EN 1992 (Eurocode 2)",
+      "titre_officiel": "Eurocode 2 — Calcul des structures en béton",
+      "statut": "À confirmer — génération, parties et annexe nationale cohérentes",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Règles BAEL91 / BPEL91 et anciens ENV, dans leur domaine de calcul.",
+      "impact_metre_et_calcul": "Les méthodes BAEL ne deviennent pas des méthodes Eurocode par changement d’étiquette. Recalcul structural, plans et nomenclatures par le bureau d’études ; pas de ratio universel kg/m³.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF EN 1994 (Eurocode 4)",
+      "titre_officiel": "Eurocode 4 — Calcul des structures mixtes acier-béton",
+      "statut": "À préciser — parties, édition et annexe nationale du système",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Référence générique Eurocode4 citée au cours, pas une édition complète.",
+      "impact_metre_et_calcul": "Identifier le système collaborant et les justificatifs ; ne pas calculer les connecteurs ni les sections par un simple ratio.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF EN 1996 (Eurocode 6)",
+      "titre_officiel": "Eurocode 6 — Calcul des ouvrages en maçonnerie",
+      "statut": "À préciser — parties, génération et annexe nationale",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Référence EN1996 / Eurocode6 du cours ; ne remplace pas le NF DTU20.1 d’exécution.",
+      "impact_metre_et_calcul": "Dimensionnement de la maçonnerie distinct de la convention contractuelle de déduction des baies.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF EN 1997-1/NA",
+      "titre_officiel": "Eurocode 7 — Calcul géotechnique — Partie 1 : règles générales — Annexe nationale à la NF EN 1997-1:2005",
+      "statut": "En vigueur — septembre 2018 ; ensemble du calcul à désigner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Complément de justification géotechnique, distinct du seul remplacement des DTU13.11/13.12.",
+      "impact_metre_et_calcul": "Choix nationaux de la génération concernée. Le projet PR NF EN1997-1/NA de juin2025 ne constitue pas un remplacement publié ; ne pas mélanger les générations.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1997-1/NA, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 206+A2/CN",
+      "titre_officiel": "Béton - Spécification, performance, production et conformité - Complément national à la norme NF EN 206+A2",
+      "statut": "En vigueur — décembre2025 ; tirage2 juillet2026 ; transition à contrôler",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne NF EN206-1 du cours, XP P18-305, anciennes éditions du complément national dont novembre2022.",
+      "impact_metre_et_calcul": "Spécifier le béton et ses performances selon l’étude. La note AFNOR maintient l’ensemble206+A2/CN2025 pendant la transition des nouvelles parties ; pas de dosage universel ni de déduction0,05m³ confirmée.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 206+A2/CN, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 459-1",
+      "titre_officiel": "Chaux de construction - Partie 1 : définitions, spécifications et critères de conformité",
+      "statut": "En vigueur — août 2015 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P15-311 et éditions NF EN459-1 d’octobre2002 / mars2012, selon chaîne.",
+      "impact_metre_et_calcul": "Choisir le type de chaux et sa compatibilité avec le support ; ne pas confondre chaux, ciment et dosage de mortier.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 459-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 771-1+A1",
+      "titre_officiel": "Spécifications pour éléments de maçonnerie - Partie 1 : briques de terre cuite",
+      "statut": "En vigueur — octobre 2015 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Anciennes références de briques de terre cuite selon produit et chaîne à confirmer.",
+      "impact_metre_et_calcul": "Spécifier les caractéristiques des briques selon le rôle, l’exposition et l’étude ; aucun dosage universel ni rendement en briques/m².",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 771-1+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 771-3+A1",
+      "titre_officiel": "Spécifications pour éléments de maçonnerie - Partie 3 : éléments de maçonnerie en béton de granulats (granulats courants et légers)",
+      "statut": "En vigueur — octobre 2015 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN771-3 non amendée du cours ; compléments nationaux à sélectionner.",
+      "impact_metre_et_calcul": "Blocs de granulats : choisir performances et dimensions ; une classe B40 de l’exemple n’est pas une exigence universelle.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 771-3+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 771-4+A1",
+      "titre_officiel": "Spécifications pour éléments de maçonnerie - Partie 4 : éléments de maçonnerie en béton cellulaire autoclavé",
+      "statut": "En vigueur — octobre 2015 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Anciennes NF P14-306 / NF EN771-4, selon chaîne avec méthodes d’essai et complément national.",
+      "impact_metre_et_calcul": "Béton cellulaire autoclavé : choisir produit, assemblage et performances de l’étude.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 771-4+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 771-5+A1",
+      "titre_officiel": "Spécifications pour éléments de maçonnerie — Partie5 : éléments de maçonnerie en pierre reconstituée",
+      "statut": "En vigueur — octobre2015",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN771-5, selon chaîne.",
+      "impact_metre_et_calcul": "Choisir performances et produit de pierre reconstituée ; ne pas confondre avec les blocs de granulats du771-3.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 771-5+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 771-6+A1",
+      "titre_officiel": "Spécifications pour éléments de maçonnerie — Partie6 : éléments de maçonnerie en pierre naturelle",
+      "statut": "En vigueur — octobre2015",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN771-6, selon chaîne.",
+      "impact_metre_et_calcul": "Choisir la pierre et les caractéristiques exigées par l’étude ; pas de rendement de maçonnerie/mortier déduit du code produit.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 771-6+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 934-2+A1",
+      "titre_officiel": "Adjuvants pour béton, mortier et coulis — Partie2 : adjuvants pour béton — Définitions, exigences, conformité, marquage et étiquetage",
+      "statut": "En vigueur — août 2012",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF EN 934-2",
+      "impact_metre_et_calcul": "Adjuvants pour béton : caractéristiques des produits, pas prescriptions universelles de dosage ou de métré. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 934-2+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P 15-306",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 15-306",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 15-308",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 15-308",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 18-306",
+      "titre_officiel": "Bétons de construction - Laitier granulé",
+      "statut": "Annulée — remplacement non confirmé",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 18-306",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 18-307",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 18-307",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 18-308",
+      "titre_officiel": "Bétons - Pouzzolane",
+      "statut": "Annulée — remplacement non confirmé",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 18-308",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 18-309",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 18-309",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 18-370",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 18-370",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 18-501",
+      "titre_officiel": "Additions pour béton hydraulique - Fillers",
+      "statut": "Annulée — remplacement non confirmé",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 18-501",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 61-302",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 61-302",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 98-304",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 98-304",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P03-001",
+      "titre_officiel": "Marchés privés — Cahiers types — Cahier des clauses administratives générales applicable aux travaux de bâtiment faisant l’objet de marchés privés",
+      "statut": "En vigueur — octobre 2017 (si marché privé y faisant référence)",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P 03-001 (décembre 2000)",
+      "impact_metre_et_calcul": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P03-001, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P15-302",
+      "titre_officiel": "Liants Hydrauliques - Ciments à usage tropical– Composition, spécifications et critères de conformité",
+      "statut": "En vigueur — août 2021 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Anciennes éditions des ciments à usage tropical, selon chaîne.",
+      "impact_metre_et_calcul": "Ciment spécial : le domaine tropical ne doit pas être étendu à tous les chantiers ni supprimé au profit de NF EN197-1.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P15-302, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P15-314",
+      "titre_officiel": "Liants hydrauliques — Ciment prompt naturel",
+      "statut": "En vigueur — décembre2025",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P15-314 février1993, annulée.",
+      "impact_metre_et_calcul": "Norme de produit/méthode : vérifier caractéristiques et compatibilité avec l’ouvrage ; aucune règle de déduction ni dosage universel déduit.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P15-314, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P18-210 (DTU 23.1)",
+      "titre_officiel": "Murs en béton banché",
+      "statut": "En vigueur — mai 1993 ; parties et amendements à sélectionner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "La liste CSTB des DTU en vigueur identifie ici une partie1 codifiée NF P18-210. Respecter cette structure historique : ne pas inventer NFDTU23.1P1-1, P1-2 ou P2. Le millésime1993 reste indiqué en vigueur ; sa seule ancienneté ne prouve pas une annulation. Le statut actuel du cahier technique est vérifié. Aucune convention de mesurage ni déduction n'a été vérifiée dans la notice ; préciser au marché le décompte des voiles, réservations, coffrages et retours.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 23.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P18-508",
+      "titre_officiel": "Additions pour béton hydraulique - Additions calcaires - Spécifications et critères de conformité",
+      "statut": "En vigueur — janvier 2012 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition éventuelle à identifier, pas de suppression de toute la série P18.",
+      "impact_metre_et_calcul": "Caractéristiques des additions calcaires ; pas de pourcentage universel de substitution du ciment.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P18-508, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P94-261 COMPIL1",
+      "titre_officiel": "Justification des ouvrages géotechniques — Norme d’application nationale de l’Eurocode 7 — Fondations superficielles",
+      "statut": "En vigueur — février 2017 — texte de juin2013 avec A1 février2017 ; ensemble du calcul à désigner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Complément de justification géotechnique, distinct du seul remplacement des DTU13.11/13.12.",
+      "impact_metre_et_calcul": "Justifications géotechniques, distinctes de l’exécution NF DTU13.1 et du calcul structural du béton. Choisir un ensemble cohérent avec l’étude ; ne pas substituer le projet PR NF P94-261 de septembre2025.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P94-261 COMPIL1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P94-262 COMPIL 1",
+      "titre_officiel": "Justification des ouvrages géotechniques — Normes d’application nationale de l’Eurocode 7 — Fondations profondes",
+      "statut": "En vigueur — juillet 2018 — texte de juillet2012 avec A1 juillet2018 ; ensemble du calcul à désigner",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "Complément de justification géotechnique, distinct du seul remplacement des DTU13.11/13.12.",
+      "impact_metre_et_calcul": "Justifications géotechniques des fondations profondes ; ne remplace pas leurs normes d’exécution. Ensemble à désigner par le bureau d’études.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P94-262 COMPIL 1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P98-331",
+      "titre_officiel": "Chaussées et dépendances — Tranchées : ouverture, remblayage, réfection",
+      "statut": "En vigueur — août 2020",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P98-331",
+      "impact_metre_et_calcul": "Tranchées de réseaux enterrés sous chaussées et dépendances ; ne constitue pas un référentiel universel de tous les terrassements de bâtiment. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P98-331, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P98-340/CN",
+      "titre_officiel": "Éléments pour bordures de trottoir en béton — Complément national à NF EN1340",
+      "statut": "En vigueur — mars 2004",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF P98-302",
+      "impact_metre_et_calcul": "Bordures et caniveaux préfabriqués en béton : compléter les exigences européennes par les profils nationaux correspondant au produit. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P98-340/CN, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF T54-090",
+      "titre_officiel": "Référence historique du cours ; intitulé officiel non résolu",
+      "statut": "Non vérifié — aucune substitution automatique",
+      "lot_associe": "1 - Infrastructure & Gros Œuvre",
+      "remplace_ancienne_ref": "NF T54-090",
+      "impact_metre_et_calcul": "Les recherches exactes dans les sources AFNOR/Norm'Info accessibles n'ont pas livré de fiche primaire exploitable. Une absence de résultat n'établit ni la validité ni l'annulation. Aucun remplacement par une norme de produit actuelle ne peut être certifié sans identifier le matériau, l'usage, l'édition et la fiche officielle correspondante. Ne pas attribuer à cette référence des caractéristiques, couleurs, classes ou prescriptions de pose non vérifiées. Faire confirmer la norme exacte dans le dossier produit et le catalogue officiel.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "DTU 40.35",
+      "titre_officiel": "Travaux de bâtiment — Couverture en plaques nervurées issues de tôles d’acier revêtues",
+      "statut": "En vigueur — NF P34-205-1/-2 mai1997 ; P1 A1 juin2006",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Référence ancienne maintenue dans son domaine ; aucune nouvelle structure P1-1/P1-2 fictive créée.",
+      "impact_metre_et_calcul": "Choisir bac, portées, fixation et traitement des points singuliers suivant l’étude ; ne pas confondre couverture et plancher collaborant.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir DTU 40.35, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "DTU 40.41",
+      "titre_officiel": "Travaux de bâtiment — Couvertures par éléments métalliques en feuilles et longues feuilles en zinc",
+      "statut": "En vigueur — NF P34-211-1/-2 septembre2004",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Référence maintenue dans son domaine ; le seul âge ne prouve pas son annulation.",
+      "impact_metre_et_calcul": "Quantifier développés, fixations, joints et raccords selon détails et exposition ; ne pas appliquer un forfait universel de recouvrement.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir DTU 40.41, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF B10-601",
+      "titre_officiel": "Produits de carrière — Pierres naturelles — Prescriptions générales d’emploi des pierres naturelles",
+      "statut": "En vigueur — septembre2019 ; tirage2 octobre2019",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "XP B10-601 puis NF B10-6012006/2014 selon chaîne.",
+      "impact_metre_et_calcul": "Choisir caractéristiques et prescriptions selon destination de la pierre ; les méthodes d’essai et normes produit restent distinctes.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF B10-601, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 31.1",
+      "titre_officiel": "Travaux de bâtiment — Charpente en bois",
+      "statut": "En vigueur — juin2017",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Ancienne édition du même DTU, selon domaine.",
+      "impact_metre_et_calcul": "Volumes/linéaires et assemblages d’après plans ; calcul Eurocode5 distinct du décompte.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 31.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 31.2",
+      "titre_officiel": "Travaux de bâtiment — Construction de maisons et bâtiments à ossature en bois",
+      "statut": "En vigueur — mai2019",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Ancienne édition du même DTU, selon domaine.",
+      "impact_metre_et_calcul": "Décrire parois, diaphragmes et interfaces ; ne pas confondre ossature porteuse et façade rapportée.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 31.2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 31.3",
+      "titre_officiel": "Travaux de bâtiment - Charpentes en bois assemblées par connecteurs métalliques ou goussets - Partie 1-1 : Cahier des clauses techniques types (CCT) - Partie 1-2 : critères généraux de choix des matériaux (CGM) - Partie 2 : cahier des clauses administratives spéciales types (CCS) - Partie 3 : règles de conception - (Référence commerciale des parties P1-1, P1-2, P2 et P3 du NF DTU 31.3)",
+      "statut": "En vigueur — janvier 2012 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Ancienne édition du même DTU.",
+      "impact_metre_et_calcul": "Charpentes assemblées par connecteurs/goussets ; partie3 avec A1 avril2014 à sélectionner ; ne pas généraliser à toute structure bois.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 31.3, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 31.4",
+      "titre_officiel": "Travaux de bâtiment - Façades à ossature bois - Partie 1-1 : cahier des clauses techniques types - Partie 1-2 : critères généraux de choix des matériaux - Partie 2 : cahier des clauses administratives spéciales types (CCS) - Référence commerciale des parties P1-1, P1-2 et P2 du NF DTU 31.4",
+      "statut": "En vigueur — mai 2020 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Complément pour façades à ossature bois, distinct du31.2.",
+      "impact_metre_et_calcul": "Quantifier les façades et leurs interfaces selon leur système ; ne pas attribuer un rôle porteur non justifié.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 31.4, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 36.5",
+      "titre_officiel": "Travaux de bâtiment — Mise en œuvre des fenêtres et portes extérieures",
+      "statut": "En vigueur — P1-1/P1-2/P2 avril2010 ; FD P3 octobre2010",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Anciennes prescriptions de mise en œuvre des menuiseries extérieures selon domaine ; pas de remplacement des normes de produit par ce DTU.",
+      "impact_metre_et_calcul": "Mesurer dimensions de fabrication, calfeutrement, interfaces et exposition suivant plans ; aucune déduction forfaitaire universelle.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 36.5, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 40.11",
+      "titre_officiel": "Travaux de bâtiment - Couvertures en ardoises naturelles - Partie 1-1 : cahier des clauses techniques types - Partie 1-2 : critères généraux de choix des matériaux - Partie 2 : cahier des clauses administratives spéciales types - Référence commerciale des parties P1-1, P1-2 et P2 du NF DTU 40.11 de décembre 2020",
+      "statut": "En vigueur — décembre 2020 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Ancienne version des couvertures en ardoises naturelles.",
+      "impact_metre_et_calcul": "Dimensions, recouvrements et fixations selon l’étude et l’exposition ; ne pas assimiler aux ardoises fibres-ciment.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 40.11, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 40.13",
+      "titre_officiel": "Travaux de bâtiment - Couverture en ardoises en fibres-ciment - Partie 1-1 : cahier des clauses techniques types - Partie 1-2 : critères généraux de choix des matériaux - Partie 2 : cahier des clauses administratives spéciales types - Référence commerciale des parties P1-1, P1-2 et P2 du DTU 40.13 de décembre 2009",
+      "statut": "En vigueur — décembre 2009 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Anciennes versions des ardoises en fibres-ciment ; P1-2 A1 mai2011 à sélectionner.",
+      "impact_metre_et_calcul": "Système distinct de l’ardoise naturelle ; pas de taux de recouvrement fixé par le seul intitulé.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 40.13, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 40.21",
+      "titre_officiel": "Travaux de bâtiment - Couverture en tuiles de terre cuite à emboitement ou à glissement à relief - Partie 1-1 : cahier des clauses techniques types - Partie 1-2 : critères généraux de choix des matériaux - Partie 2 : cahier des clauses administratives spéciales types (référence commerciale des parties P1-1, P1-2 et P2 du NF DTU 40.21)",
+      "statut": "En vigueur — octobre 2013 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "P31-202 / ancienne couverture tuiles de terre cuite à relief, selon parties.",
+      "impact_metre_et_calcul": "Calculer surfaces développées, pureaux et points singuliers selon modèle, pente et exposition ; pas de nombre universel de tuiles par m².",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 40.21, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 40.24",
+      "titre_officiel": "Travaux de bâtiment — Couverture en tuiles en béton à glissement et à emboîtement longitudinal",
+      "statut": "En vigueur — mars2023",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Anciennes éditions de la même couverture, selon domaine.",
+      "impact_metre_et_calcul": "Choisir le profil réel de tuile ; tuile plane, plate et à emboîtement ne relèvent pas automatiquement du même texte.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 40.24, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 40.29",
+      "titre_officiel": "Travaux de bâtiment - Mise en œuvre des écrans souples de sous-toiture - Partie 1-1 : Cahier des clauses techniques types - Partie 1-2 : Critères généraux de choix des matériaux - Partie 2 : Cahier des clauses administratives spéciales types - Référence commerciale des parties P1-1, P1-2, P2 du NF DTU 40.29",
+      "statut": "En vigueur — novembre 2015 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Complément demandé pour écrans de sous-toiture.",
+      "impact_metre_et_calcul": "Distinguer surface projetée et surface déroulée, recouvrements et raccords suivant le système.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 40.29, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 55.2",
+      "titre_officiel": "Travaux de bâtiment — Revêtements muraux attachés en pierre mince",
+      "statut": "En vigueur — décembre2014 ; A1 octobre2016 ; P1-1/P1-2 A2 et P2 A1 juillet2025",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Ancienne NF P65-202 / DTU55.2 et versions non amendées.",
+      "impact_metre_et_calcul": "Revalider pierres, attaches et justifications ; quantifier panneaux, fixations et points singuliers selon plans.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 55.2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1993 (Eurocode 3)",
+      "titre_officiel": "Eurocode 3 — Calcul des structures en acier",
+      "statut": "À confirmer — génération et annexe nationale",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Règles CM66 / DTU P22-701, dans leur domaine ; CM66 non retrouvé dans les trois livres.",
+      "impact_metre_et_calcul": "Reprendre sections, stabilité et assemblages sur étude ; les tonnes d’acier ne résultent pas d’une conversion automatique CM66.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF EN 1995-1-1 COMPIL 2",
+      "titre_officiel": "Eurocode 5 - Conception et calcul des structures en bois - Partie 1-1 : généralités - Règles communes et règles pour les bâtiments - Texte compilé de la norme NF EN 1995-1-1 de novembre 2005, de son amendement A1 d'octobre 2008 et de son amendement A2 de juillet 2014",
+      "statut": "En vigueur — juillet 2014 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "2 - Clos & Couvert",
+      "remplace_ancienne_ref": "Référentiels bois antérieurs selon domaine ; non retrouvé explicitement dans les livres fournis.",
+      "impact_metre_et_calcul": "Calcul structurel du bois distinct du NF DTU31.1 d’exécution. L’étude choisit les paramètres, la génération et l’annexe nationale.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1995-1-1 COMPIL 2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Arrêté du30juin1999 — acoustique",
+      "titre_officiel": "Caractéristiques acoustiques des bâtiments d’habitation",
+      "statut": "Réglementation — texte consolidé vérifié",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "Texte historique maintenu dans son domaine, pas remplacé par RE2020.",
+      "impact_metre_et_calcul": "Les performances des parois, équipements et réseaux se justifient par étude et essais ; ne pas convertir les indices acoustiques en épaisseur universelle.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Arrêté du30juin1999 — acoustique, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Arrêté du30juin1999 — modalités",
+      "titre_officiel": "Modalités d’application de la réglementation acoustique",
+      "statut": "Réglementation — texte consolidé vérifié",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "Texte distinct de l’arrêté de caractéristiques du même jour.",
+      "impact_metre_et_calcul": "Distinguer les performances réglementaires et leurs modalités de contrôle ; ne pas fusionner deux arrêtés portant la même date.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Arrêté du30juin1999 — modalités, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 20.13",
+      "titre_officiel": "Cloisons en maçonnerie de petits éléments",
+      "statut": "En vigueur — octobre 2008, juillet 2016, juin 2016 ; parties et amendements à sélectionner",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "Ancienne édition de la même famille, selon les parties identifiées ; aucune équivalence inter-systèmes présumée.",
+      "impact_metre_et_calcul": "Pour les cloisons non porteuses de petits éléments maçonnés dans son domaine, à distinguer des murs porteurs du DTU20.1 et des cloisons sèches. Quatre parties de base et trois amendements2016 identifiés ; ne pas oublier les amendements en conservant seulement2008. Aucun seuil0,50m²supposé n'est attribué au CCS. Le sommaire public de P2 décrit la consistance des travaux et la coordination ; aucun seuil numérique de déduction n'y est établi. Les ouvertures, retours, tableaux et prestations accessoires doivent être réglés selon les conventions explicites du marché.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 20.13, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 25.1",
+      "titre_officiel": "Travaux de bâtiment — Enduits intérieurs en plâtre",
+      "statut": "En vigueur — novembre2010",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "NF P71-201-1/-2 / ancien DTU25.1.",
+      "impact_metre_et_calcul": "Définir support et système de plâtre avant quantitatif ; les règles de règlement ne sont pas déduites de la seule notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 25.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 25.41",
+      "titre_officiel": "Travaux de bâtiment — Ouvrages en plaques de plâtre — Plaques à faces cartonnées",
+      "statut": "En vigueur — février2022",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "NF DTU25.41 de décembre2012, selon parties.",
+      "impact_metre_et_calcul": "Choisir le système, sa hauteur et ses performances avant quantitatif des plaques/ossatures ; aucun rendement ni seuil de baie inventé.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 25.41, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 25.42",
+      "titre_officiel": "Travaux de bâtiment — Ouvrages de doublage et habillage en complexes et sandwiches plaques de parement en plâtre et isolant",
+      "statut": "En vigueur — décembre2012 ; P1-1/P1-2 A1 avril2026",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "Éditions antérieures et textes2012 sans leurs amendements2026.",
+      "impact_metre_et_calcul": "Choisir complexe, support et domaine avant quantification ; les performances RE2020 relèvent de l’étude applicable.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 25.42, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 26.1",
+      "titre_officiel": "Travaux de bâtiment — Travaux d’enduits de mortiers",
+      "statut": "En vigueur — parties avril2008",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "NF P15-201 / ancien DTU26.1.",
+      "impact_metre_et_calcul": "Adapter support, produit et épaisseur au système ; aucun dosage ni seuil de baie n’est validé par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 26.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 52.2",
+      "titre_officiel": "Travaux de bâtiment — Pose collée des revêtements céramiques et assimilés — Pierres naturelles",
+      "statut": "En vigueur — juin2022",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "Anciennes éditions2009/2013 selon parties ; ne remplace pas la pose scellée du52.1.",
+      "impact_metre_et_calcul": "Choisir murs intérieurs, extérieurs, sols ou SPEC ; définir supports, joints et sujétions au bordereau, sans seuil de vide universel.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 52.2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 59.1",
+      "titre_officiel": "Travaux de bâtiment — Revêtements de peinture en feuil mince, semi-épais ou épais",
+      "statut": "En vigueur — juin2013 ; P1-1 tirage2 septembre2014",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "Anciennes éditions du même DTU, selon parties.",
+      "impact_metre_et_calcul": "Séparer supports, préparations et niveaux de finition ; règles de mesurage du marché à vérifier, sans coefficient de peinture présumé.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 59.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P01-012",
+      "titre_officiel": "Solutions techniques relatives aux éléments de protection visant à limiter le risque de chute accidentelle de hauteur des personnes dans le cadre d'un usage normal des bâtiments",
+      "statut": "En vigueur — novembre 2024 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "Anciennes règles dimensionnelles de garde-corps citées L2 p.117, édition historique à identifier.",
+      "impact_metre_et_calcul": "Le métré des garde-corps dépend du dessin conforme, des zones de stationnement, des remplissages et des fixations ; ne pas réemployer automatiquement les anciennes dimensions.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF P01-012, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "RE2020 / CCH R172-1 et suivants",
+      "titre_officiel": "Exigences de performance énergétique et environnementale des constructions de bâtiments en France métropolitaine",
+      "statut": "Réglementation — version consolidée à la date du13novembre2026",
+      "lot_associe": "3 - Second Œuvre",
+      "remplace_ancienne_ref": "RT2000/RT2005 du cours ; RT2012 pour les opérations entrant dans le nouveau champ, pas rétroactivement.",
+      "impact_metre_et_calcul": "Les exigences influencent enveloppe, systèmes et données environnementales de l’étude ; aucune épaisseur minimale universelle, quantité ou classe de matériau déduite du seul sigle RE2020.",
+      "mention_type_cctp": "Le projet satisfera aux exigences énergétiques et environnementales applicables à son territoire, son usage, sa nature et sa date de dépôt. Les performances de l’enveloppe et des systèmes seront celles de l’étude réglementaire ; la version des textes, attestations et vérifications sera identifiée dans les pièces du marché."
+    },
+    {
+      "code_norme": "Arrêté du21juillet2015 modifié",
+      "titre_officiel": "Systèmes d’assainissement collectif et installations d’assainissement non collectif, sauf celles recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+      "statut": "Réglementation — domaine et version consolidée vérifiés",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Livre 3, p. 10 : arrêtés du 22 décembre 1994 relatifs aux ouvrages de collecte et de traitement des eaux usées et à leur surveillance.",
+      "impact_metre_et_calcul": "Aucun seuil de vide pour plein n’est confirmé par ces arrêtés. Quantifier séparément les réseaux, ouvrages, équipements et prestations prescrits au projet.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Arrêté du21juillet2015 modifié, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Arrêté du24mars1982 modifié",
+      "titre_officiel": "Aération des logements",
+      "statut": "Réglementation — texte consolidé vérifié",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Texte conservé, avec modification du28octobre1983 ; il n’est pas supprimé par RE2020.",
+      "impact_metre_et_calcul": "Distinguer débits réglementaires, étude du réseau et vérification RE2020 ; une valeur d’un tableau historique ne dispense pas de contrôler le champ et le système.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Arrêté du24mars1982 modifié, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Arrêté du27avril2012 modifié — contrôle ANC",
+      "titre_officiel": "Modalités de l’exécution de la mission de contrôle des installations d’assainissement non collectif",
+      "statut": "Réglementation — domaine et version consolidée vérifiés",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Arrêté du 6 mai 1996 fixant les modalités du contrôle technique exercé par les communes sur les systèmes d’assainissement non collectif — distinct de l’arrêté technique du même jour.",
+      "impact_metre_et_calcul": "Identifier les prestations de contrôle et les justifications prévues par le projet et le service compétent. Le texte ne fournit pas de seuil de vide pour plein.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Arrêté du27avril2012 modifié — contrôle ANC, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Arrêté du31janvier1986 modifié",
+      "titre_officiel": "Protection contre l’incendie des bâtiments d’habitation",
+      "statut": "Réglementation — texte consolidé vérifié",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Le cours L3 p.143 mentionne le31mars1986 : date erronée pour ce texte.",
+      "impact_metre_et_calcul": "Vérifier classification du bâtiment, réseaux et protections dans la version applicable. Le passage au référentiel actuel ne crée aucun forfait de matériaux coupe-feu.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Arrêté du31janvier1986 modifié, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Arrêté du7septembre2009 modifié — ANC technique",
+      "titre_officiel": "Prescriptions techniques des installations ANC recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+      "statut": "Réglementation — domaine et version consolidée vérifiés",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Livre 3, p. 10 : arrêté du 6 mai 1996 fixant les prescriptions techniques applicables aux systèmes d’assainissement non collectif, mentionné avec modification du 24 décembre 2003.",
+      "impact_metre_et_calcul": "Ne pas convertir un seuil de charge en quantité de fouille. Les surfaces de traitement et volumes sont issus de la filière et de l’étude retenues ; les ratios scolaires ne constituent pas une validation réglementaire.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Arrêté du7septembre2009 modifié — ANC technique, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "Assainissement — détermination du régime collectif/ANC",
+      "titre_officiel": "Prescriptions des systèmes d’assainissement entrant dans son champ",
+      "statut": "Réglementation — domaine et version consolidée vérifiés",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Livre 3, p. 10 : arrêté du 21 juin 1996 concernant les ouvrages de collecte et de traitement des petites agglomérations.",
+      "impact_metre_et_calcul": "Le statut de petite commune ne fixe aucun coefficient de terrassement ni règle de déduction des réseaux. Utiliser le dimensionnement et les pièces du marché.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir Assainissement — détermination du régime collectif/ANC, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "CCH R153-1",
+      "titre_officiel": "Renouvellement d’air des bâtiments d’habitation",
+      "statut": "Réglementation — texte consolidé vérifié",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Ancien renvoi R111-9 cité L3 p.140, à mettre en cohérence avec la recodification.",
+      "impact_metre_et_calcul": "Identifier les solutions de référence et l’obligation de renouvellement d’air ; pas de calcul de diamètre directement déduit de cet article.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir CCH R153-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "CGCT R2224-6 / R2224-10",
+      "titre_officiel": "Définitions relatives à l’assainissement",
+      "statut": "Réglementation — domaine et version consolidée vérifiés",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Livre 3, p. 10 : décret n° 94-469 du 3 juin 1994 relatif à la collecte et au traitement des eaux usées.",
+      "impact_metre_et_calcul": "Mesurer les ouvrages à partir de l’étude d’assainissement et des plans retenus ; les seuils administratifs ou de charge ne sont pas des seuils de déduction des quantités.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir CGCT R2224-6 / R2224-10, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "DTU 65.10 / NF P52-305-1",
+      "titre_officiel": "Canalisations d’eau chaude ou froide sous pression et canalisations d’évacuation des eaux usées et pluviales à l’intérieur des bâtiments",
+      "statut": "Annulé — remplacement à choisir selon réseau",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "DTU65.10 historique, demandé dans le prompt ; pas identifié explicitement dans les trois livres.",
+      "impact_metre_et_calcul": "Sanitaire : NF DTU60.1 dans son domaine. Chauffage/conditionnement d’air : ne pas étendre60.1 hors domaine ; vérifier les règles professionnelles et textes propres au système.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "FD CEN/TR 14788",
+      "titre_officiel": "Ventilation des bâtiments - Conception et dimensionnement des systèmes de ventilation résidentiels",
+      "statut": "En vigueur — août 2006 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Référence2006 maintenue dans son rôle documentaire, pas remplacée du seul fait de son âge.",
+      "impact_metre_et_calcul": "Recommandations de conception : ne pas traiter un rapport technique comme remplacement de la réglementation ou du NF DTU68.3.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir FD CEN/TR 14788, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF C15-100-1",
+      "titre_officiel": "Installations électriques à basse tension - Partie 1 : exigences générales",
+      "statut": "En vigueur — août2024 ; tirage2 octobre2026",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Parties correspondantes de NF C15-100 décembre2002, amendements et fiches, selon la date de référence du chantier.",
+      "impact_metre_et_calcul": "Choisir les parties par usage et local ; quantifier circuits, protections, appareillages et essais sur étude. La publication de2024 ne requalifie pas automatiquement une installation ancienne.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF C15-100-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF C15-100-10",
+      "titre_officiel": "Installations électriques à basse tension - Partie 10 : Installations électriques à basse tension dans les bâtiments d'habitation",
+      "statut": "En vigueur — août 2024 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Parties correspondantes de NF C15-100 décembre2002, amendements et fiches, selon la date de référence du chantier.",
+      "impact_metre_et_calcul": "Choisir les parties par usage et local ; quantifier circuits, protections, appareillages et essais sur étude. La publication de2024 ne requalifie pas automatiquement une installation ancienne.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF C15-100-10, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF C15-100-7-701",
+      "titre_officiel": "Installations électriques à basse tension - Partie 7-701 : règles particulières pour les locaux contenant une baignoire ou une douche (Salles d'eau)",
+      "statut": "En vigueur — août 2024 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Parties correspondantes de NF C15-100 décembre2002, amendements et fiches, selon la date de référence du chantier.",
+      "impact_metre_et_calcul": "Choisir les parties par usage et local ; quantifier circuits, protections, appareillages et essais sur étude. La publication de2024 ne requalifie pas automatiquement une installation ancienne.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF C15-100-7-701, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 24.1",
+      "titre_officiel": "Travaux de bâtiment — Travaux de fumisterie — Installation de systèmes d’évacuation des produits de combustion desservant un ou des appareils",
+      "statut": "En vigueur — septembre2020",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF P51-201 / DTU24.1 d’octobre2000 et versions2006/amendements, selon parties.",
+      "impact_metre_et_calcul": "Les distances aux combustibles, désignations et conditions de pose se revalident par système ; les accessoires ne se déduisent pas d’un ancien tableau.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 24.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 24.2",
+      "titre_officiel": "Travaux de bâtiment - Travaux d'âtrerie - Partie 1-1 : cahier des clauses techniques - Partie 1-2 : critères généraux de choix des matériaux - Partie 2 : cahier des clauses spéciales - Référence commerciale des parties P1-1, P1-2 et P2 du DTU 24.2 de décembre 2006",
+      "statut": "En vigueur — décembre 2006 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF P51-202 /24.2.1 ; NF P51-203 /24.2.2 ; NF P51-204-1 /24.2.3, selon domaine.",
+      "impact_metre_et_calcul": "Choisir le type d’âtre/appareil ; P1-1 A1 décembre2011 à sélectionner. Les anciennes distances et proportions ne sont pas reprises automatiquement.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 24.2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 60.1",
+      "titre_officiel": "Travaux de bâtiment — Plomberie sanitaire pour bâtiments",
+      "statut": "En vigueur — décembre2012 ; P1-1-1 et P1-2 amendées décembre2019",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Ancien DTU60.1 et part sanitaire du65.10, selon domaines ; pas remplacement universel des réseaux de chauffage.",
+      "impact_metre_et_calcul": "Définir alimentation, évacuation et appareils ; quantifier diamètres, longueurs, accessoires et essais à partir de l’étude.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 60.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 60.11",
+      "titre_officiel": "Calcul des installations de plomberie sanitaire et d’eaux pluviales",
+      "statut": "En vigueur — août 2013, août 2013, tirage2 octobre2013 ; parties et amendements à sélectionner",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "P40-202 / DTU60.11 de1988, selon parties.",
+      "impact_metre_et_calcul": "Structure particulière à respecter : P1-1 n'est pas un CCT, P1-2 n'est pas un CGM et P2 n'est pas un CCS. P2 traite du calcul des évacuations EU/EV, P3 des EP. Ne pas appliquer ces règles de réseaux de bâtiment à l'ensemble des réseaux VRD par défaut ; choisir la partie et vérifier le domaine du tronçon étudié. Ces parties donnent des règles de conception et de dimensionnement des installations de bâtiment. Aucune règle de mesurage contractuel ou de déduction n'en est déduite ; définir le règlement des longueurs, équipements et accessoires dans les documents du marché.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 60.11, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 61.1",
+      "titre_officiel": "Travaux de bâtiment - Installations de gaz dans les locaux d'habitation - Parties 1 à 7 : terminologie - Dispositions générales - Dispositions particulieres hors évacuation des produits de combustion - Dispositions particulières à l'évacuation des produits de combustion - Aménagements généraux - Règles de calcul",
+      "statut": "En vigueur — juin 2010 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Anciennes versions de P45-204 / installations de gaz.",
+      "impact_metre_et_calcul": "Parties et amendements à choisir selon réseau, appareil et évacuation ; articuler avec la réglementation gaz applicable.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 61.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 64.1",
+      "titre_officiel": "Assainissement non collectif des maisons individuelles jusqu’à20pièces principales",
+      "statut": "En vigueur — août 2013, tirage2 août2013, août 2013 ; parties et amendements à sélectionner",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "XP P16-603 / DTU64.1, selon chaîne de remplacement.",
+      "impact_metre_et_calcul": "Référence d'assainissement non collectif pour maisons individuelles dans son domaine ; ne pas la traiter comme une norme générale de tous les réseaux VRD ou collecteurs publics. La limite indiquée par son titre est20pièces principales, à ne pas convertir arbitrairement en20équivalents-habitants. L'ancienne XP P16-603 est historique. Aucune convention chiffrée de déduction ou de règlement n'a été vérifiée au texte intégral. Décrire séparément les équipements, conduites, fouilles et ouvrages de traitement effectivement prévus, et leurs limites de fourniture selon le marché.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 64.1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 65.14",
+      "titre_officiel": "NF DTU 65.14 - Travaux de bâtiment - Mise en œuvre des planchers à eau : chauffants et chauffants réversibles - Partie 1-1-1 : cahier des clauses techniques types - Dalles désolidarisées isolées - Partie 1-1-2 : cahier des clauses techniques types - Autres dalles que les dalles désolidarisées isolées - Partie 1-2 : critères généraux de choix des matériaux - Partie 2 : cahier des clauses administratives spéciales types - (Référence commerciale des parties P1-1-1, P1-1-2, P1-2 et P2 du DTU 65.14 de juillet 2023)",
+      "statut": "En vigueur — juillet 2023 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Anciennes éditions du plancher à eau chauffant, selon système.",
+      "impact_metre_et_calcul": "Dimensionnement et implantation des circuits par l’étude ; interfaces isolation, dalle, chape et revêtement à définir.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 65.14, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF DTU 68.3",
+      "titre_officiel": "Travaux de bâtiment — Installations de ventilation mécanique",
+      "statut": "En vigueur — P1-1-1/2/3 juin2013 ; P1-1-4/P1-2/P2 avril2017 ; P1-1-2 A1 novembre2017",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "XP P50-410 / DTU68.1 et NF P50-411-1/-2 / DTU68.2.",
+      "impact_metre_et_calcul": "Revalider conception, dimensionnement, mise en service et domaine du système ; l’hygroréglable ne se traite pas comme autoréglable par défaut.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF DTU 68.3, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF E51-732",
+      "titre_officiel": "Composants de ventilation mécanique contrôlée - Entrées d'air en façade - Caractéristiques et aptitude à la fonction",
+      "statut": "En vigueur — février 2025 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "E51-732 septembre1992 et versions ultérieures dont2022.",
+      "impact_metre_et_calcul": "Caractéristiques des entrées d’air en façade ; distinguer la norme de produit et les essais de performance associés.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF E51-732, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 12446",
+      "titre_officiel": "Conduits de fumée — Composants — Enveloppes externes en béton",
+      "statut": "En vigueur — août2011",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF EN12446 de2003 ; XP P51-321 selon chaîne et composants.",
+      "impact_metre_et_calcul": "Norme de produit/méthode : vérifier caractéristiques et compatibilité avec l’ouvrage ; aucune règle de déduction ni dosage universel déduit.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 12446, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 13069",
+      "titre_officiel": "Conduits de fumée - Enveloppes externes en terre cuite/céramique pour systèmes de conduits de fumée - Prescriptions et méthodes d'essai",
+      "statut": "En vigueur — juillet 2005 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 13069, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1443",
+      "titre_officiel": "Conduits de fumée - Exigences générales",
+      "statut": "En vigueur — avril 2019 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1443, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1457-1",
+      "titre_officiel": "Conduits de fumée - Conduits intérieurs en terre cuite/céramique - Partie 1 : exigences et méthodes d'essai pour utilisation en conditions sèches",
+      "statut": "En vigueur — mai 2012 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1457-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1457-2",
+      "titre_officiel": "Conduits de fumée - Conduits intérieurs en terre cuite/céramique - Partie 2 : exigences et méthodes d'essai pour utilisation en conditions humides",
+      "statut": "En vigueur — janvier 2012 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1457-2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 14758-1",
+      "titre_officiel": "Systèmes de canalisations en plastique pour branchements et collecteurs d’assainissement enterrés sans pression — Polypropylène avec modificateurs minéraux — Partie1 : spécifications des tubes, raccords et système",
+      "statut": "En vigueur — avril 2023",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF EN 14758-1",
+      "impact_metre_et_calcul": "PP avec modificateurs minéraux pour assainissement enterré sans pression. La notice indique le remplacement de mai 2012 ; ne pas généraliser à tous les tuyaux plastiques. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 14758-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 15287-1",
+      "titre_officiel": "Conduits de fumée - Conception, installation et mise en service - Partie 1 : conduits de fumée et conduits de raccordement pour appareils de combustion qui prélèvent l'air comburant dans la pièce",
+      "statut": "En vigueur — juillet 2023 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 15287-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1806",
+      "titre_officiel": "Conduits de fumée - Boisseaux en terre cuite/céramique pour conduits de fumée simple paroi - Exigences et méthodes d'essai",
+      "statut": "En vigueur — octobre 2006 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1806, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1856-1",
+      "titre_officiel": "Conduits de fumée - Prescriptions pour les conduits de fumée métalliques - Partie 1 : composants de systèmes de conduits de fumée",
+      "statut": "En vigueur — août 2009 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1856-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1856-2",
+      "titre_officiel": "Conduits de fumée - Prescriptions relatives aux conduits de fumée métalliques - Partie 2 : tubages et éléments de raccordement métalliques",
+      "statut": "En vigueur — août 2009 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1856-2, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1857",
+      "titre_officiel": "Conduits de fumée - Composants - Conduits intérieurs en béton",
+      "statut": "En vigueur — avril 2010 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1857, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1858+A1",
+      "titre_officiel": "Conduits de fumée - Composants - Conduits de fumée simple et multiparois en béton",
+      "statut": "En vigueur — août 2011 ; notice vérifiée le 2026-11-13",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "Aucun remplacement supplémentaire démontré par cet audit.",
+      "impact_metre_et_calcul": "Norme de produit ou de méthode : choisir le domaine et les caractéristiques de la prestation. Aucun seuil contractuel de déduction, dosage ou ratio forfaitaire de matériaux n’est établi par la notice.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1858+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1859+A1",
+      "titre_officiel": "Conduits de fumée — Conduits de fumée métalliques — Méthodes d’essai",
+      "statut": "En vigueur — mai2013",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF EN1859 juillet2009 et édition antérieure par chaîne.",
+      "impact_metre_et_calcul": "Norme de produit/méthode : vérifier caractéristiques et compatibilité avec l’ouvrage ; aucune règle de déduction ni dosage universel déduit.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1859+A1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 1916",
+      "titre_officiel": "Tuyaux et pièces complémentaires en béton non armé, béton fibré acier et béton armé",
+      "statut": "En vigueur — décembre 2003",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF EN 1916",
+      "impact_metre_et_calcul": "Norme de produits : tuyaux et pièces complémentaires en béton. La notice mentionne le complément NF P16-345-2 ; vérifier son édition et le domaine du produit avant prescription. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 1916, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 295",
+      "titre_officiel": "Référence de série / produit à préciser sur la notice officielle",
+      "statut": "À préciser — référence de série ou intitulé exact non résolu",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF EN 295",
+      "impact_metre_et_calcul": "La référence sans numéro de partie est insuffisante. Ne pas remplacer automatiquement toute la série par la seule partie 1. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF EN 681-1",
+      "titre_officiel": "Garnitures d’étanchéité en caoutchouc — Spécification des matériaux pour garnitures d’étanchéité pour joints de canalisations — Partie1 : caoutchouc vulcanisé",
+      "statut": "En vigueur — décembre 1996",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "EN 681-1",
+      "impact_metre_et_calcul": "Garnitures en caoutchouc vulcanisé. Base et A3 vérifiés ; contrôler l'ensemble des amendements applicables au produit et au marché, sans prétendre que cette liste est consolidée exhaustive. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 681-1, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF EN 681-1/A3",
+      "titre_officiel": "Garnitures d’étanchéité en caoutchouc — Spécification des matériaux pour garnitures d’étanchéité pour joints de canalisations — Partie1 : caoutchouc vulcanisé",
+      "statut": "En vigueur — décembre 2005",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "EN 681-1",
+      "impact_metre_et_calcul": "Garnitures en caoutchouc vulcanisé. Base et A3 vérifiés ; contrôler l'ensemble des amendements applicables au produit et au marché, sans prétendre que cette liste est consolidée exhaustive. Aucun seuil de métré ajouté.",
+      "mention_type_cctp": "Pour la prestation concernée et dans son domaine, retenir NF EN 681-1/A3, édition et amendements indiqués au marché, en coordination avec les plans, les performances et les contrôles de l’étude. Définir distinctement les limites de prestation et les modalités de décompte."
+    },
+    {
+      "code_norme": "NF P 16-302",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF P 16-302",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 51-301",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF P 51-301",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    },
+    {
+      "code_norme": "NF P 51-302",
+      "titre_officiel": "Intitulé officiel non vérifié ; référence transcrite du cours",
+      "statut": "Non vérifié — validation manuelle requise",
+      "lot_associe": "4 - Lots Techniques",
+      "remplace_ancienne_ref": "NF P 51-302",
+      "impact_metre_et_calcul": "Référence conservée pour traçabilité ; aucune substitution, dimension ou clause CCTP actuelle n’est déduite sans preuve primaire du statut, de l’édition et du domaine.",
+      "mention_type_cctp": ""
+    }
+  ]
+}

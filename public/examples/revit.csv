@@ -1,0 +1,4 @@
+﻿Famille;Type;Niveau;Désignation;Longueur [m];Surface [m2];Volume [m3];Nombre
+Murs;Mur béton 20;RDC;Mur extérieur nord;10;25;5;1
+Murs;Mur béton 20;RDC;Mur extérieur sud;8;20;4;1
+Portes;Porte intérieure;RDC;Porte séjour;;;;2

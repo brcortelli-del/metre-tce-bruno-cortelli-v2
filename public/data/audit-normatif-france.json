@@ -1,0 +1,3043 @@
+{
+  "metadata": {
+    "version": "FR-2026-11-13.1",
+    "verifie_le": "2026-11-13",
+    "lots": [
+      "01",
+      "02"
+    ],
+    "ouvrages": 554,
+    "perimetre": "Les trois PDF sont inventoriés ; cette livraison rapproche les 554 fiches et les 54 références distinctes de la base des lots01/02, avec compléments réglementaires. Les autres lots restent à auditer. Le repérage textuel de 514 pages n’est pas une certification exhaustive des citations, schémas ou notes.",
+    "limites": [
+      "Notices AFNOR/CSTB : statut, édition et domaine ; texte normatif intégral non consulté pour certifier les clauses internes de métré.",
+      "Aucun seuil français de déduction n’a été inventé, notamment 0,05m³ pour DTU21P2 ou 0,50m² pour DTU20.1.",
+      "Le statut de certaines notices Eurocodes contredit leur date d’annulation : génération et annexe nationale à confirmer avec le bureau d’études.",
+      "Les textes CCTP sont des trames originales à compléter et relire, pas des extraits officiels des normes.",
+      "Un rattachement par désignation est une proposition de domaine, pas une décision de dimensionnement."
+    ]
+  },
+  "sources": [
+    {
+      "id": "FR-SOURCE-001",
+      "titre": "AFNOR — DTU 11.1, Sondage des sols de fondation, édition mai 1981",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-111/dtu-111-sondage-des-sols-de-fondation-edition-mai-1981/fa006656/47732",
+      "repere": "Référence DTU 11.1 ; statut annulé ; aucun remplacement unique établi dans les informations publiques consultées.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-002",
+      "titre": "AFNOR DTU12 annulé",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-12/dtu-12-terrassement-pour-le-batiment-edition-octobre-1978/fa006657/47733",
+      "repere": "statut annulé ; remplacement unique non établi",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-003",
+      "titre": "CSTB NF DTU13.1 septembre2019",
+      "url": "https://boutique.cstb.fr/detail/documents-techniques-unifies/dtu-nf-dtu/13-fondations/nf-dtu-13-1-fondations-superficielles",
+      "repere": "remplace13.11 et13.12 ; domaine fondations superficielles/semi-profondes, élancement≤5",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-004",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p11/travaux-de-batiment-fondations-superficielles-partie-11-cahier-des-clauses-/fa193423/323032",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-005",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p12/dtu-131-travaux-de-batiment-fondations-superficielles-partie-12-criteres-ge/fa193424/323015",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-006",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p2/travaux-de-batiment-fondations-superficielles-partie-2-cahier-des-clauses-a/fa193425/323161",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-007",
+      "titre": "AFNOR NF DTU13.2 mai2020",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132/travaux-de-batiment-fondations-profondes-partie-11-elements-relatifs-a-lexe/fa200628/85494",
+      "repere": "en vigueur",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-008",
+      "titre": "Éléments relatifs à l’exécution — Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p11/travaux-de-batiment-fondations-profondes-partie-11-elements-relatifs-a-lexe/fa196703/323092",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-009",
+      "titre": "Critères de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p12/travaux-de-batiment-fondations-profondes-partie-12-criteres-de-choix-des-ma/fa196704/323044",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-010",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p2/travaux-de-batiment-fondations-profondes-partie-2-cahier-des-clauses-admini/fa196705/323010",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-011",
+      "titre": "AFNOR — NF P98-331",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p98331/chaussees-et-dependances-tranchees-ouverture-remblayage-refection/fa193146/85652",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-012",
+      "titre": "CCTG — arrêté7oct2021 consolidé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206042/",
+      "repere": "articles2-3 : fascicules2 et70-I/II listés ; applicables aux marchés qui s’y réfèrent",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-013",
+      "titre": "AFNOR NF DTU20.1 juillet2020",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa200726/85614",
+      "repere": "en vigueur ; notice de catalogue, texte intégral non librement vérifié",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-014",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p11/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181579/323052",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-015",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p12/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181580/323134",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-016",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p2/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181581/323047",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-017",
+      "titre": "Dispositions constructives minimales",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p3/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa168781/323086",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-018",
+      "titre": "AFNOR — DTU 60.11 octobre 1988, annulé et remplacé",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-6011/travaux-de-batiment-plomberie-sanitaire-pour-batiment-a-usage-dhabitation-/fa018789/10808",
+      "repere": "Rubrique « Norme remplacée par » : quatre parties de 2013, en vigueur.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-019",
+      "titre": "AFNOR — NF DTU 60.11 édition 2013",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa183834/1390",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-020",
+      "titre": "Réseaux d’alimentation d’eau froide et chaude sanitaire",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p11/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa155244/323122",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-021",
+      "titre": "Conception et dimensionnement des réseaux bouclés",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p12/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175666/323123",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-022",
+      "titre": "Évacuation des eaux usées et des eaux vannes",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p2/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175665/323062",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-023",
+      "titre": "Évacuation des eaux pluviales",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p3/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175664/323131",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-024",
+      "titre": "AFNOR — XP DTU 64.1 P1-1 mars 2007",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/xp-dtu-641-p11/mise-en-oeuvre-des-dispositifs-dassainissement-non-collectif-dit-autonome-m/fa139464/336685",
+      "repere": "Rubriques normes remplacées : XP P16-603 1998 ; norme remplacée par : NF DTU 64.1 P1-1 août 2013.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-025",
+      "titre": "AFNOR — NF DTU 64.1 août 2013",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa183720/1377",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-026",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p11/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167571/323100",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-027",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p12/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167570/323129",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-028",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p2/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167569/322982",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-029",
+      "titre": "AFNOR — NF EN 1916",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1916/tuyaux-et-pieces-complementaires-en-beton-non-arme-beton-fibre-acier-et-bet/fa040422/22318",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-030",
+      "titre": "AFNOR — NF EN 681-1",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-6811/garnitures-detancheite-en-caoutchouc-specification-des-materiaux-pour-garni/fa025796/12835",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-031",
+      "titre": "AFNOR — NF EN 681-1/A3",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-6811-a3/garnitures-detancheite-en-caoutchouc-specification-des-materiaux-pour-garni/fa139794/26421",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-032",
+      "titre": "AFNOR — NF EN 295-1 mai 2013",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-2951/systemes-de-tuyaux-en-gres-vitrifie-pour-les-collecteurs-dassainissement-et/fa160178/41417",
+      "repere": "Exemple de partie identifiée, en vigueur : exigences des tuyaux, raccords et assemblages en grès vitrifié. Ne prouve pas le statut de toutes les parties.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-033",
+      "titre": "AFNOR — NF EN 14758-1",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-147581/systemes-de-canalisations-en-plastique-pour-les-branchements-et-les-collect/fa200694/344956",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-034",
+      "titre": "AFNOR — NF P98-302 juin 1982",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p98302/chaussees-bordures-et-caniveaux-prefabriques-en-beton/fa017231/52712",
+      "repere": "Ancienne norme annulée ; rubrique remplacée par : NF EN1340 février2004 et NF P98-340/CN mars2004, toutes deux indiquées en vigueur.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-035",
+      "titre": "AFNOR NF EN206+A2/CN décembre2025",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-206-a2-cn/beton-specification-performance-production-et-conformite-complement-nationa/fa211302/456716",
+      "repere": "en vigueur, tirage2juillet2026",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-036",
+      "titre": "AFNOR NF EN206-1 mars2026 — note informative",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-2061/beton-specification-performances-production-et-conformite-partie-1-performa/fa205827/598969",
+      "repere": "maintien206+A2/CN2025 en attendant toutes les nouvelles parties",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-037",
+      "titre": "AFNOR NF DTU21 juin2017",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-11-cahier/fa191614/1668",
+      "repere": "en vigueur ; exécution béton, distinct du calcul EC2",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-038",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p11/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-11-cahier/fa164660/322933",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-039",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p12/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-12-criter/fa166676/323041",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-040",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p2/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-2-cahier-/fa166677/323178",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-041",
+      "titre": "AFNOR NF P18-210 / DTU23.1 mai1993",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p18210/dtu-231-travaux-de-batiment-murs-en-beton-banche-cahier-des-clauses-techniq/fa029709/290",
+      "repere": "encore en vigueur",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-042",
+      "titre": "AFNOR NF DTU13.3 décembre2021",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133/travaux-de-dallages-conception-calcul-et-execution-partie-111-cahier-des-cl/fa204046/303472",
+      "repere": "en vigueur",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-043",
+      "titre": "Cahier des clauses techniques types des dallages hors maisons individuelles",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p111/travaux-de-dallages-conception-calcul-et-execution-partie-111-cahier-des-cl/fa190587/317637",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-044",
+      "titre": "Cahier des clauses techniques types des dallages de maisons individuelles",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p112/travaux-de-dallages-conception-calcul-et-execution-partie-112-cahier-des-cl/fa190588/317419",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-045",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p12/travaux-de-dallages-conception-calcul-et-execution-partie-12-criteres-gener/fa190589/317352",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-046",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p2/travaux-de-dallages-conception-calcul-et-execution-partie-2-cahier-des-clau/fa190590/317688",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-047",
+      "titre": "AFNOR — NF A35-024",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-a35024/aciers-pour-beton-arme-treillis-soudes-de-surface-constitues-de-fils-de-dia/fa193237/83029",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-048",
+      "titre": "AFNOR NF A35-080-1 mai2020",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-a350801/aciers-pour-beton-arme-aciers-soudables-partie-1-barres-et-couronnes/fa193699/84994",
+      "repere": "barres/couronnes ; chaîne de remplacement A35-016",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-049",
+      "titre": "AFNOR NF A35-080-2 mars2022",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-a350802/aciers-pour-beton-arme-aciers-soudables-partie-2-treillis-soudes/fa199399/322715",
+      "repere": "treillis soudés ; domaine à respecter, notamment diamètres",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-050",
+      "titre": "AFNOR NF P03-001 octobre2017",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p03001/marches-prives-cahiers-types-cahier-des-clauses-administratives-generales-a/fa188203/1682",
+      "repere": "remplace décembre2000 ; marchés privés",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-051",
+      "titre": "AFNOR — NF EN 12350-1 — Prélèvement et appareillage commun",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123501/essais-pour-beton-frais-partie-1-prelevement-et-appareillage-commun/fa190557/83429",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-052",
+      "titre": "AFNOR — NF EN 12350-2 — Essai d’affaissement",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123502/essais-pour-beton-frais-partie-2-essai-daffaissement/fa190558/83431",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-053",
+      "titre": "AFNOR — NF EN 12350-6 — Masse volumique du béton frais",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123506/essais-pour-beton-frais-partie-6-masse-volumique/fa190562/83423",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-054",
+      "titre": "AFNOR — NF EN 12350-7 — Teneur en air, compressibilité",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123507/essais-pour-beton-frais-partie-7-teneur-en-air-methode-de-la-compressibilit/fa190563/83427",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-055",
+      "titre": "AFNOR — NF EN 12390-1 — Éprouvettes et moules",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123901/essais-pour-beton-durci-partie-1-forme-dimensions-et-autres-exigences-aux-e/fa195833/264178",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-056",
+      "titre": "AFNOR — NF EN 12390-2 — Confection et conservation des éprouvettes",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123902/essais-pour-beton-durci-partie-2-confection-et-conservation-des-eprouvettes/fa190565/83458",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-057",
+      "titre": "AFNOR NF EN12390-3 juin2019",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123903/essais-pour-beton-durci-partie-3-resistance-a-la-compression-des-eprouvette/fa190566/83462",
+      "repere": "en vigueur ; millésime1999 du livre non retrouvé",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-058",
+      "titre": "AFNOR — NF EN 12390-6 avril 2012 et remplacement 2023",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123906/essais-pour-beton-durci-partie-6-determination-de-la-resistance-en-traction/fa163501/39060",
+      "repere": "Rubrique norme remplacée par : novembre2023 en vigueur ; édition2012 annulée.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-059",
+      "titre": "AFNOR — NF EN 12390-7 — Masse volumique du béton durci",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-123907/essais-pour-beton-durci-partie-7-masse-volumique-du-beton-durci/fa190568/83465",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-060",
+      "titre": "DIN Media — DIN 4030-2:2024-07",
+      "url": "https://www.dinmedia.de/de/norm/din-4030-2/372561800",
+      "repere": "Norme marquée AKTUELL ; remplace DIN4030-2:2008-06 ; notice consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-061",
+      "titre": "ISO — ISO 4316:1977",
+      "url": "https://www.iso.org/standard/10185.html",
+      "repere": "Statut Published, version encore current ; confirmation2019, révision ISO/DIS4316 en cours ; consultée le 13 novembre2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-062",
+      "titre": "AFNOR — FD P18-011",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/fd-p18011/beton-definition-et-classification-des-environnements-chimiquement-agressif/fa204582/328696",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-063",
+      "titre": "AFNOR — NF EN 197-1",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1971/ciment-partie-1-composition-specifications-et-criteres-de-conformite-des-ci/fa149898/1234",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-064",
+      "titre": "AFNOR — NF EN12620+A1",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-12620-a1/granulats-pour-beton/fa157250/31276",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-065",
+      "titre": "AFNOR — NF EN934-2+A1",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-9342-a1/adjuvants-pour-betons-mortier-et-coulis-partie-2-adjuvants-pour-beton-defin/fa178669/1262",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-066",
+      "titre": "AFNOR — NF EN1008",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1008/eau-de-gachage-pour-betons-specifications-dechantillonnage-dessais-et-deval/fa027978/21631",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-067",
+      "titre": "AFNOR — FD P18-503",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/fd-p18503/surfaces-et-parements-de-beton-elements-didentification/fa207953/355352",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-068",
+      "titre": "AFNOR — NF EN12504-2",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-125042/essais-pour-beton-dans-les-structures-partie-2-essais-non-destructifs-deter/fa195835/263915",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-069",
+      "titre": "AFNOR NF EN13791/CN octobre2021",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-13791-cn/evaluation-de-la-resistance-a-la-compression-sur-site-des-structures-et-des/fa201969/279175",
+      "repere": "référence publiée ; ne plus citer prNF",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-070",
+      "titre": "AFNOR — DTU P18-702, Règles BAEL 91, mars 1992",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p18702/regles-bael-91-regles-techniques-de-conception-et-de-calcul-des-ouvrages-et/fa026070/47746",
+      "repere": "Fiche catalogue : statut annulé et documents de remplacement ; ne démontre pas les règles de métré ni le statut de chaque amendement.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-071",
+      "titre": "AFNOR — NF EN 1992-1-1, octobre 2005",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784",
+      "repere": "En-tête en vigueur ; champ date d'annulation ultérieure : octobre 2026. Métadonnées contradictoires à la date de l'audit.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-072",
+      "titre": "AFNOR Norm'Info — Annexe nationale Eurocode 2 publiée le 19 août 2026",
+      "url": "https://norminfo.afnor.org/norme/pr-nf-en-1992-1-1na/eurocode-2-calcul-des-structures-en-beton-partie-1-1-regles-generales-et-regles-pour-les-batiments-annexe-nationale-a/214424",
+      "repere": "Publication indiquée le 2026-08-19 ; cohérence de génération à contrôler dans les textes acquis.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-073",
+      "titre": "AFNOR Normalisation — Eurocodes",
+      "url": "https://normalisation.afnor.org/thematiques/eurocodes/",
+      "repere": "Organisation des Eurocodes, famille EN1991 ; notice générale, pas un contrôle exhaustif des éditions de chaque partie.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-074",
+      "titre": "BNIB — période de transition pour les planchers à prédalles",
+      "url": "https://www.bnib.fr/2020/06/19/periode-de-transition-planchers-a-predalles-beton/",
+      "repere": "Annonce de la transition CPTPlanchers titreII édition2016, cahier2892-V2, jusqu’à publication NFDTU23.4.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-075",
+      "titre": "AFNOR — NF DTU23.4 juillet2021",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa202736/239452",
+      "repere": "Notice AFNOR : statut, date de publication et domaine ; consultée le 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-076",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p11/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154781/323135",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-077",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p12/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154782/322924",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-078",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p2/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154783/322936",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-079",
+      "titre": "Règles de calculs",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p3/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154784/323128",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-080",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p11/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa159042/323094",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-081",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p12/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa159040/323101",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-082",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p2/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-2/fa159043/321831",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-083",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p11/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-11-cahie/fa190170/322987",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-084",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p12/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-12-crite/fa190171/323105",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-085",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p2/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-2-cahier/fa190172/323149",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-086",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p11/travaux-de-batiment-travaux-de-cuvelage-partie-11-cahier-des-clauses-techni/fa190167/323080",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-087",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p12/travaux-de-batiment-travaux-de-cuvelage-partie-12-criteres-generaux-de-choi/fa190168/323124",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-088",
+      "titre": "Cahier des clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p2/travaux-de-batiment-travaux-de-cuvelage-partie-2-cahier-des-clauses-adminis/fa190169/323196",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-089",
+      "titre": "Cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p11/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-11-cah/fa151066/322971",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-090",
+      "titre": "Amendement1 au cahier des clauses techniques types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p11-a1/travaux-de-batiments-cloisons-en-maconnerie-de-petits-elements-partie-11-ca/fa063368/57509",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-091",
+      "titre": "Critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p12/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-12-cri/fa151067/323158",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-092",
+      "titre": "Amendement1 aux critères généraux de choix des matériaux",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p12-a1/travaux-de-batiments-cloisons-en-maconnerie-de-petits-elements-partie-12-cr/fa063369/57510",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-093",
+      "titre": "Cahier de clauses administratives spéciales types",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p2/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-2-cahi/fa125242/322969",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-094",
+      "titre": "Mémento",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p3/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-3-meme/fa125243/323183",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-095",
+      "titre": "Amendement1 au mémento",
+      "url": "https://boutique.cstb.fr/getattachment/69975ed5-11eb-451d-91cb-74116a8312d5/Liste-DTU-Fevrier-2026.pdf",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-096",
+      "titre": "Annexe nationale française à l'Eurocode 2, partie 1-1",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211-na/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa300691/604320",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-097",
+      "titre": "AFNOR — DTU P18-703, Règles BPEL 91, avril 1992",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p18703/regles-bpel-91-regles-techniques-de-conception-et-de-calcul-des-ouvrages-et/fa026069/47748",
+      "repere": "Statut annulé ; liste de remplacement Eurocode 2.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-098",
+      "titre": "AFNOR — DTU P06-002, Règles NV 65, février 2009",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p06002/regles-nv-65-regles-definissant-les-effets-de-la-neige-et-du-vent-sur-les-c/fa133509/60248",
+      "repere": "Statut annulé ; date d'annulation septembre 2026 ; remplacement catalogue par la partie vent de l'Eurocode 1.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-099",
+      "titre": "AFNOR — NF EN 1991-1-4, novembre 2005",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1991-1-4/eurocode-1-actions-sur-les-structures-partie-1-4-actions-generales-actions-du-vent/fa104153/25897",
+      "repere": "En-tête en vigueur et date d'annulation octobre 2026 : réserve d'édition.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-100",
+      "titre": "AFNOR — NF EN 1991-1-3, avril 2004",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199113/eurocode-1-actions-sur-les-structures-partie-13-actions-generales-charges-d/fa102764/22841",
+      "repere": "En-tête en vigueur et date d'annulation octobre 2026 : réserve d'édition.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-101",
+      "titre": "Légifrance — Article 3 de l'arrêté du 13 novembre 2024 relatif à certaines structures provisoires et démontables",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000050830689",
+      "repere": "Exemple de référence à la version applicable lors de la mise en service ; exception de domaine, sans portée générale sur tous les bâtiments.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-102",
+      "titre": "Légifrance — Arrêté du 29 novembre 2000",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000220217",
+      "repere": "Texte d'origine de la RT 2000 ; référence historique, sans assimilation à une règle de déduction des quantités.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-103",
+      "titre": "Légifrance — CCH R172-1",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556",
+      "repere": "Champ de la RE2020 selon date et destination.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-104",
+      "titre": "Exigences de performance énergétique et environnementale des constructions",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000053382800",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-105",
+      "titre": "Légifrance — Arrêté du 24 mai 2006",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000427149",
+      "repere": "Texte historique de la RT 2005 ; domaine d'application et exclusions définis par le texte.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-106",
+      "titre": "Ministère — Fiche d'application extensions et constructions de petite surface",
+      "url": "https://rt-re-batiment.developpement-durable.gouv.fr/IMG/pdf/fiche_application_extension_batiment_et_const_inf_50.pdf",
+      "repere": "Distinction entre parties nouvelles et travaux sur bâtiments existants.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-107",
+      "titre": "Légifrance — Arrêté du 26 octobre 2010 consolidé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022959397/",
+      "repere": "Texte RT 2012 pour les usages de son domaine ; son existence dans la base ne signifie pas application à tout projet neuf de 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-108",
+      "titre": "Légifrance — Décret n° 2026-200 du 18 mars 2026",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053703809/",
+      "repere": "Article 3 : dépôts à compter du 1er juillet 2026 ; article 1 modifiant R172-3.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-109",
+      "titre": "Ministère — Calendrier et champ d'application de la RE2020",
+      "url": "https://rt-re-batiment.developpement-durable.gouv.fr/calendrier-et-champ-d-application-a1222.html",
+      "repere": "FAQ mise à jour le 8 octobre 2026 ; vérifier la version réglementaire selon la date de dépôt.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-110",
+      "titre": "Décret n° 65-48 du 8 janvier 1965 — texte abrogé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000494155",
+      "repere": "Abrogation par décret n° 2008-244 du 7 mars 2008, article 9 ; effet au 1er mai 2008.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-111",
+      "titre": "Code du travail — article R. 4534-24",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041541491/",
+      "repere": "Version en vigueur depuis le 7 février 2020 ; consultation au 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-112",
+      "titre": "Terrassements à ciel ouvert",
+      "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000018529252",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-113",
+      "titre": "Code de l’environnement — article R. 554-20",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036017437/",
+      "repere": "Version en vigueur depuis le 1er janvier 2018 ; consultation au 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-114",
+      "titre": "Code de l’environnement — article R. 554-25",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037522519/",
+      "repere": "Version en vigueur depuis le 1er janvier 2020 ; consultation au 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-115",
+      "titre": "Décret n° 94-469 du 3 juin 1994 — version consolidée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005615953/",
+      "repere": "Chapitres et dispositions abrogés ; article 18 présenté comme disposition modificative. Contrôle au 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-116",
+      "titre": "Code général des collectivités territoriales — article R. 2224-6",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042075073/",
+      "repere": "Version en vigueur depuis le 3 juillet 2020.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-117",
+      "titre": "Code général des collectivités territoriales — article R. 2224-10",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006396176/",
+      "repere": "Systèmes de collecte ; consultation au 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-118",
+      "titre": "Prescriptions relatives aux systèmes d’assainissement concernés",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-119",
+      "titre": "Arrêté technique du 22 décembre 1994 — texte abrogé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000735207/",
+      "repere": "Abrogation par l’article 24 de l’arrêté du 22 juin 2007.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-120",
+      "titre": "Arrêté du 22 décembre 1994 relatif à la surveillance — texte abrogé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000550850/",
+      "repere": "Abrogation au 14 juillet 2007.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-121",
+      "titre": "Arrêté du 21 juin 1996 — prescriptions techniques minimales",
+      "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006130554",
+      "repere": "Dispositions abrogées au 14 juillet 2007 par l’article 24 de l’arrêté du 22 juin 2007.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-122",
+      "titre": "Arrêté technique ANC du 7 septembre 2009 — version consolidée",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/",
+      "repere": "Champ d’application, article 1 ; dernière mise à jour affichée : 1er mars 2021.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-123",
+      "titre": "Arrêté technique ANC du 6 mai 1996 — texte abrogé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000560526/",
+      "repere": "Abrogation au 10 octobre 2009.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-124",
+      "titre": "Arrêté du 26 février 2021 modifiant les textes techniques et de contrôle ANC",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043190509/",
+      "repere": "Modifications entrées en vigueur le 1er mars 2021.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-125",
+      "titre": "Arrêté de contrôle ANC du 6 mai 1996 — texte abrogé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000192965",
+      "repere": "Abrogation au 10 octobre 2009.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-126",
+      "titre": "Arrêté de contrôle ANC du 7 septembre 2009 — texte abrogé",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125154",
+      "repere": "Abrogation au 1er juillet 2012.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-127",
+      "titre": "Arrêté du 27 avril 2012 — version consolidée",
+      "url": "https://www.legifrance.gouv.fr/loda/texte_lc/LEGITEXT000025880015/",
+      "repere": "Articles 1 à 4 et 9 ; dernière mise à jour affichée : 1er mars 2021 ; contrôle au 13 novembre 2026.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-128",
+      "titre": "AFNOR — NF EN 16907-1",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-169071/terrassement-partie-1-principes-et-regles-generales/fa170384/83577",
+      "repere": "Décembre 2018 ; statut « en vigueur » affiché au 13 novembre 2026. Notice de catalogue, sans accès au texte intégral.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-129",
+      "titre": "Normalisation — application volontaire et cas d’obligation",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020749979/",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-130",
+      "titre": "DAJ — entrée en vigueur du Code de la commande publique",
+      "url": "https://www.economie.gouv.fr/daj/les-archives-de-lactualite-de-la-commande-publique",
+      "repere": "Actualité du 3 avril 2019.",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-131",
+      "titre": "Cadre des marchés publics et concessions",
+      "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000037701019/",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-132",
+      "titre": "Eurocode 7 — Calcul géotechnique — Partie 1 : règles générales — Annexe nationale à la NF EN 1997-1:2005",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-19971-na/eurocode-7-calcul-geotechnique-partie-1-regles-generales-annexe-nationale-a/fa190693/81354",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-133",
+      "titre": "Justification des ouvrages géotechniques — Norme d’application nationale de l’Eurocode 7 — Fondations superficielles",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p94261-compil1/justification-des-ouvrages-geotechniques-norme-dapplication-nationale-de-le/fa191352/335850",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    },
+    {
+      "id": "FR-SOURCE-134",
+      "titre": "Justification des ouvrages géotechniques — Normes d’application nationale de l’Eurocode 7 — Fondations profondes",
+      "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p94262-compil-1/justification-des-ouvrages-geotechniques-normes-dapplication-nationale-de-l/fa195180/335797",
+      "repere": "",
+      "consulte_le": "2026-11-13"
+    }
+  ],
+  "registre_references": [
+    {
+      "id": "FR-REF-001",
+      "reference_cours": "DTU 11.1",
+      "statut": "ANNULÉ ; AUCUN REMPLACEMENT UNIQUE ÉTABLI PAR LA FICHE CONSULTÉE",
+      "references_proposees": [],
+      "familles_dtu": [],
+      "controle": "La fiche AFNOR propre au DTU 11.1 confirme son annulation. Il s'agit des sondages de sols de fondation, à distinguer du DTU 12 sur les terrassements. La fiche publique consultée ne justifie pas une substitution unique à un autre DTU ou à un Eurocode. Identifier les missions, investigations et essais nécessaires puis leurs références actuelles avec le géotechnicien. Actualiser le programme de reconnaissance et les prescriptions à partir de l'étude géotechnique et des textes adaptés aux essais retenus.",
+      "impact_metre": "Ne pas utiliser cette annulation pour modifier une formule de volume de terrassement. Les prestations de reconnaissance et leurs quantités doivent être définies par le programme d'investigations et le bordereau ; aucune unité ou déduction universelle n'est déduite de cette fiche.",
+      "sources": [
+        "FR-SOURCE-001"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-002",
+      "reference_cours": "DTU 12",
+      "statut": "retire_sans_remplacement_unique",
+      "references_proposees": [],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-002"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-003",
+      "reference_cours": "DTU 13.1",
+      "statut": "actualise",
+      "references_proposees": [
+        "NF DTU 13.1 P1-1 — septembre 2019",
+        "NF DTU 13.1 P1-2 — septembre 2019",
+        "NF DTU 13.1 P2 — septembre 2019"
+      ],
+      "familles_dtu": [
+        "FR_DTU_13_1"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-003",
+        "FR-SOURCE-004",
+        "FR-SOURCE-005",
+        "FR-SOURCE-006"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-004",
+      "reference_cours": "DTU 13.2",
+      "statut": "actualise",
+      "references_proposees": [
+        "NF DTU 13.2 P1-1 — mai 2020",
+        "NF DTU 13.2 P1-2 — mai 2020",
+        "NF DTU 13.2 P2 — mai 2020"
+      ],
+      "familles_dtu": [
+        "FR_DTU_13_2"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-007",
+        "FR-SOURCE-008",
+        "FR-SOURCE-009",
+        "FR-SOURCE-010"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-005",
+      "reference_cours": "NF P98-331",
+      "statut": "en_vigueur",
+      "references_proposees": [
+        "NF P98-331 — août 2020"
+      ],
+      "familles_dtu": [],
+      "controle": "Tranchées de réseaux enterrés sous chaussées et dépendances ; ne constitue pas un référentiel universel de tous les terrassements de bâtiment.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-011"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-006",
+      "reference_cours": "CCTG fascicule 2",
+      "statut": "reference_contractuelle",
+      "references_proposees": [
+        "CCTG fascicule 2 — Terrassements généraux (si prévu au marché)"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-012"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-007",
+      "reference_cours": "DTU 20.1",
+      "statut": "actualise",
+      "references_proposees": [
+        "NF DTU 20.1 P1-1 — juillet 2020",
+        "NF DTU 20.1 P1-2 — juillet 2020",
+        "NF DTU 20.1 P2 — juillet 2020",
+        "NF DTU 20.1 P3 — juillet 2020"
+      ],
+      "familles_dtu": [
+        "FR_DTU_20_1"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-013",
+        "FR-SOURCE-014",
+        "FR-SOURCE-015",
+        "FR-SOURCE-016",
+        "FR-SOURCE-017"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-008",
+      "reference_cours": "P40-202 (DTU 60.11)",
+      "statut": "ancienne_edition_annulee_remplacement_prouve",
+      "references_proposees": [
+        "NF DTU 60.11 P1-1 — août 2013",
+        "NF DTU 60.11 P1-2 — août 2013",
+        "NF DTU 60.11 P2 — août 2013",
+        "NF DTU 60.11 P3 — août 2013, tirage2 octobre2013"
+      ],
+      "familles_dtu": [
+        "FR_DTU_60_11"
+      ],
+      "controle": "Règles de calcul des réseaux de plomberie sanitaire et d'eaux pluviales. Choisir la partie correspondant au réseau ; ce n'est pas une règle de métré des maçonneries.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-018",
+        "FR-SOURCE-019",
+        "FR-SOURCE-020",
+        "FR-SOURCE-021",
+        "FR-SOURCE-022",
+        "FR-SOURCE-023"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-009",
+      "reference_cours": "XP P16-603 (DTU 64.1)",
+      "statut": "annulee_remplacement_par_chaine_prouve",
+      "references_proposees": [
+        "NF DTU 64.1 P1-1 — août 2013, tirage2 août2013",
+        "NF DTU 64.1 P1-2 — août 2013",
+        "NF DTU 64.1 P2 — août 2013"
+      ],
+      "familles_dtu": [
+        "FR_DTU_64_1"
+      ],
+      "controle": "Champ indiqué par l'édition actuelle : assainissement non collectif des maisons individuelles jusqu'à 20 pièces principales ; à articuler avec les prescriptions réglementaires et la filière du projet.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-024",
+        "FR-SOURCE-025",
+        "FR-SOURCE-026",
+        "FR-SOURCE-027",
+        "FR-SOURCE-028"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-010",
+      "reference_cours": "CCTG fascicule 70",
+      "statut": "partie_a_preciser",
+      "references_proposees": [
+        "CCTG 70-I / 70-II — mai 2021, partie à choisir selon ouvrage"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-012"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-011",
+      "reference_cours": "NF EN 1916",
+      "statut": "en_vigueur",
+      "references_proposees": [
+        "NF EN 1916 — décembre 2003"
+      ],
+      "familles_dtu": [],
+      "controle": "Norme de produits : tuyaux et pièces complémentaires en béton. La notice mentionne le complément NF P16-345-2 ; vérifier son édition et le domaine du produit avant prescription.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-029"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-012",
+      "reference_cours": "EN 681-1",
+      "statut": "transposition_fr_en_vigueur",
+      "references_proposees": [
+        "NF EN 681-1 — décembre 1996",
+        "NF EN 681-1/A3 — décembre 2005"
+      ],
+      "familles_dtu": [],
+      "controle": "Garnitures en caoutchouc vulcanisé. Base et A3 vérifiés ; contrôler l'ensemble des amendements applicables au produit et au marché, sans prétendre que cette liste est consolidée exhaustive.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-030",
+        "FR-SOURCE-031"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-013",
+      "reference_cours": "NF EN 295",
+      "statut": "serie_a_preciser",
+      "references_proposees": [
+        "NF EN 295 — série, parties à sélectionner selon les produits et essais"
+      ],
+      "familles_dtu": [],
+      "controle": "La référence sans numéro de partie est insuffisante. Ne pas remplacer automatiquement toute la série par la seule partie 1.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-032"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-014",
+      "reference_cours": "NF T54-090",
+      "statut": "NON VÉRIFIÉ SUR SOURCE PRIMAIRE AU 2026-11-13 ; REMPLACEMENT AUTOMATIQUE BLOQUÉ",
+      "references_proposees": [],
+      "familles_dtu": [],
+      "controle": "Les recherches exactes dans les sources AFNOR/Norm'Info accessibles n'ont pas livré de fiche primaire exploitable. Une absence de résultat n'établit ni la validité ni l'annulation. Aucun remplacement par une norme de produit actuelle ne peut être certifié sans identifier le matériau, l'usage, l'édition et la fiche officielle correspondante. Ne pas attribuer à cette référence des caractéristiques, couleurs, classes ou prescriptions de pose non vérifiées. Faire confirmer la norme exacte dans le dossier produit et le catalogue officiel.",
+      "impact_metre": "Aucune correction d'unité, de quantité ou de déduction n'est justifiée par les éléments vérifiés.",
+      "sources": [],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-015",
+      "reference_cours": "NF EN 14758-1",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 14758-1 — avril 2023"
+      ],
+      "familles_dtu": [],
+      "controle": "PP avec modificateurs minéraux pour assainissement enterré sans pression. La notice indique le remplacement de mai 2012 ; ne pas généraliser à tous les tuyaux plastiques.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-033"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-016",
+      "reference_cours": "NF P98-302",
+      "statut": "annulee_remplacement_prouve",
+      "references_proposees": [
+        "NF EN 1340 — février 2004",
+        "NF P98-340/CN — mars 2004"
+      ],
+      "familles_dtu": [],
+      "controle": "Bordures et caniveaux préfabriqués en béton : compléter les exigences européennes par les profils nationaux correspondant au produit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-034"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-017",
+      "reference_cours": "DTU 13.11",
+      "statut": "remplace",
+      "references_proposees": [
+        "NF DTU 13.1 P1-1 — septembre 2019",
+        "NF DTU 13.1 P1-2 — septembre 2019",
+        "NF DTU 13.1 P2 — septembre 2019"
+      ],
+      "familles_dtu": [
+        "FR_DTU_13_1"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-003",
+        "FR-SOURCE-004",
+        "FR-SOURCE-005",
+        "FR-SOURCE-006"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-018",
+      "reference_cours": "DTU 13.12",
+      "statut": "remplace",
+      "references_proposees": [
+        "NF DTU 13.1 P1-1 — septembre 2019",
+        "NF DTU 13.1 P1-2 — septembre 2019",
+        "NF DTU 13.1 P2 — septembre 2019"
+      ],
+      "familles_dtu": [
+        "FR_DTU_13_1"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-003",
+        "FR-SOURCE-004",
+        "FR-SOURCE-005",
+        "FR-SOURCE-006"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-019",
+      "reference_cours": "NF EN 206-1",
+      "statut": "actualise_transition",
+      "references_proposees": [
+        "NF EN 206+A2/CN — décembre 2025"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-035",
+        "FR-SOURCE-036"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-020",
+      "reference_cours": "NF P 18-201 — DTU 21",
+      "statut": "actualise",
+      "references_proposees": [
+        "NF DTU 21 P1-1 — juin 2017",
+        "NF DTU 21 P1-2 — juin 2017",
+        "NF DTU 21 P2 — juin 2017"
+      ],
+      "familles_dtu": [
+        "FR_DTU_21"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-037",
+        "FR-SOURCE-038",
+        "FR-SOURCE-039",
+        "FR-SOURCE-040"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-021",
+      "reference_cours": "P 10-202 — DTU 20.1",
+      "statut": "actualise",
+      "references_proposees": [
+        "NF DTU 20.1 P1-1 — juillet 2020",
+        "NF DTU 20.1 P1-2 — juillet 2020",
+        "NF DTU 20.1 P2 — juillet 2020",
+        "NF DTU 20.1 P3 — juillet 2020"
+      ],
+      "familles_dtu": [
+        "FR_DTU_20_1"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-013",
+        "FR-SOURCE-014",
+        "FR-SOURCE-015",
+        "FR-SOURCE-016",
+        "FR-SOURCE-017"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-022",
+      "reference_cours": "NF P 11-212 — DTU 13.2",
+      "statut": "actualise",
+      "references_proposees": [
+        "NF DTU 13.2 P1-1 — mai 2020",
+        "NF DTU 13.2 P1-2 — mai 2020",
+        "NF DTU 13.2 P2 — mai 2020"
+      ],
+      "familles_dtu": [
+        "FR_DTU_13_2"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-007",
+        "FR-SOURCE-008",
+        "FR-SOURCE-009",
+        "FR-SOURCE-010"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-023",
+      "reference_cours": "NF P 18-210 — DTU 23.1",
+      "statut": "maintenu",
+      "references_proposees": [
+        "NF P18-210 — mai 1993"
+      ],
+      "familles_dtu": [
+        "FR_DTU_23_1"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-041"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-024",
+      "reference_cours": "NF P 11-213 — DTU 13.3",
+      "statut": "actualise",
+      "references_proposees": [
+        "NF DTU 13.3 P1-1-1 — décembre 2021",
+        "NF DTU 13.3 P1-1-2 — décembre 2021",
+        "NF DTU 13.3 P1-2 — décembre 2021",
+        "NF DTU 13.3 P2 — décembre 2021"
+      ],
+      "familles_dtu": [
+        "FR_DTU_13_3"
+      ],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-042",
+        "FR-SOURCE-043",
+        "FR-SOURCE-044",
+        "FR-SOURCE-045",
+        "FR-SOURCE-046"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-025",
+      "reference_cours": "NF A35-024",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF A35-024 — juillet 2019"
+      ],
+      "familles_dtu": [],
+      "controle": "Treillis soudés de surface en fils de diamètre nominal inférieur à 5 mm. Ne pas les confondre avec les treillis structuraux du domaine NF A35-080-2.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-047"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-026",
+      "reference_cours": "NF A 35-016",
+      "statut": "scinde_selon_produit",
+      "references_proposees": [
+        "NF A 35-080-1 — mai 2020 (barres/couronnes)",
+        "NF A 35-080-2 — mars 2022 (treillis, selon domaine)"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-048",
+        "FR-SOURCE-049"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-027",
+      "reference_cours": "NF A 35-019-2",
+      "statut": "remplace",
+      "references_proposees": [
+        "NF A 35-080-2 — mars 2022 (selon domaine)"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-049"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-028",
+      "reference_cours": "NF P 03-001 (décembre 2000)",
+      "statut": "remplace",
+      "references_proposees": [
+        "NF P 03-001 — octobre 2017 (si marché privé y faisant référence)"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-050"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-029",
+      "reference_cours": "NF EN 206-1 et annexe nationale",
+      "statut": "actualise_transition",
+      "references_proposees": [
+        "NF EN 206+A2/CN — décembre 2025"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-035",
+        "FR-SOURCE-036"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-030",
+      "reference_cours": "NF EN 12350-1",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12350-1 — août 2019"
+      ],
+      "familles_dtu": [],
+      "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-051"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-031",
+      "reference_cours": "NF EN 12350-2",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12350-2 — juin 2019"
+      ],
+      "familles_dtu": [],
+      "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-052"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-032",
+      "reference_cours": "NF EN 12350-6",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12350-6 — août 2019"
+      ],
+      "familles_dtu": [],
+      "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-053"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-033",
+      "reference_cours": "NF EN 12350-7",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12350-7 — juin 2019, tirage 2 avril 2022"
+      ],
+      "familles_dtu": [],
+      "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-054"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-034",
+      "reference_cours": "NF EN 12390-1",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12390-1 — juillet 2021"
+      ],
+      "familles_dtu": [],
+      "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-055"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-035",
+      "reference_cours": "NF EN 12390-2",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12390-2 — juin 2019"
+      ],
+      "familles_dtu": [],
+      "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-056"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-036",
+      "reference_cours": "NF EN 12390-3:1999",
+      "statut": "millesime_ancien_non_identifie",
+      "references_proposees": [
+        "NF EN 12390-3 — juin 2019"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-057"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-037",
+      "reference_cours": "NF EN 12390-6",
+      "statut": "ancienne_edition_annulee_remplacement_prouve",
+      "references_proposees": [
+        "NF EN 12390-6 — novembre 2023"
+      ],
+      "familles_dtu": [],
+      "controle": "Essai de traction par fendage d'éprouvettes. Référence actuelle proposée, sans importer le contenu payant de l'essai ni en déduire une règle de décompte.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-058"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-038",
+      "reference_cours": "NF EN 12390-7",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12390-7 — juin 2019, tirage 2 avril 2023"
+      ],
+      "familles_dtu": [],
+      "controle": "Statut de la notice et édition contrôlés ; le texte intégral de la méthode d'essai n'a pas été reproduit ni audité. Aucun seuil de métré n'en est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-059"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-039",
+      "reference_cours": "DIN 4030-2",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "DIN 4030-2:2024-07"
+      ],
+      "familles_dtu": [],
+      "controle": "Échantillonnage et analyse des eaux et sols agressifs pour le béton. Le statut allemand n'en impose pas l'application automatique en France ou au Luxembourg ; vérifier le marché et les règles nationales.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-060"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-040",
+      "reference_cours": "ISO 4316",
+      "statut": "publiee_actuelle_revision_en_cours",
+      "references_proposees": [
+        "ISO 4316:1977"
+      ],
+      "familles_dtu": [],
+      "controle": "Détermination potentiométrique du pH des solutions aqueuses d'agents de surface. Ne pas remplacer par un projet DIS ni généraliser son domaine à toute analyse géotechnique.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-061"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-041",
+      "reference_cours": "FD P18-011",
+      "statut": "fascicule_documentation_en_vigueur",
+      "references_proposees": [
+        "FD P18-011 — juin 2022"
+      ],
+      "familles_dtu": [],
+      "controle": "Recommandations pour les environnements chimiquement agressifs. Fascicule de documentation, à distinguer d'une norme d'exécution et à articuler avec la version de NF EN206/CN du marché.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-062"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-042",
+      "reference_cours": "NF EN 197-1",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 197-1 — avril 2012"
+      ],
+      "familles_dtu": [],
+      "controle": "Ciments courants. Une autre partie ou norme de ciment peut viser d'autres compositions ; aucune substitution automatique de tous les ciments ni dosage universel n'est déduit.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-063"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-043",
+      "reference_cours": "NF EN 12620",
+      "statut": "version_amendee_en_vigueur",
+      "references_proposees": [
+        "NF EN 12620+A1 — juin 2008"
+      ],
+      "familles_dtu": [],
+      "controle": "Granulats pour béton ; notice de la version amendée en vigueur vérifiée. Les caractéristiques requises dépendent du béton et du marché.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-064"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-044",
+      "reference_cours": "NF EN 934-2",
+      "statut": "version_amendee_en_vigueur",
+      "references_proposees": [
+        "NF EN 934-2+A1 — août 2012"
+      ],
+      "familles_dtu": [],
+      "controle": "Adjuvants pour béton : caractéristiques des produits, pas prescriptions universelles de dosage ou de métré.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-065"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-045",
+      "reference_cours": "NF EN 1008",
+      "statut": "en_vigueur",
+      "references_proposees": [
+        "NF EN 1008 — juillet 2003"
+      ],
+      "familles_dtu": [],
+      "controle": "Eau de gâchage pour béton : échantillonnage, essais et aptitude à l'emploi ; date ancienne ne signifie pas annulation.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-066"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-046",
+      "reference_cours": "FD P18-503",
+      "statut": "fascicule_documentation_en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "FD P18-503 — décembre 2023"
+      ],
+      "familles_dtu": [],
+      "controle": "Surfaces et parements de béton : remplace juin2021. Fascicule de documentation ; les niveaux d'acceptation du parement sont à prescrire au marché.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-067"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-047",
+      "reference_cours": "NF EN 12504-2",
+      "statut": "en_vigueur_edition_identifiee",
+      "references_proposees": [
+        "NF EN 12504-2 — juillet 2021"
+      ],
+      "familles_dtu": [],
+      "controle": "Indice de rebondissement au scléromètre ; ne pas assimiler directement cet indice à une résistance sans la procédure d'évaluation applicable.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-068"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-048",
+      "reference_cours": "prNF EN 13791",
+      "statut": "projet_devenu_norme",
+      "references_proposees": [
+        "NF EN 13791/CN — octobre 2021"
+      ],
+      "familles_dtu": [],
+      "controle": "statut_et_domaine_sur_notice_officielle ; clauses intégrales non certifiées",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-069"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-049",
+      "reference_cours": "BAEL",
+      "statut": "BASE BAEL 91 ANNULÉE ; TRANSITION EUROCODE 2 À SÉCURISER PAR ÉDITION. Vérification publique au 2026-11-13, sans lecture intégrale des textes payants.",
+      "references_proposees": [
+        "NF EN 1992-1-1 et annexe nationale française, génération cohérente à préciser",
+        "NF EN 1992-1-1/NA, août 2026 — compatibilité avec le texte européen à confirmer"
+      ],
+      "familles_dtu": [],
+      "controle": "La fiche AFNOR du BAEL 91 de mars 1992 est annulée et renvoie à l'Eurocode 2. La fiche NF EN 1992-1-1 d'octobre 2005 conserve un en-tête « en vigueur » tout en annonçant une annulation en octobre 2026 ; cette contradiction empêche de certifier cette édition au 13 novembre 2026. La nouvelle annexe nationale publiée en août 2026 doit être raccordée à la bonne génération par le bureau d'études. L'édition contractuelle d'un ancien marché et la justification d'un ouvrage existant demandent une analyse distincte. Les amendements BAEL cités dans le cours restent à identifier individuellement. Adapter les prescriptions aux plans et à l'étude validés. L'Eurocode de calcul ne remplace pas à lui seul les textes d'exécution et de spécification du béton.",
+      "impact_metre": "Conserver le calcul géométrique des volumes ; reprendre les sections, les plans de ferraillage et les nomenclatures issus de l'étude structurale retenue. Ne pas convertir une formule BAEL en formule Eurocode par simple changement de titre. Aucun seuil de réservation ni ratio kg/m³ n'est établi par cet audit.",
+      "sources": [
+        "FR-SOURCE-070",
+        "FR-SOURCE-071",
+        "FR-SOURCE-072"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-050",
+      "reference_cours": "Eurocode 1",
+      "statut": "serie_generique_a_preciser",
+      "references_proposees": [],
+      "familles_dtu": [],
+      "controle": "Famille de normes de calcul des actions sur les structures. Sélectionner les parties, amendements, génération et annexes nationales formant un ensemble cohérent pour le marché ; aucune partie particulière imposée par cette entrée générique.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-073"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-051",
+      "reference_cours": "Eurocode 2",
+      "statut": "BASE BAEL 91 ANNULÉE ; TRANSITION EUROCODE 2 À SÉCURISER PAR ÉDITION. Vérification publique au 2026-11-13, sans lecture intégrale des textes payants.",
+      "references_proposees": [
+        "NF EN 1992-1-1 et annexe nationale française, génération cohérente à préciser",
+        "NF EN 1992-1-1/NA, août 2026 — compatibilité avec le texte européen à confirmer"
+      ],
+      "familles_dtu": [],
+      "controle": "La fiche AFNOR du BAEL 91 de mars 1992 est annulée et renvoie à l'Eurocode 2. La fiche NF EN 1992-1-1 d'octobre 2005 conserve un en-tête « en vigueur » tout en annonçant une annulation en octobre 2026 ; cette contradiction empêche de certifier cette édition au 13 novembre 2026. La nouvelle annexe nationale publiée en août 2026 doit être raccordée à la bonne génération par le bureau d'études. L'édition contractuelle d'un ancien marché et la justification d'un ouvrage existant demandent une analyse distincte. Les amendements BAEL cités dans le cours restent à identifier individuellement. Adapter les prescriptions aux plans et à l'étude validés. L'Eurocode de calcul ne remplace pas à lui seul les textes d'exécution et de spécification du béton.",
+      "impact_metre": "Conserver le calcul géométrique des volumes ; reprendre les sections, les plans de ferraillage et les nomenclatures issus de l'étude structurale retenue. Ne pas convertir une formule BAEL en formule Eurocode par simple changement de titre. Aucun seuil de réservation ni ratio kg/m³ n'est établi par cet audit.",
+      "sources": [
+        "FR-SOURCE-070",
+        "FR-SOURCE-071",
+        "FR-SOURCE-072"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-052",
+      "reference_cours": "Eurocode 3",
+      "statut": "serie_generique_a_preciser",
+      "references_proposees": [],
+      "familles_dtu": [],
+      "controle": "Famille de normes de calcul des structures en acier. Sélectionner les parties, amendements, génération et annexes nationales formant un ensemble cohérent pour le marché ; aucune partie particulière imposée par cette entrée générique.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-073"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-053",
+      "reference_cours": "Eurocode 4",
+      "statut": "serie_generique_a_preciser",
+      "references_proposees": [],
+      "familles_dtu": [],
+      "controle": "Famille de normes de calcul des structures mixtes acier-béton. Sélectionner les parties, amendements, génération et annexes nationales formant un ensemble cohérent pour le marché ; aucune partie particulière imposée par cette entrée générique.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-073"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    },
+    {
+      "id": "FR-REF-054",
+      "reference_cours": "CPT Planchers titre II",
+      "statut": "ancien_referentiel_edition_et_domaine_a_confirmer",
+      "references_proposees": [
+        "NF DTU 23.4 — juillet2021, domaine des prédalles industrialisées à vérifier"
+      ],
+      "familles_dtu": [],
+      "controle": "Référence ancienne incomplète sans édition. NFDTU23.4 actuel concerne les prédalles industrialisées ; confirmer le système, son domaine traditionnel ou son Avis technique avant remplacement. Ne pas remplacer par DTU23.2 qui vise les dalles alvéolées.",
+      "impact_metre": "La mise à jour de la référence ne modifie pas à elle seule la formule géométrique ni les conventions contractuelles de décompte. Les prescriptions de l’étude peuvent modifier les quantités.",
+      "sources": [
+        "FR-SOURCE-074",
+        "FR-SOURCE-075"
+      ],
+      "seuil_deduction_m2": null,
+      "seuil_deduction_m3": null
+    }
+  ],
+  "familles_dtu": [
+    {
+      "id": "FR_DTU_13_1",
+      "nom": "NF DTU 13.1 — Fondations superficielles",
+      "parties": [
+        {
+          "code": "NF DTU 13.1 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "septembre 2019",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p11/travaux-de-batiment-fondations-superficielles-partie-11-cahier-des-clauses-/fa193423/323032"
+        },
+        {
+          "code": "NF DTU 13.1 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "septembre 2019",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p12/dtu-131-travaux-de-batiment-fondations-superficielles-partie-12-criteres-ge/fa193424/323015"
+        },
+        {
+          "code": "NF DTU 13.1 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "septembre 2019",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-131-p2/travaux-de-batiment-fondations-superficielles-partie-2-cahier-des-clauses-a/fa193425/323161"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Définir le mesurage au bordereau et dans les pièces du marché. La notice de P2 établit son objet administratif ; elle ne permet pas de vérifier une convention de déduction ou un seuil. Calcul géométrique et quantité contractuellement payable doivent rester distingués.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "L'édition de 2019 remplace les anciens DTU13.11/13.12 ; respecter son domaine et l'étude géotechnique. CCT signifie cahier des clauses techniques types : il sert à rédiger le CCTP du chantier, sans être lui-même un CCTP particulier. Aucun seuil inventé."
+    },
+    {
+      "id": "FR_DTU_13_2",
+      "nom": "NF DTU 13.2 — Fondations profondes",
+      "parties": [
+        {
+          "code": "NF DTU 13.2 P1-1",
+          "titre": "Éléments relatifs à l’exécution — Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "mai 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p11/travaux-de-batiment-fondations-profondes-partie-11-elements-relatifs-a-lexe/fa196703/323092"
+        },
+        {
+          "code": "NF DTU 13.2 P1-2",
+          "titre": "Critères de choix des matériaux",
+          "role": "CGM",
+          "millesime": "mai 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p12/travaux-de-batiment-fondations-profondes-partie-12-criteres-de-choix-des-ma/fa196704/323044"
+        },
+        {
+          "code": "NF DTU 13.2 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "mai 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-132-p2/travaux-de-batiment-fondations-profondes-partie-2-cahier-des-clauses-admini/fa196705/323010"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Le sommaire public AFNOR de P2 identifie un chapitre6 relatif au règlement des travaux. Son texte intégral n'a pas été consulté : aucune règle détaillée, unité de paiement, tolérance ou déduction n'est déduite du seul intitulé. Lire les stipulations rendues contractuelles.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "P1-1 complète les normes d'exécution des pieux, micropieux et barrettes dans son domaine, sans s'y substituer. La présence d'un chapitre de règlement n'autorise pas à inventer ses conventions. Distinction nécessaire entre CCT d'exécution, CGM et CCS."
+    },
+    {
+      "id": "FR_DTU_13_3",
+      "nom": "NF DTU 13.3 — Travaux de dallages : conception, calcul et exécution",
+      "parties": [
+        {
+          "code": "NF DTU 13.3 P1-1-1",
+          "titre": "Cahier des clauses techniques types des dallages hors maisons individuelles",
+          "role": "CCT_HORS_MAISONS_INDIVIDUELLES",
+          "millesime": "décembre 2021",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p111/travaux-de-dallages-conception-calcul-et-execution-partie-111-cahier-des-cl/fa190587/317637"
+        },
+        {
+          "code": "NF DTU 13.3 P1-1-2",
+          "titre": "Cahier des clauses techniques types des dallages de maisons individuelles",
+          "role": "CCT_MAISONS_INDIVIDUELLES",
+          "millesime": "décembre 2021",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p112/travaux-de-dallages-conception-calcul-et-execution-partie-112-cahier-des-cl/fa190588/317419"
+        },
+        {
+          "code": "NF DTU 13.3 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "décembre 2021",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p12/travaux-de-dallages-conception-calcul-et-execution-partie-12-criteres-gener/fa190589/317352"
+        },
+        {
+          "code": "NF DTU 13.3 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "décembre 2021",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-133-p2/travaux-de-dallages-conception-calcul-et-execution-partie-2-cahier-des-clau/fa190590/317688"
+        }
+      ],
+      "regle_metre": {
+        "texte": "La surface, le volume, les couches et les déductions à retenir pour le règlement doivent être précisés par les pièces du marché. Les notices ne démontrent aucun seuil numérique de non-déduction applicable automatiquement.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Ce DTU comprend quatre parties, avec deux CCT distincts selon le type d'ouvrage. Ne pas créer un unique P1-1 fictif, ni appliquer les dispositions hors maisons individuelles au cas maison individuelle sans contrôler le domaine. Dallage sur terre-plein et plancher porté ne sont pas interchangeables. Une dalle portée relève des référentiels d'exécution et du système concernés, notamment NFDTU21 ou NFDTU23.x, et non automatiquement du DTU13.3 des dallages."
+    },
+    {
+      "id": "FR_DTU_20_1",
+      "nom": "NF DTU 20.1 — Maçonnerie de petits éléments : parois et murs",
+      "parties": [
+        {
+          "code": "NF DTU 20.1 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "juillet 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p11/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181579/323052"
+        },
+        {
+          "code": "NF DTU 20.1 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "juillet 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p12/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181580/323134"
+        },
+        {
+          "code": "NF DTU 20.1 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "juillet 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p2/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa181581/323047"
+        },
+        {
+          "code": "NF DTU 20.1 P3",
+          "titre": "Dispositions constructives minimales",
+          "role": "DISPOSITIONS_CONSTRUCTIVES",
+          "millesime": "juillet 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-201-p3/travaux-de-batiment-ouvrages-en-maconnerie-de-petits-elements-parois-et-mur/fa168781/323086"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Aucun seuil de déduction des baies, ni traitement contractuel des tableaux, retours ou linteaux, n'a été vérifié dans les seules notices publiques. Définir ces conventions au marché ; ne pas attribuer au DTU20.1 une règle générale de déduction au-delà de0,50m².",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "L'édition2020 comporte une P3 de dispositions constructives minimales, en complément des trois parties CCT/CGM/CCS. Norme de mise en œuvre et dispositions constructives ne valent pas automatiquement règle générale de quantification. Ne pas substituer Eurocode6 au DTU d'exécution."
+    },
+    {
+      "id": "FR_DTU_21",
+      "nom": "NF DTU 21 — Exécution des ouvrages en béton",
+      "parties": [
+        {
+          "code": "NF DTU 21 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "juin 2017",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p11/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-11-cahier/fa164660/322933"
+        },
+        {
+          "code": "NF DTU 21 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "juin 2017",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p12/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-12-criter/fa166676/323041"
+        },
+        {
+          "code": "NF DTU 21 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "juin 2017",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-21-p2/dtu-21-travaux-de-batiment-execution-des-ouvrages-en-beton-partie-2-cahier-/fa166677/323178"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Le sommaire public AFNOR de P2 présente les domaines, références, consistance, coordination et difficultés techniques ; il ne présente pas de chapitre de décompte. La vérification effectuée ne démontre aucun seuil de non-déduction de0,05m³. Les conventions de règlement du béton, des aciers et du coffrage doivent être établies par les documents contractuels.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Ne pas attribuer au NFDTU21 un seuil de0,05m³ sur la seule existence de P2. Le CCT d'exécution, les critères des matériaux et les clauses administratives ont des rôles distincts ; ils ne dispensent pas d'une règle de mesurage contractuelle explicite. Ne pas remplacer ce DTU par Eurocode2 : leurs fonctions diffèrent."
+    },
+    {
+      "id": "FR_DTU_23_1",
+      "nom": "DTU 23.1 — Murs en béton banché",
+      "parties": [
+        {
+          "code": "NF P18-210",
+          "titre": "DTU23.1 — Cahier des clauses techniques, partie1",
+          "role": "CCT_STRUCTURE_ANCIENNE",
+          "millesime": "mai 1993",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-p18210/dtu-231-travaux-de-batiment-murs-en-beton-banche-cahier-des-clauses-techniq/fa029709/290"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Le statut actuel du cahier technique est vérifié. Aucune convention de mesurage ni déduction n'a été vérifiée dans la notice ; préciser au marché le décompte des voiles, réservations, coffrages et retours.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "La liste CSTB des DTU en vigueur identifie ici une partie1 codifiée NF P18-210. Respecter cette structure historique : ne pas inventer NFDTU23.1P1-1, P1-2 ou P2. Le millésime1993 reste indiqué en vigueur ; sa seule ancienneté ne prouve pas une annulation."
+    },
+    {
+      "id": "FR_DTU_23_2",
+      "nom": "NF DTU 23.2 — Planchers à dalles alvéolées préfabriquées en béton",
+      "parties": [
+        {
+          "code": "NF DTU 23.2 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "août 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p11/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154781/323135"
+        },
+        {
+          "code": "NF DTU 23.2 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "août 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p12/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154782/322924"
+        },
+        {
+          "code": "NF DTU 23.2 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "août 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p2/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154783/322936"
+        },
+        {
+          "code": "NF DTU 23.2 P3",
+          "titre": "Règles de calculs",
+          "role": "REGLES_DE_CALCUL",
+          "millesime": "août 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-232-p3/travaux-de-batiment-planchers-a-dalles-alveolees-prefabriquees-en-beton-par/fa154784/323128"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Les notices et la liste CSTB permettent d'identifier quatre parties, mais ne prouvent pas une règle chiffrée de mesurage des dalles alvéolées, trémies et rives. Lire le CCS et les pièces contractuelles applicables avant d'automatiser une convention.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Domaine des dalles alvéolées, à distinguer des prédalles et des poutrelles-entrevous. P3 est une partie de calcul, pas une règle de règlement. Le résumé de la notice web P1-1 comporte une anomalie étrangère au sujet ; seules identité, date, statut et partie, corroborés par la liste CSTB, sont retenus."
+    },
+    {
+      "id": "FR_DTU_23_4",
+      "nom": "NF DTU 23.4 — Planchers à prédalles industrialisées en béton",
+      "parties": [
+        {
+          "code": "NF DTU 23.4 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "juillet 2021, tirage2 février2023",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p11/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa159042/323094"
+        },
+        {
+          "code": "NF DTU 23.4 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "juillet 2021",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p12/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-1/fa159040/323101"
+        },
+        {
+          "code": "NF DTU 23.4 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "juillet 2021",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-234-p2/travaux-de-batiment-planchers-a-predalles-industrialisees-en-beton-partie-2/fa159043/321831"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Aucune règle de déduction ou de paiement n'a été vérifiée au texte intégral. Le marché doit préciser surfaces, limites des prestations de prédalle et béton complémentaire, trémies et accessoires ; ne pas assimiler une simple surface géométrique à la quantité payable sans convention.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Vérifier que le procédé relève du domaine du DTU ou de son évaluation technique. Une ancienne référence générique au CPTPlanchers titreII doit être datée et rattachée au système concerné ; NFDTU23.4 ne doit pas être appliqué indistinctement aux dalles alvéolées ou aux poutrelles."
+    },
+    {
+      "id": "FR_DTU_23_5",
+      "nom": "NF DTU 23.5 — Planchers à poutrelles en béton",
+      "parties": [
+        {
+          "code": "NF DTU 23.5 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "mai 2019",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p11/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-11-cahie/fa190170/322987"
+        },
+        {
+          "code": "NF DTU 23.5 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "mai 2019",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p12/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-12-crite/fa190171/323105"
+        },
+        {
+          "code": "NF DTU 23.5 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "mai 2019",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-235-p2/dtu-235-travaux-de-batiment-planchers-a-poutrelles-en-beton-partie-2-cahier/fa190172/323149"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Le sommaire de P2 expose consistance, coordination et traitement des difficultés techniques ; il ne démontre pas de seuil universel de déduction. Fixer au marché le mesurage des planchers, trémies, chevêtres et composants distincts.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Référence pertinente pour les systèmes industriels de poutrelles-entrevous dans son domaine. Ne pas appliquer le NFDTU23.2 des dalles alvéolées ni le NFDTU23.4 des prédalles par simple analogie. Le CCT fournit des spécifications types pour le CCTP ; le CCS ne se lit pas comme une table de seuils supposés."
+    },
+    {
+      "id": "FR_DTU_14_1",
+      "nom": "NF DTU14.1 — Travaux de cuvelage",
+      "parties": [
+        {
+          "code": "NF DTU 14.1 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "novembre 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p11/travaux-de-batiment-travaux-de-cuvelage-partie-11-cahier-des-clauses-techni/fa190167/323080"
+        },
+        {
+          "code": "NF DTU 14.1 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "novembre 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p12/travaux-de-batiment-travaux-de-cuvelage-partie-12-criteres-generaux-de-choi/fa190168/323124"
+        },
+        {
+          "code": "NF DTU 14.1 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "novembre 2020",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-141-p2/travaux-de-batiment-travaux-de-cuvelage-partie-2-cahier-des-clauses-adminis/fa190169/323196"
+        }
+      ],
+      "regle_metre": {
+        "texte": "La notice identifie les clauses techniques, le choix des matériaux et les clauses administratives du cuvelage ; elle ne prouve aucun seuil de déduction, ni convention de mesurage des retours, raccords ou points singuliers. Préciser ces prestations et les unités au marché.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Cuvelage de la partie immergée d'un bâtiment dans le domaine du DTU ; ne pas assimiler une simple protection de soubassement ou un drainage à un cuvelage. Pour l'ouvrage GO-F23, sélectionner le système et ses performances au projet. Les notices ne permettent pas de certifier son adéquation ni un mode de règlement chiffré."
+    },
+    {
+      "id": "FR_DTU_64_1",
+      "nom": "NF DTU64.1 — Assainissement non collectif des maisons individuelles jusqu’à20pièces principales",
+      "parties": [
+        {
+          "code": "NF DTU 64.1 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "août 2013, tirage2 août2013",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p11/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167571/323100"
+        },
+        {
+          "code": "NF DTU 64.1 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "août 2013",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p12/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167570/323129"
+        },
+        {
+          "code": "NF DTU 64.1 P2",
+          "titre": "Cahier des clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "août 2013",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-641-p2/dispositifs-dassainissement-non-collectif-dit-autonome-pour-les-maisons-dha/fa167569/322982"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Aucune convention chiffrée de déduction ou de règlement n'a été vérifiée au texte intégral. Décrire séparément les équipements, conduites, fouilles et ouvrages de traitement effectivement prévus, et leurs limites de fourniture selon le marché.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Référence d'assainissement non collectif pour maisons individuelles dans son domaine ; ne pas la traiter comme une norme générale de tous les réseaux VRD ou collecteurs publics. La limite indiquée par son titre est20pièces principales, à ne pas convertir arbitrairement en20équivalents-habitants. L'ancienne XP P16-603 est historique."
+    },
+    {
+      "id": "FR_DTU_60_11",
+      "nom": "NF DTU60.11 — Calcul des installations de plomberie sanitaire et d’eaux pluviales",
+      "parties": [
+        {
+          "code": "NF DTU 60.11 P1-1",
+          "titre": "Réseaux d’alimentation d’eau froide et chaude sanitaire",
+          "role": "CALCUL_RESEAUX_EFS_ECS",
+          "millesime": "août 2013",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p11/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa155244/323122"
+        },
+        {
+          "code": "NF DTU 60.11 P1-2",
+          "titre": "Conception et dimensionnement des réseaux bouclés",
+          "role": "CONCEPTION_DIMENSIONNEMENT_BOUCLAGE_ECS",
+          "millesime": "août 2013",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p12/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175666/323123"
+        },
+        {
+          "code": "NF DTU 60.11 P2",
+          "titre": "Évacuation des eaux usées et des eaux vannes",
+          "role": "CALCUL_EVACUATION_EU_EV",
+          "millesime": "août 2013",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p2/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175665/323062"
+        },
+        {
+          "code": "NF DTU 60.11 P3",
+          "titre": "Évacuation des eaux pluviales",
+          "role": "CALCUL_EVACUATION_EP",
+          "millesime": "août 2013, tirage2 octobre2013",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-6011-p3/travaux-de-batiment-regles-de-calcul-des-installations-de-plomberie-sanitai/fa175664/323131"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Ces parties donnent des règles de conception et de dimensionnement des installations de bâtiment. Aucune règle de mesurage contractuel ou de déduction n'en est déduite ; définir le règlement des longueurs, équipements et accessoires dans les documents du marché.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Structure particulière à respecter : P1-1 n'est pas un CCT, P1-2 n'est pas un CGM et P2 n'est pas un CCS. P2 traite du calcul des évacuations EU/EV, P3 des EP. Ne pas appliquer ces règles de réseaux de bâtiment à l'ensemble des réseaux VRD par défaut ; choisir la partie et vérifier le domaine du tronçon étudié."
+    },
+    {
+      "id": "FR_DTU_20_13",
+      "nom": "NF DTU20.13 — Cloisons en maçonnerie de petits éléments",
+      "parties": [
+        {
+          "code": "NF DTU 20.13 P1-1",
+          "titre": "Cahier des clauses techniques types",
+          "role": "CCT",
+          "millesime": "octobre 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p11/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-11-cah/fa151066/322971"
+        },
+        {
+          "code": "NF DTU 20.13 P1-1/A1",
+          "titre": "Amendement1 au cahier des clauses techniques types",
+          "role": "AMENDEMENT_CCT",
+          "millesime": "juillet 2016",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p11-a1/travaux-de-batiments-cloisons-en-maconnerie-de-petits-elements-partie-11-ca/fa063368/57509"
+        },
+        {
+          "code": "NF DTU 20.13 P1-2",
+          "titre": "Critères généraux de choix des matériaux",
+          "role": "CGM",
+          "millesime": "octobre 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p12/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-12-cri/fa151067/323158"
+        },
+        {
+          "code": "NF DTU 20.13 P1-2/A1",
+          "titre": "Amendement1 aux critères généraux de choix des matériaux",
+          "role": "AMENDEMENT_CGM",
+          "millesime": "juillet 2016",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p12-a1/travaux-de-batiments-cloisons-en-maconnerie-de-petits-elements-partie-12-cr/fa063369/57510"
+        },
+        {
+          "code": "NF DTU 20.13 P2",
+          "titre": "Cahier de clauses administratives spéciales types",
+          "role": "CCS",
+          "millesime": "octobre 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p2/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-2-cahi/fa125242/322969"
+        },
+        {
+          "code": "NF DTU 20.13 P3",
+          "titre": "Mémento",
+          "role": "MEMENTO",
+          "millesime": "octobre 2008",
+          "statut": "en_vigueur_notice_AFNOR_verifiee_2026-11-13",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-dtu-2013-p3/travaux-de-batiment-cloisons-en-maconnerie-de-petits-elements-partie-3-meme/fa125243/323183"
+        },
+        {
+          "code": "NF DTU 20.13 P3/A1",
+          "titre": "Amendement1 au mémento",
+          "role": "AMENDEMENT_MEMENTO",
+          "millesime": "juin 2016",
+          "statut": "en_vigueur_liste_CSTB_fevrier2026_verifiee_2026-11-13",
+          "url": "https://boutique.cstb.fr/getattachment/69975ed5-11eb-451d-91cb-74116a8312d5/Liste-DTU-Fevrier-2026.pdf"
+        }
+      ],
+      "regle_metre": {
+        "texte": "Le sommaire public de P2 décrit la consistance des travaux et la coordination ; aucun seuil numérique de déduction n'y est établi. Les ouvertures, retours, tableaux et prestations accessoires doivent être réglés selon les conventions explicites du marché.",
+        "statut": "texte_integral_non_consulte_aucun_seuil_contractuel_verifie",
+        "seuil_m3": null,
+        "seuil_m2": null
+      },
+      "alerte": "Pour les cloisons non porteuses de petits éléments maçonnés dans son domaine, à distinguer des murs porteurs du DTU20.1 et des cloisons sèches. Quatre parties de base et trois amendements2016 identifiés ; ne pas oublier les amendements en conservant seulement2008. Aucun seuil0,50m²supposé n'est attribué au CCS."
+    }
+  ],
+  "transitions_et_reglements": [
+    {
+      "id": "FR-TRANSITION-BAEL-EC2",
+      "ancienne_reference": "Règles BAEL 91, DTU P18-702 ; mention BAEL 91 modifiées 99 à identifier dans chaque extrait du cours",
+      "statut": "BASE BAEL 91 ANNULÉE ; TRANSITION EUROCODE 2 À SÉCURISER PAR ÉDITION. Vérification publique au 2026-11-13, sans lecture intégrale des textes payants.",
+      "nouvelles_references": [
+        {
+          "code": "NF EN 1992-1-1 et annexe nationale française, génération cohérente à préciser",
+          "titre": "Eurocode 2 — Calcul des structures en béton",
+          "role_cctp": "Référentiel de calcul structural à désigner avec son édition et son annexe nationale ; ne fournit pas un ratio universel d'armatures pour le métré.",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784"
+        },
+        {
+          "code": "NF EN 1992-1-1/NA, août 2026 — compatibilité avec le texte européen à confirmer",
+          "titre": "Annexe nationale française à l'Eurocode 2, partie 1-1",
+          "role_cctp": "Fixe les choix nationaux ; une nouvelle annexe ne doit pas être associée automatiquement à une ancienne génération du texte européen.",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211-na/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa300691/604320"
+        }
+      ],
+      "conditions_application": "La fiche AFNOR du BAEL 91 de mars 1992 est annulée et renvoie à l'Eurocode 2. La fiche NF EN 1992-1-1 d'octobre 2005 conserve un en-tête « en vigueur » tout en annonçant une annulation en octobre 2026 ; cette contradiction empêche de certifier cette édition au 13 novembre 2026. La nouvelle annexe nationale publiée en août 2026 doit être raccordée à la bonne génération par le bureau d'études. L'édition contractuelle d'un ancien marché et la justification d'un ouvrage existant demandent une analyse distincte. Les amendements BAEL cités dans le cours restent à identifier individuellement.",
+      "impact_metre": "Conserver le calcul géométrique des volumes ; reprendre les sections, les plans de ferraillage et les nomenclatures issus de l'étude structurale retenue. Ne pas convertir une formule BAEL en formule Eurocode par simple changement de titre. Aucun seuil de réservation ni ratio kg/m³ n'est établi par cet audit.",
+      "impact_mise_en_oeuvre": "Adapter les prescriptions aux plans et à l'étude validés. L'Eurocode de calcul ne remplace pas à lui seul les textes d'exécution et de spécification du béton.",
+      "alerte": "BAEL : référence historique annulée. Faire valider la génération de l'Eurocode 2 et son annexe nationale avant d'appliquer un calcul structural.",
+      "sources": [
+        {
+          "titre": "AFNOR — DTU P18-702, Règles BAEL 91, mars 1992",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p18702/regles-bael-91-regles-techniques-de-conception-et-de-calcul-des-ouvrages-et/fa026070/47746",
+          "repere": "Fiche catalogue : statut annulé et documents de remplacement ; ne démontre pas les règles de métré ni le statut de chaque amendement."
+        },
+        {
+          "titre": "AFNOR — NF EN 1992-1-1, octobre 2005",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784",
+          "repere": "En-tête en vigueur ; champ date d'annulation ultérieure : octobre 2026. Métadonnées contradictoires à la date de l'audit."
+        },
+        {
+          "titre": "AFNOR Norm'Info — Annexe nationale Eurocode 2 publiée le 19 août 2026",
+          "url": "https://norminfo.afnor.org/norme/pr-nf-en-1992-1-1na/eurocode-2-calcul-des-structures-en-beton-partie-1-1-regles-generales-et-regles-pour-les-batiments-annexe-nationale-a/214424",
+          "repere": "Publication indiquée le 2026-08-19 ; cohérence de génération à contrôler dans les textes acquis."
+        }
+      ]
+    },
+    {
+      "id": "FR-TRANSITION-BPEL-EC2",
+      "ancienne_reference": "Règles BPEL 91, DTU P18-703 ; éventuels modificatifs cités dans le cours à identifier séparément",
+      "statut": "BASE BPEL 91 ANNULÉE ; ÉDITION EUROCODE 2 À CONFIRMER AU 2026-11-13",
+      "nouvelles_references": [
+        {
+          "code": "NF EN 1992-1-1 et annexe nationale française, génération cohérente à préciser",
+          "titre": "Eurocode 2 — Calcul des structures en béton",
+          "role_cctp": "Calcul du béton précontraint dans son domaine d'application ; sélectionner aussi les parties adaptées à la nature de l'ouvrage.",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784"
+        }
+      ],
+      "conditions_application": "La fiche BPEL d'avril 1992 est annulée et indique des références Eurocode 2 en remplacement. Il ne s'agit pas d'une substitution automatique des hypothèses, pertes de précontrainte et vérifications. La transition de génération de l'Eurocode 2 observée en 2026 exige de fixer le couple texte européen/annexe nationale dans le marché et l'étude. Préserver les références d'origine pour un diagnostic historique, sans les présenter comme référentiel courant d'un projet neuf.",
+      "impact_metre": "Les quantités de béton, câbles, ancrages et accessoires proviennent des plans et nomenclatures du système étudié. Aucun coefficient de précontrainte ou ratio d'acier ne peut être ajouté par cette table de correspondance.",
+      "impact_mise_en_oeuvre": "Faire établir les prescriptions de précontrainte et d'exécution à partir du système retenu et de l'étude ; ne pas reprendre des dispositions BPEL en les attribuant à l'Eurocode.",
+      "alerte": "BPEL annulé : calcul de précontrainte et génération Eurocode 2 à valider par le bureau d'études.",
+      "sources": [
+        {
+          "titre": "AFNOR — DTU P18-703, Règles BPEL 91, avril 1992",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p18703/regles-bpel-91-regles-techniques-de-conception-et-de-calcul-des-ouvrages-et/fa026069/47748",
+          "repere": "Statut annulé ; liste de remplacement Eurocode 2."
+        },
+        {
+          "titre": "AFNOR — NF EN 1992-1-1, octobre 2005",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784",
+          "repere": "En-tête et date d'annulation octobre 2026 contradictoires ; ne pas certifier cette ancienne édition comme actuelle."
+        }
+      ]
+    },
+    {
+      "id": "FR-TRANSITION-NV65-EC1",
+      "ancienne_reference": "Règles NV 65, DTU P06-002, notamment édition février 2009",
+      "statut": "ÉDITION FÉVRIER 2009 ANNULÉE EN SEPTEMBRE 2026 ; GÉNÉRATION EUROCODE 1 À PRÉCISER",
+      "nouvelles_references": [
+        {
+          "code": "NF EN 1991-1-4 et annexe nationale française, édition applicable à confirmer",
+          "titre": "Eurocode 1 — Actions sur les structures — Actions du vent",
+          "role_cctp": "Détermination des actions du vent avec les paramètres nationaux et locaux retenus par l'étude.",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1991-1-4/eurocode-1-actions-sur-les-structures-partie-1-4-actions-generales-actions-du-vent/fa104153/25897"
+        },
+        {
+          "code": "NF EN 1991-1-3 et annexe nationale française, édition applicable à confirmer",
+          "titre": "Eurocode 1 — Actions sur les structures — Charges de neige",
+          "role_cctp": "Détermination des charges de neige en fonction du site et des formes de toiture ; ne pas réutiliser une zone ou un coefficient NV 65 sans contrôle.",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199113/eurocode-1-actions-sur-les-structures-partie-13-actions-generales-charges-d/fa102764/22841"
+        }
+      ],
+      "conditions_application": "Le statut annulé de NV 65 est confirmé sur la fiche AFNOR directe de février 2009, malgré des extraits anciens encore indexés. Les fiches Eurocode 1 vent de novembre 2005 et neige d'avril 2004 affichent à la fois en vigueur et une annulation en octobre 2026 : vérifier la génération applicable et les annexes nationales avant insertion. Un projet d'amendement en enquête n'est pas une norme publiée. Des textes spéciaux peuvent maintenir une référence historique selon la date de mise en service, notamment pour certaines structures itinérantes : ne pas effacer ces références sans analyse de leur domaine juridique.",
+      "impact_metre": "Les formules géométriques de surfaces et volumes ne changent pas par le seul changement de norme climatique. Les sections, fixations, contreventements et quantités peuvent évoluer après recalcul du bureau d'études. Aucun pourcentage forfaitaire de majoration ne doit être appliqué.",
+      "impact_mise_en_oeuvre": "Renseigner le lieu, l'altitude, l'exposition et les paramètres de l'étude. Reprendre les fixations et dispositions prescrites par les calculs cohérents avec le référentiel choisi.",
+      "alerte": "NV 65 annulé en 2026 : vérifier le référentiel vent/neige, sa génération et le domaine juridique du projet avant recalcul.",
+      "sources": [
+        {
+          "titre": "AFNOR — DTU P06-002, Règles NV 65, février 2009",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p06002/regles-nv-65-regles-definissant-les-effets-de-la-neige-et-du-vent-sur-les-c/fa133509/60248",
+          "repere": "Statut annulé ; date d'annulation septembre 2026 ; remplacement catalogue par la partie vent de l'Eurocode 1."
+        },
+        {
+          "titre": "AFNOR — NF EN 1991-1-4, novembre 2005",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1991-1-4/eurocode-1-actions-sur-les-structures-partie-1-4-actions-generales-actions-du-vent/fa104153/25897",
+          "repere": "En-tête en vigueur et date d'annulation octobre 2026 : réserve d'édition."
+        },
+        {
+          "titre": "AFNOR — NF EN 1991-1-3, avril 2004",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199113/eurocode-1-actions-sur-les-structures-partie-13-actions-generales-charges-d/fa102764/22841",
+          "repere": "En-tête en vigueur et date d'annulation octobre 2026 : réserve d'édition."
+        },
+        {
+          "titre": "Légifrance — Article 3 de l'arrêté du 13 novembre 2024 relatif à certaines structures provisoires et démontables",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000050830689",
+          "repere": "Exemple de référence à la version applicable lors de la mise en service ; exception de domaine, sans portée générale sur tous les bâtiments."
+        }
+      ]
+    },
+    {
+      "id": "FR-TRANSITION-RT2000",
+      "ancienne_reference": "RT 2000 — arrêté du 29 novembre 2000 et décret n° 2000-1153",
+      "statut": "RÉFÉRENTIEL HISTORIQUE ; PAS DE REMPLACEMENT RÉTROACTIF AUTOMATIQUE",
+      "nouvelles_references": [
+        {
+          "code": "CCH, articles R172-1 à R172-9 — RE2020 selon champ et date",
+          "titre": "Exigences de performance énergétique et environnementale des constructions",
+          "role_cctp": "Déterminer le régime applicable au projet avant de fixer les performances des ouvrages.",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000053382800"
+        }
+      ],
+      "conditions_application": "La date du cours ne détermine pas la réglementation du chantier. Conserver RT 2000 pour l'analyse d'un dossier historiquement soumis à ce régime. Pour un projet actuel, qualifier neuf, extension ou rénovation, usage, localisation et date de dépôt du permis ou de la déclaration préalable. Vérifier ensuite le régime réglementaire correspondant ; RE2020 n'est pas applicable rétroactivement à tous les bâtiments.",
+      "impact_metre": "Ne pas modifier les quantités ou les coefficients géométriques sur la seule présence du sigle RT 2000. Actualiser les épaisseurs et compositions uniquement d'après l'étude applicable ; les données nécessaires à l'analyse environnementale sont à distinguer du métré de règlement.",
+      "impact_mise_en_oeuvre": "Remplacer une prescription historique dans un CCTP neuf seulement après détermination du régime et validation des performances par l'étude thermique/environnementale.",
+      "alerte": "RT 2000 : référence historique. Renseigner date de dépôt, usage, localisation et nature des travaux avant de choisir le régime actuel.",
+      "sources": [
+        {
+          "titre": "Légifrance — Arrêté du 29 novembre 2000",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000220217",
+          "repere": "Texte d'origine de la RT 2000 ; référence historique, sans assimilation à une règle de déduction des quantités."
+        },
+        {
+          "titre": "Légifrance — CCH R172-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556",
+          "repere": "Champ de la RE2020 selon date et destination."
+        }
+      ]
+    },
+    {
+      "id": "FR-TRANSITION-RT2005",
+      "ancienne_reference": "RT 2005 — arrêté du 24 mai 2006",
+      "statut": "RÉFÉRENTIEL HISTORIQUE ; RÉGIME ACTUEL À DÉTERMINER PAR PROJET",
+      "nouvelles_references": [
+        {
+          "code": "CCH, articles R172-1 à R172-9 — RE2020 selon champ et date",
+          "titre": "Exigences de performance énergétique et environnementale des constructions",
+          "role_cctp": "Sélectionner les exigences du projet ; ne pas recopier des performances RT 2005 dans un projet neuf actuel sans vérification.",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000053382800"
+        }
+      ],
+      "conditions_application": "Identifier le régime initial d'un ouvrage existant. Pour un nouveau projet, vérifier les dates d'entrée en application et les exceptions de destination, de surface et de nature des travaux. La rénovation d'un bâtiment existant n'est pas assimilée globalement à une construction neuve RE2020. Le remplacement du libellé RT 2005 par RE2020 dans tous les documents serait incorrect.",
+      "impact_metre": "Les surfaces réglementaires thermiques ou environnementales ne sont pas automatiquement les surfaces facturées au bordereau. Conserver les deux définitions et leurs sources ; les choix d'isolation et de systèmes peuvent modifier les quantités après étude.",
+      "impact_mise_en_oeuvre": "Décrire les compositions et performances validées pour le projet plutôt que d'appliquer une valeur universelle issue du cours.",
+      "alerte": "RT 2005 : vérifier le régime du dossier et distinguer les surfaces réglementaires des quantités du marché.",
+      "sources": [
+        {
+          "titre": "Légifrance — Arrêté du 24 mai 2006",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000427149",
+          "repere": "Texte historique de la RT 2005 ; domaine d'application et exclusions définis par le texte."
+        },
+        {
+          "titre": "Légifrance — CCH R172-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556",
+          "repere": "Champ et calendrier du régime RE2020."
+        },
+        {
+          "titre": "Ministère — Fiche d'application extensions et constructions de petite surface",
+          "url": "https://rt-re-batiment.developpement-durable.gouv.fr/IMG/pdf/fiche_application_extension_batiment_et_const_inf_50.pdf",
+          "repere": "Distinction entre parties nouvelles et travaux sur bâtiments existants."
+        }
+      ]
+    },
+    {
+      "id": "FR-TRANSITION-RT2012-RE2020",
+      "ancienne_reference": "RT 2012 — notamment arrêté du 26 octobre 2010, complété par les textes propres aux autres usages",
+      "statut": "TRANSITION RÉGLEMENTAIRE CONDITIONNELLE ; CHAMP RE2020 ÉTENDU EN 2026, NON RÉTROACTIF",
+      "nouvelles_references": [
+        {
+          "code": "CCH R172-1 et suivants — RE2020",
+          "titre": "Performance énergétique et environnementale des bâtiments neufs",
+          "role_cctp": "Définir les exigences applicables aux ouvrages à partir des études énergétiques et environnementales du projet.",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556"
+        },
+        {
+          "code": "CCH R172-3 ; décret n° 2026-200 du 18 mars 2026",
+          "titre": "Exigences alternatives pour certaines petites constructions, extensions et surélévations",
+          "role_cctp": "Vérifier les modalités spécifiques et leurs arrêtés d'application ; ne pas considérer toutes les extensions comme soumises aux mêmes exigences.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053703809/"
+        }
+      ],
+      "conditions_application": "En France métropolitaine, l'entrée dans le champ RE2020 dépend du dépôt du permis ou de la déclaration préalable : habitation à partir du 1er janvier 2022, bureaux et enseignement primaire/secondaire à partir du 1er juillet 2022, autres usages énumérés au III de R172-1 à partir du 1er mai 2026. Les constructions temporaires, petites surfaces, extensions, surélévations et situations dérogatoires nécessitent un examen particulier ; certaines dispositions du décret 2026-200 concernent les dépôts à compter du 1er juillet 2026. Vérifier la version applicable à la date du projet, les exceptions et les territoires. Un dossier antérieur ne bascule pas automatiquement vers les exigences postérieures.",
+      "impact_metre": "L'étude environnementale nécessite des données de produits et de quantités documentées ; ces données ne créent aucun seuil universel de vides pour pleins. Mettre à jour les quantités lorsque les compositions ou dimensions validées changent. Séparer surfaces réglementaires, quantités physiques et quantités de règlement.",
+      "impact_mise_en_oeuvre": "Rédiger le CCTP à partir des performances et solutions validées par l'étude du projet. Ne pas prescrire automatiquement un isolant, une épaisseur, une résistance thermique ou un dosage au seul motif du passage à RE2020.",
+      "alerte": "RE2020 : renseigner date de dépôt, usage, territoire et nature des travaux. Les règles et adaptations 2026 ne s'appliquent pas à tous les dossiers antérieurs.",
+      "sources": [
+        {
+          "titre": "Légifrance — Arrêté du 26 octobre 2010 consolidé",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022959397/",
+          "repere": "Texte RT 2012 pour les usages de son domaine ; son existence dans la base ne signifie pas application à tout projet neuf de 2026."
+        },
+        {
+          "titre": "Légifrance — CCH R172-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556",
+          "repere": "Paragraphes I, II et III : dates, usages et exclusions ; version applicable depuis le 1er mai 2026."
+        },
+        {
+          "titre": "Légifrance — Décret n° 2026-200 du 18 mars 2026",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053703809/",
+          "repere": "Article 3 : dépôts à compter du 1er juillet 2026 ; article 1 modifiant R172-3."
+        },
+        {
+          "titre": "Ministère — Calendrier et champ d'application de la RE2020",
+          "url": "https://rt-re-batiment.developpement-durable.gouv.fr/calendrier-et-champ-d-application-a1222.html",
+          "repere": "FAQ mise à jour le 8 octobre 2026 ; vérifier la version réglementaire selon la date de dépôt."
+        }
+      ]
+    },
+    {
+      "id": "FR-ANCIEN-DTU-11-1",
+      "ancienne_reference": "DTU 11.1 — Sondage des sols de fondation, décembre 1968, édition mai 1981",
+      "statut": "ANNULÉ ; AUCUN REMPLACEMENT UNIQUE ÉTABLI PAR LA FICHE CONSULTÉE",
+      "nouvelles_references": [],
+      "conditions_application": "La fiche AFNOR propre au DTU 11.1 confirme son annulation. Il s'agit des sondages de sols de fondation, à distinguer du DTU 12 sur les terrassements. La fiche publique consultée ne justifie pas une substitution unique à un autre DTU ou à un Eurocode. Identifier les missions, investigations et essais nécessaires puis leurs références actuelles avec le géotechnicien.",
+      "impact_metre": "Ne pas utiliser cette annulation pour modifier une formule de volume de terrassement. Les prestations de reconnaissance et leurs quantités doivent être définies par le programme d'investigations et le bordereau ; aucune unité ou déduction universelle n'est déduite de cette fiche.",
+      "impact_mise_en_oeuvre": "Actualiser le programme de reconnaissance et les prescriptions à partir de l'étude géotechnique et des textes adaptés aux essais retenus.",
+      "alerte": "DTU 11.1 annulé : référence de sondage historique, distincte du DTU 12. Référentiel actuel à préciser avec le géotechnicien.",
+      "sources": [
+        {
+          "titre": "AFNOR — DTU 11.1, Sondage des sols de fondation, édition mai 1981",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-111/dtu-111-sondage-des-sols-de-fondation-edition-mai-1981/fa006656/47732",
+          "repere": "Référence DTU 11.1 ; statut annulé ; aucun remplacement unique établi dans les informations publiques consultées."
+        }
+      ]
+    },
+    {
+      "id": "FR-REFERENCE-NFT54-090",
+      "ancienne_reference": "NF T54-090 — référence citée dans le cours, édition exacte et objet à rapprocher de l'extrait source",
+      "statut": "NON VÉRIFIÉ SUR SOURCE PRIMAIRE AU 2026-11-13 ; REMPLACEMENT AUTOMATIQUE BLOQUÉ",
+      "nouvelles_references": [],
+      "conditions_application": "Les recherches exactes dans les sources AFNOR/Norm'Info accessibles n'ont pas livré de fiche primaire exploitable. Une absence de résultat n'établit ni la validité ni l'annulation. Aucun remplacement par une norme de produit actuelle ne peut être certifié sans identifier le matériau, l'usage, l'édition et la fiche officielle correspondante.",
+      "impact_metre": "Aucune correction d'unité, de quantité ou de déduction n'est justifiée par les éléments vérifiés.",
+      "impact_mise_en_oeuvre": "Ne pas attribuer à cette référence des caractéristiques, couleurs, classes ou prescriptions de pose non vérifiées. Faire confirmer la norme exacte dans le dossier produit et le catalogue officiel.",
+      "alerte": "NF T54-090 : référence à vérifier. Aucun statut actuel ni texte de remplacement confirmé ; pas de clause normative générée automatiquement.",
+      "sources": []
+    },
+    {
+      "id": "VRD-REG-FOUILLES",
+      "ancienne_reference": "Livre 1, p. 107-108 : décret n° 65-48 du 8 janvier 1965, titre IV et article 178.",
+      "statut": "ANCIEN DÉCRET ABROGÉ — sécurité à actualiser sans en déduire une règle de règlement des quantités.",
+      "nouvelles_references": [
+        {
+          "code": "Code du travail, R. 4534-22 à R. 4534-39",
+          "titre": "Terrassements à ciel ouvert",
+          "role_cctp": "Prévention et dispositions de sécurité des fouilles.",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000018529252"
+        },
+        {
+          "code": "Code du travail, R. 4534-24",
+          "titre": "Prévention des éboulements et protection des fouilles",
+          "role_cctp": "Déterminer les protections adaptées aux caractéristiques des fouilles et du terrain.",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041541491/"
+        }
+      ],
+      "conditions_application": "Le cas particulier du blindage concerne les tranchées de profondeur supérieure à 1,30 m, de largeur au plus égale aux deux tiers de la profondeur, à parois verticales ou sensiblement verticales. Les autres fouilles restent soumises à la prévention des éboulements.",
+      "impact_metre": "Détailler les protections, profils et emprises justifiés par les plans et l’étude. Aucun seuil de déduction, pente universelle ou coefficient de volume n’est créé par cette règle de sécurité.",
+      "impact_mise_en_oeuvre": "Le décret de 1965 a été abrogé le 1er mai 2008. Appliquer les dispositions actuelles avant de faire descendre des personnes, avec les exceptions prévues pour installer les protections.",
+      "alerte": "Vigilance Métreur : 1,30 m n’est pas un seuil dispensant de prévenir les éboulements ; vérifier aussi largeur, parois et terrain.",
+      "sources": [
+        {
+          "titre": "Décret n° 65-48 du 8 janvier 1965 — texte abrogé",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000494155",
+          "repere": "Abrogation par décret n° 2008-244 du 7 mars 2008, article 9 ; effet au 1er mai 2008."
+        },
+        {
+          "titre": "Code du travail — article R. 4534-24",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041541491/",
+          "repere": "Version en vigueur depuis le 7 février 2020 ; consultation au 13 novembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "VRD-REG-DT-DICT",
+      "ancienne_reference": "Repérage des réseaux et sécurité des travaux à proximité des ouvrages enterrés évoqués dans les cours ; ne pas conserver le seul décret de 1965 comme référence.",
+      "statut": "COMPLÉMENT RÉGLEMENTAIRE ACTUEL — répartition des obligations selon le rôle des intervenants.",
+      "nouvelles_references": [
+        {
+          "code": "Code de l’environnement, R. 554-20",
+          "titre": "Consultation du guichet unique au stade du projet",
+          "role_cctp": "Identifier les réseaux concernés au stade de la conception et organiser la préparation des travaux.",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036017437/"
+        },
+        {
+          "code": "Code de l’environnement, R. 554-25",
+          "titre": "Déclaration d’intention de commencement de travaux",
+          "role_cctp": "Encadrer la déclaration de l’exécutant aux exploitants concernés, sous réserve des exceptions du texte.",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037522519/"
+        }
+      ],
+      "conditions_application": "Travaux à proximité des ouvrages entrant dans le champ du dispositif anti-endommagement. Distinguer le responsable du projet et l’exécutant ; les exceptions et cas de déclaration conjointe doivent être vérifiés pour l’opération.",
+      "impact_metre": "Prévoir, lorsque le projet et le marché les justifient, les investigations, sondages, protections et sujétions de terrassement à proximité des réseaux. Aucun pourcentage de majoration automatique n’est vérifié.",
+      "impact_mise_en_oeuvre": "Consulter les informations disponibles et accomplir les déclarations requises avant l’exécution ; adapter l’emprise et les techniques aux réseaux effectivement repérés.",
+      "alerte": "Vigilance Métreur : distinguer DT du responsable de projet et DICT de l’exécutant ; chiffrer les sujétions sur pièces du chantier.",
+      "sources": [
+        {
+          "titre": "Code de l’environnement — article R. 554-20",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036017437/",
+          "repere": "Version en vigueur depuis le 1er janvier 2018 ; consultation au 13 novembre 2026."
+        },
+        {
+          "titre": "Code de l’environnement — article R. 554-25",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037522519/",
+          "repere": "Version en vigueur depuis le 1er janvier 2020 ; consultation au 13 novembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "VRD-REG-ASSAIN-CADRE",
+      "ancienne_reference": "Livre 3, p. 10 : décret n° 94-469 du 3 juin 1994 relatif à la collecte et au traitement des eaux usées.",
+      "statut": "DISPOSITIONS HISTORIQUES ABROGÉES OU CODIFIÉES — ne pas traiter l’en-tête global Légifrance comme confirmation de toutes les anciennes prescriptions.",
+      "nouvelles_references": [
+        {
+          "code": "CGCT, R. 2224-6",
+          "titre": "Définitions relatives à l’assainissement",
+          "role_cctp": "Déterminer le vocabulaire et le cadre de l’agglomération d’assainissement.",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042075073/"
+        },
+        {
+          "code": "CGCT, R. 2224-10",
+          "titre": "Systèmes de collecte des eaux usées",
+          "role_cctp": "Identifier les obligations de collecte selon la situation du projet.",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006396176/"
+        },
+        {
+          "code": "Arrêté du 21 juillet 2015 modifié",
+          "titre": "Prescriptions relatives aux systèmes d’assainissement concernés",
+          "role_cctp": "Appliquer les prescriptions techniques actuelles dans leur champ, avec le zonage et les prescriptions du service compétent.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/"
+        }
+      ],
+      "conditions_application": "Déterminer d’abord le régime de l’installation, le zonage, sa charge et les prescriptions propres au projet. Les anciens délais administratifs du décret de 1994 ne constituent pas des paramètres de calcul du logiciel.",
+      "impact_metre": "Mesurer les ouvrages à partir de l’étude d’assainissement et des plans retenus ; les seuils administratifs ou de charge ne sont pas des seuils de déduction des quantités.",
+      "impact_mise_en_oeuvre": "Le texte historique ne doit pas servir seul de cahier technique actuel. Ses dispositions consultées sont abrogées ou modificatives ; une correspondance intégrale article par article n’a pas été établie dans cet audit.",
+      "alerte": "Vigilance Métreur : vérifier le zonage et le régime actuel de l’assainissement ; ne pas réutiliser automatiquement les échéances du décret de 1994.",
+      "sources": [
+        {
+          "titre": "Décret n° 94-469 du 3 juin 1994 — version consolidée",
+          "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005615953/",
+          "repere": "Chapitres et dispositions abrogés ; article 18 présenté comme disposition modificative. Contrôle au 13 novembre 2026."
+        },
+        {
+          "titre": "Code général des collectivités territoriales — article R. 2224-6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042075073/",
+          "repere": "Version en vigueur depuis le 3 juillet 2020."
+        },
+        {
+          "titre": "Code général des collectivités territoriales — article R. 2224-10",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006396176/",
+          "repere": "Systèmes de collecte ; consultation au 13 novembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "VRD-REG-ASSAIN-1994",
+      "ancienne_reference": "Livre 3, p. 10 : arrêtés du 22 décembre 1994 relatifs aux ouvrages de collecte et de traitement des eaux usées et à leur surveillance.",
+      "statut": "ABROGÉS — références techniques et de surveillance à remplacer dans leur champ d’application.",
+      "nouvelles_references": [
+        {
+          "code": "Arrêté du 21 juillet 2015 modifié",
+          "titre": "Systèmes d’assainissement collectif et installations d’assainissement non collectif, sauf celles recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+          "role_cctp": "Conception, exécution, entretien, surveillance et appréciation de conformité des systèmes relevant de ce texte.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/"
+        }
+      ],
+      "conditions_application": "Utiliser la version consolidée du 21 juillet 2015, dont la dernière mise à jour affichée est le 1er janvier 2025. Ce texte ne s’applique pas aux petites installations ANC expressément exclues de son champ.",
+      "impact_metre": "Aucun seuil de vide pour plein n’est confirmé par ces arrêtés. Quantifier séparément les réseaux, ouvrages, équipements et prestations prescrits au projet.",
+      "impact_mise_en_oeuvre": "Les deux arrêtés du 22 décembre 1994 ont été abrogés au 14 juillet 2007 par l’arrêté du 22 juin 2007, lui-même abrogé au 1er janvier 2016 par l’arrêté du 21 juillet 2015.",
+      "alerte": "Vigilance Métreur : les arrêtés de 1994 ne sont plus le référentiel technique de l’assainissement collectif ; utiliser le texte consolidé applicable au projet.",
+      "sources": [
+        {
+          "titre": "Arrêté technique du 22 décembre 1994 — texte abrogé",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000735207/",
+          "repere": "Abrogation par l’article 24 de l’arrêté du 22 juin 2007."
+        },
+        {
+          "titre": "Arrêté du 22 décembre 1994 relatif à la surveillance — texte abrogé",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000550850/",
+          "repere": "Abrogation au 14 juillet 2007."
+        },
+        {
+          "titre": "Arrêté du 21 juillet 2015 — version consolidée",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/",
+          "repere": "Articles 1 et 24 ; dernière mise à jour affichée : 1er janvier 2025 ; vérification au 13 novembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "VRD-REG-ASSAIN-1996",
+      "ancienne_reference": "Livre 3, p. 10 : arrêté du 21 juin 1996 concernant les ouvrages de collecte et de traitement des petites agglomérations.",
+      "statut": "ABROGÉ — ne pas maintenir une branche réglementaire autonome fondée sur ce texte historique.",
+      "nouvelles_references": [
+        {
+          "code": "Arrêté du 21 juillet 2015 modifié",
+          "titre": "Prescriptions des systèmes d’assainissement entrant dans son champ",
+          "role_cctp": "Définir les obligations techniques actuelles après qualification du système.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/"
+        },
+        {
+          "code": "Arrêté du 7 septembre 2009 modifié — prescriptions techniques ANC",
+          "titre": "Installations ANC recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+          "role_cctp": "Référence distincte lorsque le système appartient au champ des petites installations ANC.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/"
+        }
+      ],
+      "conditions_application": "Le choix entre ces textes dépend du système d’assainissement et de son champ réglementaire, pas uniquement du nombre d’habitants de la commune.",
+      "impact_metre": "Le statut de petite commune ne fixe aucun coefficient de terrassement ni règle de déduction des réseaux. Utiliser le dimensionnement et les pièces du marché.",
+      "impact_mise_en_oeuvre": "L’arrêté du 21 juin 1996 a été abrogé au 14 juillet 2007 par l’arrêté du 22 juin 2007. Requalifier l’installation dans le dispositif actuel.",
+      "alerte": "Vigilance Métreur : « petite commune » ne suffit pas pour choisir les prescriptions ; distinguer collectif et non collectif.",
+      "sources": [
+        {
+          "titre": "Arrêté du 21 juin 1996 — prescriptions techniques minimales",
+          "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006130554",
+          "repere": "Dispositions abrogées au 14 juillet 2007 par l’article 24 de l’arrêté du 22 juin 2007."
+        },
+        {
+          "titre": "Arrêté du 21 juillet 2015 — version consolidée",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/",
+          "repere": "Champ d’application, article 1 ; vérification au 13 novembre 2026."
+        },
+        {
+          "titre": "Arrêté technique ANC du 7 septembre 2009 — version consolidée",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/",
+          "repere": "Champ d’application, article 1 ; dernière mise à jour affichée : 1er mars 2021."
+        }
+      ]
+    },
+    {
+      "id": "VRD-REG-ANC-TECHNIQUE",
+      "ancienne_reference": "Livre 3, p. 10 : arrêté du 6 mai 1996 fixant les prescriptions techniques applicables aux systèmes d’assainissement non collectif, mentionné avec modification du 24 décembre 2003.",
+      "statut": "ANCIEN ARRÊTÉ TECHNIQUE ABROGÉ — prescriptions actuelles identifiées ; pas de validation automatique des dimensionnements du cours.",
+      "nouvelles_references": [
+        {
+          "code": "Arrêté du 7 septembre 2009 modifié",
+          "titre": "Prescriptions techniques des installations ANC recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+          "role_cctp": "Choix, conception et réalisation de la filière dans son champ d’application.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/"
+        }
+      ],
+      "conditions_application": "Version consolidée intégrant notamment les modifications du 7 mars 2012 et du 26 février 2021. Adapter la conception à la charge, aux flux, au sol et aux contraintes du projet ; vérifier l’agrément du dispositif lorsqu’il est requis.",
+      "impact_metre": "Ne pas convertir un seuil de charge en quantité de fouille. Les surfaces de traitement et volumes sont issus de la filière et de l’étude retenues ; les ratios scolaires ne constituent pas une validation réglementaire.",
+      "impact_mise_en_oeuvre": "L’arrêté technique du 6 mai 1996 a été abrogé le 10 octobre 2009 par l’article 18 de l’arrêté du 7 septembre 2009. La mention historique du 24 décembre 2003 ne rend pas l’ancien arrêté applicable.",
+      "alerte": "Vigilance Métreur : vérifier filière, charge, étude de sol et agrément éventuel ; aucun dimensionnement ANC automatique n’est validé par ce catalogue.",
+      "sources": [
+        {
+          "titre": "Arrêté technique ANC du 6 mai 1996 — texte abrogé",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000560526/",
+          "repere": "Abrogation au 10 octobre 2009."
+        },
+        {
+          "titre": "Arrêté technique ANC du 7 septembre 2009 — version consolidée",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/",
+          "repere": "Articles 1, 2 et 18 ; dernière mise à jour affichée : 1er mars 2021 ; contrôle au 13 novembre 2026."
+        },
+        {
+          "titre": "Arrêté du 26 février 2021 modifiant les textes techniques et de contrôle ANC",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043190509/",
+          "repere": "Modifications entrées en vigueur le 1er mars 2021."
+        }
+      ]
+    },
+    {
+      "id": "VRD-REG-ANC-CONTROLE",
+      "ancienne_reference": "Arrêté du 6 mai 1996 fixant les modalités du contrôle technique exercé par les communes sur les systèmes d’assainissement non collectif — distinct de l’arrêté technique du même jour.",
+      "statut": "ANCIEN DISPOSITIF ABROGÉ — distinguer prescriptions techniques et mission de contrôle.",
+      "nouvelles_references": [
+        {
+          "code": "Arrêté du 27 avril 2012 modifié",
+          "titre": "Modalités de l’exécution de la mission de contrôle des installations d’assainissement non collectif",
+          "role_cctp": "Organiser le contrôle de la conception, de l’exécution et des installations existantes selon le cas.",
+          "url": "https://www.legifrance.gouv.fr/loda/texte_lc/LEGITEXT000025880015/"
+        }
+      ],
+      "conditions_application": "Appliquer la version consolidée intégrant la modification du 26 février 2021 ; distinguer installation neuve ou réhabilitée et installation existante.",
+      "impact_metre": "Identifier les prestations de contrôle et les justifications prévues par le projet et le service compétent. Le texte ne fournit pas de seuil de vide pour plein.",
+      "impact_mise_en_oeuvre": "L’arrêté de contrôle du 6 mai 1996 a été abrogé le 10 octobre 2009 ; l’arrêté de contrôle du 7 septembre 2009 a ensuite été abrogé le 1er juillet 2012. Prévoir le contrôle de l’exécution selon la procédure du service compétent.",
+      "alerte": "Vigilance Métreur : organiser le contrôle ANC avec le service compétent ; ne pas confondre le texte de contrôle avec celui des prescriptions techniques.",
+      "sources": [
+        {
+          "titre": "Arrêté de contrôle ANC du 6 mai 1996 — texte abrogé",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000192965",
+          "repere": "Abrogation au 10 octobre 2009."
+        },
+        {
+          "titre": "Arrêté de contrôle ANC du 7 septembre 2009 — texte abrogé",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125154",
+          "repere": "Abrogation au 1er juillet 2012."
+        },
+        {
+          "titre": "Arrêté du 27 avril 2012 — version consolidée",
+          "url": "https://www.legifrance.gouv.fr/loda/texte_lc/LEGITEXT000025880015/",
+          "repere": "Articles 1 à 4 et 9 ; dernière mise à jour affichée : 1er mars 2021 ; contrôle au 13 novembre 2026."
+        }
+      ]
+    },
+    {
+      "id": "VRD-NORM-TERRASSEMENTS",
+      "ancienne_reference": "DTU 12 / anciennes prescriptions de terrassement éventuellement utilisées dans la base ; aucune substitution unique vers NF EN 16907 n’est démontrée ici.",
+      "statut": "CADRE CONTEMPORAIN IDENTIFIÉ — ne pas présenter NF EN 16907 ou le fascicule 2 comme remplacement automatique et équivalent du DTU 12.",
+      "nouvelles_references": [
+        {
+          "code": "NF EN 16907-1, décembre 2018",
+          "titre": "Terrassement — Partie 1 : principes et règles générales",
+          "role_cctp": "Référentiel de principes de conception, d’exécution et de contrôle des terrassements ; choisir les autres parties pertinentes selon les travaux.",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-169071/terrassement-partie-1-principes-et-regles-generales/fa170384/83577"
+        },
+        {
+          "code": "CCTG, fascicule 2",
+          "titre": "Terrassements généraux",
+          "role_cctp": "Référence contractuelle de terrassement à retenir lorsque les pièces du marché l’incorporent.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206042/"
+        }
+      ],
+      "conditions_application": "NF EN 16907-1 est affichée en vigueur au catalogue AFNOR. Le fascicule 2 figure dans la liste CCTG consolidée après modification entrée en vigueur le 19 octobre 2026. Vérifier les pièces contractuelles et l’édition précise retenue.",
+      "impact_metre": "Les profils, états des terres, quantités de déblais et remblais ainsi que les modalités de paiement doivent être définis par l’étude et le marché. Aucun coefficient universel de foisonnement ni règle de règlement n’est confirmé à partir du seul catalogue.",
+      "impact_mise_en_oeuvre": "Adapter classification, réemploi, traitements, compactage et contrôles aux études et aux référentiels effectivement applicables. Le texte intégral des normes n’a pas été consulté : aucune clause interne ni seuil ne peut être certifié ici.",
+      "alerte": "Vigilance Métreur : distinguer volume en place, foisonné et compacté ; renseigner les coefficients justifiés et le référentiel contractuel.",
+      "sources": [
+        {
+          "titre": "AFNOR — NF EN 16907-1",
+          "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-169071/terrassement-partie-1-principes-et-regles-generales/fa170384/83577",
+          "repere": "Décembre 2018 ; statut « en vigueur » affiché au 13 novembre 2026. Notice de catalogue, sans accès au texte intégral."
+        },
+        {
+          "titre": "Arrêté du 7 octobre 2021 relatif au CCTG de génie civil — version consolidée",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206042/",
+          "repere": "Articles 1 et 2, annexe ; dernière mise à jour affichée : 19 octobre 2026 ; fascicule 2 maintenu dans la liste."
+        }
+      ]
+    },
+    {
+      "id": "FR-CADRE-NORMALISATION",
+      "ancienne_reference": "L1 p.24–25 : présentation générale de l’applicabilité des normes.",
+      "statut": "PRÉCISION DU CADRE JURIDIQUE",
+      "nouvelles_references": [
+        {
+          "code": "Décret n°2009-697, article 17",
+          "titre": "Normalisation — application volontaire et cas d’obligation",
+          "role_cctp": "Distinguer statut normatif, obligation réglementaire et incorporation contractuelle.",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020749979/"
+        }
+      ],
+      "conditions_application": "Une norme est en principe d’application volontaire ; un arrêté peut la rendre obligatoire. Vérifier aussi les références incorporées au marché et les textes applicables à l’ouvrage.",
+      "impact_metre": "Aucune règle universelle de déduction ne découle du seul sigle NF DTU.",
+      "impact_mise_en_oeuvre": "Identifier les textes opposables et leurs domaines, puis les prescriptions particulières du projet.",
+      "alerte": "Une norme en vigueur n’est pas automatiquement obligatoire pour tout chantier.",
+      "sources": []
+    },
+    {
+      "id": "FR-CADRE-COMMANDE-PUBLIQUE",
+      "ancienne_reference": "L1 p.37 : décret du 1er août 2006 / ancien Code des marchés publics.",
+      "statut": "CADRE ACTUALISÉ SOUS CONDITION DE DATE DU CONTRAT",
+      "nouvelles_references": [
+        {
+          "code": "Code de la commande publique",
+          "titre": "Cadre des marchés publics et concessions",
+          "role_cctp": "Identifier les pièces du marché et les références contractuelles ; ne pas appliquer les règles des marchés publics à tous les marchés privés.",
+          "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000037701019/"
+        }
+      ],
+      "conditions_application": "Entrée en vigueur le 1er avril 2019 pour les consultations engagées ou avis envoyés à partir de cette date. Les contrats anciens peuvent rester soumis aux textes antérieurs.",
+      "impact_metre": "Identifier le mode de prix et les conditions de constat contradictoire du contrat ; aucun seuil de déduction ajouté.",
+      "impact_mise_en_oeuvre": "Les pièces du marché déterminent les référentiels effectivement incorporés.",
+      "alerte": "Vérifier la date de procédure, la nature du contrat et les pièces contractuelles.",
+      "sources": [
+        {
+          "titre": "DAJ — entrée en vigueur du Code de la commande publique",
+          "url": "https://www.economie.gouv.fr/daj/les-archives-de-lactualite-de-la-commande-publique",
+          "repere": "Actualité du 3 avril 2019."
+        }
+      ]
+    }
+  ],
+  "inventaire_livres": {
+    "fichier": "inventaire-normatif-livres.json",
+    "statut": "repérage textuel à rapprocher des références ; autres lots en attente"
+  },
+  "synthese": {
+    "fiches": 554,
+    "references_base": 54,
+    "familles_dtu": 13,
+    "parties_et_amendements": 45,
+    "transitions_et_reglements": 18
+  }
+}

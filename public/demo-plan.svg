@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850">
+<rect width="1200" height="850" fill="white"/>
+<g font-family="DejaVu Sans,Arial,sans-serif" fill="#1e3a5f"><text x="55" y="52" font-size="25">GARAGE 6 × 4 m — DÉMONSTRATION</text><text x="55" y="84" font-size="16">Cotes H.O. · murs 0,20 m · HSP 2,50 m · hypothèses pédagogiques</text></g>
+<g stroke="#263b53" fill="none"><rect x="240" y="230" width="720" height="480" fill="#eff6ff" stroke-width="3"/><rect x="264" y="254" width="672" height="432" fill="white" stroke-width="2"/>
+<path d="M240 165H960M240 148V215M960 148V215M175 230V710M158 230H223M158 710H223"/>
+<path d="M230 175l20-20M950 175l20-20M165 240l20-20M165 720l20-20" stroke-width="2"/>
+<path d="M336 698h288M800 698h108M948 374v144" stroke="#fff" stroke-width="29"/>
+<path d="M336 710v-288h288M800 710v-108h108M936 374h24v144h-24z" stroke="#3874d9" stroke-width="2"/>
+</g><g font-family="DejaVu Sans,Arial,sans-serif" fill="#263b53" text-anchor="middle"><text x="600" y="148" font-size="24">6,00 m H.O.</text><text x="147" y="470" font-size="22" transform="rotate(-90 147 470)">4,00 m H.O.</text><text x="600" y="430" font-size="28">LOCAL TECHNIQUE / GARAGE</text><text x="600" y="470" font-size="20">D.O. : 5,60 × 3,60 m</text><text x="480" y="754" font-size="18">Porte garage 2,40 × 2,00 m</text><text x="850" y="788" font-size="17">Service 0,90 × 2,15 m</text></g><text x="55" y="825" font-size="15" font-family="DejaVu Sans,Arial" fill="#536579">Étalonnage : segment (240,165) → (960,165) = 6,00 m. Fenêtre : 1,20 × 1,00 m.</text>
+</svg>

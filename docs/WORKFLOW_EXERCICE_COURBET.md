@@ -1,0 +1,173 @@
+# Guide & Workflow Exercice — Amiral Courbet
+
+Dossier lu : exercice.pdf (2 pages), notice descriptif.PDF (17 pages, dont 2 techniques), plan immeuble courbet.PDF (8 pages).
+
+Périmètre : IB2701, devoir 8, lot 01 / chapitre 09 Ravalement et finitions extérieures. CCTP puis avant-métré sans prix. Les documents sources restent sur votre poste ; ils ne sont pas publiés sur le site.
+
+Accès : bouton Guide & Workflow Exercice dans la navigation ou l’en-tête. Le tiroir non modal reste dans l’atelier ; son bouton Ouvrir réduit le guide et affiche la zone de travail. Reprendre le guide restaure la même étape. Les badges sont des validations manuelles. Notes et progression : stockage local par projet, exportables en Markdown ; aucune modification automatique des quantités ou du CCTP. Les projets locaux sont identifiés par titre et date d’étude ; un renommage ouvre une autre checklist. Le mode démo reste temporaire.
+
+## Étape 1 — Cadrer & analyser
+
+Amiral Courbet · IB2701 · Devoir 8. Le rendu concerne le lot 01 Gros œuvre, chapitre 09 Ravalement / Finitions extérieures : un CCTP puis un avant-métré, sans prix. La notice TCE sert de contexte.
+
+**01 · Fiche projet**
+
+Nommez le projet « Amiral Courbet — Devoir 8 », sélectionnez France et notez votre identité, la série 8 et la date. Sauvegardez une révision avant de commencer.
+
+**02 · Importer le descriptif**
+
+Ouvrez Copilote IA → Importer PDF / TXT / MD / CSV. Dans la notice, retenez les deux premières pages techniques ; les suivantes sont des trames. Relisez l’aperçu avant import. L’énoncé scanné peut nécessiter une transcription manuelle : vérifiez-la sur l’original.
+
+**03 · Analyser sans inventer**
+
+Choisissez Auto · IA si disponible puis Analyser & extraire les postes. Le moteur réellement utilisé est affiché : une configuration ne garantit pas un appel réussi. Relevez lots, prescriptions et questions ; une quantité absente reste à mesurer. Corrigez le classement automatique : le RPE du devoir appartient au lot 01, pas nécessairement au lot Peinture proposé.
+
+**Vigilance :** Le Copilote extrait des postes et des alertes ; il ne remplace ni la lecture de l’énoncé ni une rédaction CCTP complète. Les quantités inconnues ne doivent pas être remplacées par 1 pour permettre un ajout.
+
+**Contrôles**
+
+- [ ] Périmètre 01 / 09 et absence de prix notés
+- [ ] Pages techniques relues, transcription contrôlée
+- [ ] Postes attendus et informations manquantes recensés
+
+**Trame à adapter pour le Copilote**
+
+Dossier Amiral Courbet — devoir 8. Périmètre : lot 01 Gros œuvre, chapitre 09 Ravalement / Finitions extérieures. Extraire les ouvrages, localisations, performances imposées et informations manquantes. Ne pas inventer de quantité ni de norme. Distinguer RPE courant, ITE avancée sud et petites largeurs. Extrait vérifié de la notice : [coller le texte].
+
+## Étape 2 — Calibrer le plan
+
+PDF architectural de 8 pages : 1 masse, 2 façade nord, 3 façade sud, 4 RDC, 5 étage, 6 combles aménagés, 7 coupe AA, 8 fondations. Masse au 1/100 ; les autres vues sont au 1/50. Les orientations du scan sont à contrôler.
+
+**01 · Charger et choisir la page**
+
+Relevé sur plan → Importer PDF / DWG / DXF / image. Sélectionnez d’abord le RDC pour les longueurs cotées, puis les élévations pour les surfaces verticales et la coupe pour les hauteurs.
+
+**02 · Étalonner**
+
+Cliquez 1 · Étalonner, puis les deux extrémités exactes d’une cote. Saisissez sa longueur en mètres dans Cote réelle entre les deux points (m), puis Valider l’échelle. Au RDC, 1200 correspond à 12,00 m après contrôle de la convention centimétrique. Ne saisissez pas 1200 m.
+
+**03 · Contrôler et repérer**
+
+Vérifiez une seconde cote indépendante et recommencez par page. Préparez une convention : bleu RPE courant, violet ITE sud, orange tableaux/voussures, vert appuis. Renseignez Lot TCE, Niveau, Zone et Couleur du relevé. Ce repérage ne crée pas de calques CAO.
+
+**Vigilance :** La façade et la coupe ne sont pas interchangeables avec un plan de niveau. Contrôlez le cartouche, les points d’accroche et les éventuelles déformations du scan. Une cote écrite vérifiée prime sur une mesure graphique.
+
+**Contrôles**
+
+- [ ] Pages et convention de cotation identifiées
+- [ ] Échelle vérifiée par deux cotes sur chaque page utilisée
+- [ ] Légende couleur, niveaux et zones préparés
+
+## Étape 3 — Relever & calculer
+
+Relevez par façade, niveau et finition. Le devoir demande les surfaces brutes de support moins les baies en tableaux et les appuis, sans convention HO / DO. Traitez les petites largeurs séparément.
+
+**01 · Tracer puis enregistrer**
+
+Sur le plan : Linéaire pour ml, Surface pour m², Comptage pour u. Une surface de façade se trace sur une élévation. Nommez le relevé (ex. N-RDC-RPE-01), renseignez sa couleur et sa localisation, puis Enregistrer le relevé.
+
+**02 · Choisir sa preuve**
+
+Injecter la mesure dans la minute crée une reprise de quantité liée au plan. Pour une minute N/L/l/H détaillée, ouvrez Nouvel ouvrage et reportez les cotes vérifiées. Ne conservez pas à la fois la reprise et une nouvelle ligne représentant le même ouvrage.
+
+**03 · Dimensions et ouvertures**
+
+ml = N×L−D ; m² = N×L×H−D (mur) ou N×L×l−D (sol) ; m³ = N×L×l×H−D ; u = N−D. Les vides sont globaux sur la ligne et ne doivent pas aussi être saisis dans D. En m³, leur surface est multipliée par l’épaisseur.
+
+**04 · Petites largeurs**
+
+Séparez tableaux et voussures au ml par largeur, ou au m². Comptez les appuis en u par module de longueur et les seuils au ml par largeur ou au m². Séparez RPE courant et ITE sud ; vérifiez aussi les pignons et le passage voitures.
+
+Exemple fictif : 1 × 10 × 2,50 − 2 × 1,20 × 1,35 = 21,76 m². Ce calcul illustre les baies ; les éventuelles surfaces d’appuis restent à déduire selon leur emprise réelle, sans recouvrement avec la baie.
+
+**Vigilance :** Les déductions des nouvelles minutes sont globales. Les anciennes lignes conservent leur convention par élément. Vérifiez la formule affichée. Aucun seuil de non-déduction des petites baies n’est à appliquer ici.
+
+**Contrôles**
+
+- [ ] Chaque quantité a une source de plan et une localisation
+- [ ] Baies et appuis déduits une seule fois
+- [ ] Petites largeurs et finitions séparées ; aucun doublon
+
+## Étape 4 — Croiser & contrôler
+
+Le moteur serveur actuel analyse le texte et jusqu’à 500 désignations de la minute. Il ne reçoit pas l’image du plan ni toutes ses cotes : le croisement géométrique reste une vérification du métreur.
+
+**01 · Donner un contexte ciblé**
+
+Copiez un extrait technique vérifié et vos observations de plan : page, façade, repères, dimensions, ouvertures et doutes. Relancez Analyser & extraire les postes ; consultez Points à vérifier et les extraits sources.
+
+**02 · Tenir une matrice de contrôle**
+
+Pour chaque ouvrage : notice/page → relevé/page → code minute → code CCTP → question restante. Inscrivez les incertitudes dans les notes de cette étape plutôt que de créer des quantités supposées.
+
+**03 · Vérifier les sujétions**
+
+Contrôlez supports, préparation, accès, échafaudage, protections, retours, soubassements, joints, raccords, passage voitures et limites entre RPE et ITE. Une sujétion à examiner n’est pas automatiquement un article supplémentaire. La notice impose à l’avancée sud une ITE 8 cm et R ≥ 2,05 m²·K/W : recherchez un système documenté compatible.
+
+**Vigilance :** Une alerte IA est une aide à la relecture, pas une preuve de conformité ni une détection exhaustive des oublis. Si Auto bascule sur le secours local, le résultat doit être identifié comme tel.
+
+**Contrôles**
+
+- [ ] Chaque prescription du périmètre est reliée à un article
+- [ ] Constats de plan comparés manuellement aux quantités
+- [ ] Incertitudes et sujétions consignées, moteur IA identifié
+
+**Trame à adapter pour le Copilote**
+
+Périmètre : ravalement / finitions extérieures, lot 01 chapitre 09. Comparer cet extrait de notice aux constats de plan retranscrits ci-dessous et aux désignations de la minute. Signaler ouvrages potentiellement absents, doublons et questions techniques. Ne pas affirmer avoir vu le plan ; ne pas inventer les cotes. Notice : [texte]. Constats : [page, façade, repère, dimensions, déductions].
+
+## Étape 5 — Structurer le CCTP
+
+Le devoir demande d’abord le CCTP, puis l’avant-métré conforme à ce CCTP. Les relevés préparatoires aident à rédiger, mais une seconde passe quantitative est nécessaire après les choix techniques.
+
+**01 · Ventiler et coder**
+
+Minute professionnelle → Vue par Lot TCE puis Vue par Niveau / Zone. Utilisez une zone explicite (Nord, Sud, Est, Ouest, Passage voitures) et un niveau (RDC, R+1, Combles). Exemples de codes internes : 01.09.01 RPE courant ; 01.09.02 ITE avancée sud ; articles distincts pour petites largeurs, appuis et seuils.
+
+**02 · Rédiger chaque article**
+
+Éditeur CCTP FR / LU → Importer la minute, ou + Article libre pour rédiger avant le métré. Lot n° 01, nom Gros œuvre, sous-lot 09 Ravalement / Finitions extérieures. Complétez Description des ouvrages, Prescriptions de mise en œuvre, Localisation et Mode de métré. Relisez les articles importés avant de relancer un import.
+
+**03 · Définir les prescriptions**
+
+Précisez support, préparation, système, épaisseur, performance, finition, teinte à valider, fournitures et pose, points singuliers, interfaces et contrôles. Vérifiez les références proposées dans Normes & DTU : domaine d’emploi, parties et édition applicables au marché. Ne recopiez pas une référence générée sans source.
+
+**04 · Documenter puis revenir au métré**
+
+Pour l’ITE sud, joignez la documentation technique du système retenu, sa justification thermique et son évaluation technique applicable. Arrêtez les limites de prestation, puis alignez chaque ligne d’avant-métré sur les articles et unités du CCTP.
+
+**Vigilance :** La notice est un dossier pédagogique : ses prescriptions sont à reprendre pour l’exercice, pas à présenter comme une validation réglementaire actuelle d’un projet réel. Le guide ne choisit pas automatiquement un produit ou un DTU.
+
+**Contrôles**
+
+- [ ] Codes, lots, zones et désignations concordent
+- [ ] Description, pose, localisation et mesurage complétés
+- [ ] Documentation ITE jointe et quantités revues après CCTP
+
+## Étape 6 — Vérifier & rendre
+
+Le rendu est un quantitatif sans prix et un CCTP documenté. Une DPGF non chiffrée peut servir de présentation ; aucun prix unitaire n’est à inventer.
+
+**01 · Contrôle final**
+
+Vérifiez brut − déductions = net pour chaque façade, nombres de baies/appuis, développés des tableaux/voussures, emprises d’ITE, pignons et passage voitures. Comparez les façades similaires et expliquez les écarts ; les unités différentes ne s’additionnent pas.
+
+**02 · Avant-métré PDF et tableur**
+
+Filtrez le périmètre rendu → Vue Impression DPGF → Imprimer / Enregistrer en PDF. L’impression reprend le filtre, tandis que CSV et Excel exportent tout le projet. Utilisez un projet dédié au devoir pour ne pas livrer d’autres lots. Laissez PV HT non renseigné : l’indication « incomplet » du total financier est normale pour cet exercice sans prix.
+
+**03 · CCTP et pièces jointes**
+
+Éditeur CCTP → Aperçu complet, puis ↓ PDF et/ou ↓ Word .docx. Joignez la documentation ITE demandée, le registre d’hypothèses et les références de plans. Ajoutez IB2701, série 8, votre nom et identifiant dans les informations du rendu.
+
+**04 · Réouvrir le rendu**
+
+Réouvrez les fichiers exportés et contrôlez pagination, accents, unités, libellés, formules et correspondance des codes. Sauvegardez le projet et une révision datée avant remise.
+
+**Vigilance :** Le CSV / Excel est une passerelle générique, pas un format certifié d’un logiciel de devis. Les cases cochées attestent votre relecture manuelle ; elles ne constituent pas une validation technique automatique.
+
+**Contrôles**
+
+- [ ] Calculs, unités, périmètre et absence de prix vérifiés
+- [ ] Quantitatif et CCTP exportés puis réouverts
+- [ ] Documentation ITE, hypothèses et sauvegarde prêtes

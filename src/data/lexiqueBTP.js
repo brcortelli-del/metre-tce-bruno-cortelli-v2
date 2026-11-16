@@ -1,0 +1,28 @@
+export const LEXIQUE_TECHNIQUE_BTP = {
+ emprise:{terme:'Emprise (au sol)',categorie:'Terrassement / Urbanisme',definition:"Surface projetée au sol de l'ensemble de la construction (murs, débords et ouvrages enterrés inclus) délimitant la zone d'intervention du chantier."},
+ fouille:{terme:'Fouille',categorie:'Terrassement',definition:"Excavation creusée dans le sol pour recevoir les fondations, les réseaux enterrés ou les sous-sols d'un bâtiment. Elle se décline en fouille en rigole, en tranchée ou en pleine masse."},
+ rigole:{terme:'Fouille en rigole',categorie:'Terrassement / Fondations',definition:'Tranchée peu profonde (≤ 1,00 m) et étroite (≤ 2,00 m) creusée pour couler les semelles filantes des murs porteurs.'},
+ 'pleine masse':{terme:'Fouille en pleine masse',categorie:'Terrassement',definition:"Excavation généralisée réalisée sur toute la surface d'emprise du bâtiment pour créer un sous-sol, un vide sanitaire ou un radier."},
+ talutage:{terme:'Talutage / Fruit de fouille',categorie:'Terrassement',definition:"Inclinaison donnée aux parois d'une fouille pour éviter les éboulements. En métré, le volume de terrassement doit inclure la sur-largeur de talutage."},
+ foisonnement:{terme:'Foisonnement',categorie:'Terrassement',definition:"Augmentation du volume des terres après extraction (+15 % à +35 % selon la nature du sol), indispensable à calculer pour l'évacuation en décharge."},
+ 'semelle filante':{terme:'Semelle filante',categorie:'Gros Œuvre',definition:'Fondation continue en béton armé coulée en fond de rigole sous un mur porteur pour répartir les charges sur le sol.'},
+ longrine:{terme:'Longrine',categorie:'Gros Œuvre',definition:"Poutre horizontale en béton armé reliant des plots ou des pieux de fondation, servant d'appui aux murs ou au plancher bas."},
+ herisson:{terme:'Hérisson',categorie:'Gros Œuvre',definition:"Couche de pierres concassées ou de graviers (ép. 15 à 25 cm) compactée sous un dallage sur terre-plein pour éviter les remontées d'humidité par capillarité."},
+ arase:{terme:'Arase étanche',categorie:'Maçonnerie',definition:"Couche de mortier hydrofuge ou bande bitumineuse posée au sommet des murs de soubassement (à au moins 15 cm du sol fini) pour stopper l'humidité ascensionnelle."},
+ chainage:{terme:'Chaînage (horizontal / vertical)',categorie:'Gros Œuvre',definition:'Armature en acier noyée dans du béton ceinturant les murs maçonnés à chaque niveau et aux angles pour solidariser la structure.'},
+ linteau:{terme:'Linteau',categorie:'Gros Œuvre',definition:"Élément horizontal (béton armé, acier HEB/IPN, bois ou pierre) franchissant le haut d'une ouverture pour supporter la maçonnerie supérieure."},
+ allege:{terme:'Allège',categorie:'Maçonnerie / Menuiserie',definition:"Partie de mur située entre le plancher fini et le bas (appui) d'une fenêtre."},
+ tableau:{terme:'Tableau (de baie)',categorie:'Maçonnerie / Menuiserie',definition:"Paroi verticale latérale délimitant l'épaisseur d'une ouverture (porte ou fenêtre) dans un mur."},
+ embrasure:{terme:'Embrasure',categorie:'Maçonnerie',definition:"Ouverture pratiquée dans l'épaisseur d'un mur pour recevoir une porte ou une fenêtre, comprenant les tableaux, le linteau et l'appui."},
+ tremie:{terme:'Trémie',categorie:'Gros Œuvre / Charpente',definition:"Ouverture réservée dans un plancher, une dalle ou une toiture pour le passage d'un escalier, d'un ascenseur ou d'une gaine technique. À déduire en métré."},
+ chevetre:{terme:'Chevêtre',categorie:'Charpente / Gros Œuvre',definition:'Poutre ou solive perpendiculaire qui reporte les charges des solives interrompues par une trémie sur les poutres porteuses voisines.'},
+ acrotere:{terme:'Acrotère',categorie:'Toiture-Terrasse',definition:"Muret périphérique bordant une toiture-terrasse, servant de relevé d'étanchéité et de garde-corps."},
+ pureau:{terme:'Pureau',categorie:'Couverture',definition:"Partie visible d'une tuile ou d'une ardoise une fois posée, déterminant l'écartement (entraxe) entre les liteaux."},
+ ragreage:{terme:'Ragréage',categorie:'Revêtements de Sols',definition:"Enduit de lissage autolissant appliqué sur une dalle ou une chape pour corriger les défauts de planéité avant la pose d'un revêtement."},
+ spec:{terme:"SPEC (Système de Protection à l'Eau sous Carrelage)",categorie:'Étanchéité / Carrelage',definition:"Membrane ou résine d'étanchéité appliquée sur les parois et sols des pièces humides (douches, sanitaires) avant la pose du carrelage."},
+ sujetion:{terme:'Sujétion',categorie:'Économie de la construction',definition:"Contrainte particulière d'exécution ou fourniture accessoire indispensable à la bonne réalisation d'un ouvrage, incluse dans le prix unitaire."},
+ dpgf:{terme:'DPGF (Décomposition du Prix Global et Forfaitaire)',categorie:'Économie de la construction',definition:"Document financier détaillant lot par lot les désignations, unités, quantités et prix unitaires permettant d'aboutir au montant forfaitaire du marché."},
+ cctp:{terme:'CCTP (Cahier des Clauses Techniques Particulières)',categorie:'Marchés Publics / Privés',definition:'Pièce écrite contractuelle décrivant précisément les matériaux, normes DTU, localisations et règles de mise en œuvre de chaque ouvrage.'}
+};
+export function normaliserMot(text){return String(text).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[.,;:!?()"\x27«»]/g,'').trim().replace(/\s+/g,' ').split(' ').map(w=>w.endsWith('s')&&w.length>3?w.slice(0,-1):w).join(' ');}
+export function trouverTerme(text,cache={}){const key=normaliserMot(text);return Object.entries({...LEXIQUE_TECHNIQUE_BTP,...cache}).find(([k,v])=>normaliserMot(k)===key||normaliserMot(v.terme)===key)?.[1]||null;}

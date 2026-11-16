@@ -1,0 +1,21 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.607
+L’approvisionnement décompose les ouvrages affectés à un bloc de matériaux. Dans cet exemple fictif, le mur en
+
+2
+00:00:06.607 --> 00:00:13.213
+blocs alimente des besoins de blocs et de mortier. Vérifie la quantité physique nette, les pertes, le
+
+3
+00:00:13.213 --> 00:00:20.209
+fournisseur et la quantité par colis. Le nombre de colis est arrondi au supérieur. Une liste partielle est
+
+4
+00:00:20.209 --> 00:00:26.815
+signalée lorsque des ouvrages ne sont pas affectés. Le fichier exporté prépare une commande ; aucun ordre
+
+5
+00:00:26.815 --> 00:00:28.370
+n’est envoyé au fournisseur.

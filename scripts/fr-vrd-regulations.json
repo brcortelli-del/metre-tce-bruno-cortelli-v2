@@ -1,0 +1,295 @@
+[
+  {
+    "id": "VRD-REG-FOUILLES",
+    "ancienne_reference": "Livre 1, p. 107-108 : décret n° 65-48 du 8 janvier 1965, titre IV et article 178.",
+    "statut": "ANCIEN DÉCRET ABROGÉ — sécurité à actualiser sans en déduire une règle de règlement des quantités.",
+    "nouvelles_references": [
+      {
+        "code": "Code du travail, R. 4534-22 à R. 4534-39",
+        "titre": "Terrassements à ciel ouvert",
+        "role_cctp": "Prévention et dispositions de sécurité des fouilles.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000018529252"
+      },
+      {
+        "code": "Code du travail, R. 4534-24",
+        "titre": "Prévention des éboulements et protection des fouilles",
+        "role_cctp": "Déterminer les protections adaptées aux caractéristiques des fouilles et du terrain.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041541491/"
+      }
+    ],
+    "conditions_application": "Le cas particulier du blindage concerne les tranchées de profondeur supérieure à 1,30 m, de largeur au plus égale aux deux tiers de la profondeur, à parois verticales ou sensiblement verticales. Les autres fouilles restent soumises à la prévention des éboulements.",
+    "impact_metre": "Détailler les protections, profils et emprises justifiés par les plans et l’étude. Aucun seuil de déduction, pente universelle ou coefficient de volume n’est créé par cette règle de sécurité.",
+    "impact_mise_en_oeuvre": "Le décret de 1965 a été abrogé le 1er mai 2008. Appliquer les dispositions actuelles avant de faire descendre des personnes, avec les exceptions prévues pour installer les protections.",
+    "alerte": "Vigilance Métreur : 1,30 m n’est pas un seuil dispensant de prévenir les éboulements ; vérifier aussi largeur, parois et terrain.",
+    "sources": [
+      {
+        "titre": "Décret n° 65-48 du 8 janvier 1965 — texte abrogé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000494155",
+        "repere": "Abrogation par décret n° 2008-244 du 7 mars 2008, article 9 ; effet au 1er mai 2008."
+      },
+      {
+        "titre": "Code du travail — article R. 4534-24",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041541491/",
+        "repere": "Version en vigueur depuis le 7 février 2020 ; consultation au 13 novembre 2026."
+      }
+    ]
+  },
+  {
+    "id": "VRD-REG-DT-DICT",
+    "ancienne_reference": "Repérage des réseaux et sécurité des travaux à proximité des ouvrages enterrés évoqués dans les cours ; ne pas conserver le seul décret de 1965 comme référence.",
+    "statut": "COMPLÉMENT RÉGLEMENTAIRE ACTUEL — répartition des obligations selon le rôle des intervenants.",
+    "nouvelles_references": [
+      {
+        "code": "Code de l’environnement, R. 554-20",
+        "titre": "Consultation du guichet unique au stade du projet",
+        "role_cctp": "Identifier les réseaux concernés au stade de la conception et organiser la préparation des travaux.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036017437/"
+      },
+      {
+        "code": "Code de l’environnement, R. 554-25",
+        "titre": "Déclaration d’intention de commencement de travaux",
+        "role_cctp": "Encadrer la déclaration de l’exécutant aux exploitants concernés, sous réserve des exceptions du texte.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037522519/"
+      }
+    ],
+    "conditions_application": "Travaux à proximité des ouvrages entrant dans le champ du dispositif anti-endommagement. Distinguer le responsable du projet et l’exécutant ; les exceptions et cas de déclaration conjointe doivent être vérifiés pour l’opération.",
+    "impact_metre": "Prévoir, lorsque le projet et le marché les justifient, les investigations, sondages, protections et sujétions de terrassement à proximité des réseaux. Aucun pourcentage de majoration automatique n’est vérifié.",
+    "impact_mise_en_oeuvre": "Consulter les informations disponibles et accomplir les déclarations requises avant l’exécution ; adapter l’emprise et les techniques aux réseaux effectivement repérés.",
+    "alerte": "Vigilance Métreur : distinguer DT du responsable de projet et DICT de l’exécutant ; chiffrer les sujétions sur pièces du chantier.",
+    "sources": [
+      {
+        "titre": "Code de l’environnement — article R. 554-20",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036017437/",
+        "repere": "Version en vigueur depuis le 1er janvier 2018 ; consultation au 13 novembre 2026."
+      },
+      {
+        "titre": "Code de l’environnement — article R. 554-25",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037522519/",
+        "repere": "Version en vigueur depuis le 1er janvier 2020 ; consultation au 13 novembre 2026."
+      }
+    ]
+  },
+  {
+    "id": "VRD-REG-ASSAIN-CADRE",
+    "ancienne_reference": "Livre 3, p. 10 : décret n° 94-469 du 3 juin 1994 relatif à la collecte et au traitement des eaux usées.",
+    "statut": "DISPOSITIONS HISTORIQUES ABROGÉES OU CODIFIÉES — ne pas traiter l’en-tête global Légifrance comme confirmation de toutes les anciennes prescriptions.",
+    "nouvelles_references": [
+      {
+        "code": "CGCT, R. 2224-6",
+        "titre": "Définitions relatives à l’assainissement",
+        "role_cctp": "Déterminer le vocabulaire et le cadre de l’agglomération d’assainissement.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042075073/"
+      },
+      {
+        "code": "CGCT, R. 2224-10",
+        "titre": "Systèmes de collecte des eaux usées",
+        "role_cctp": "Identifier les obligations de collecte selon la situation du projet.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006396176/"
+      },
+      {
+        "code": "Arrêté du 21 juillet 2015 modifié",
+        "titre": "Prescriptions relatives aux systèmes d’assainissement concernés",
+        "role_cctp": "Appliquer les prescriptions techniques actuelles dans leur champ, avec le zonage et les prescriptions du service compétent.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/"
+      }
+    ],
+    "conditions_application": "Déterminer d’abord le régime de l’installation, le zonage, sa charge et les prescriptions propres au projet. Les anciens délais administratifs du décret de 1994 ne constituent pas des paramètres de calcul du logiciel.",
+    "impact_metre": "Mesurer les ouvrages à partir de l’étude d’assainissement et des plans retenus ; les seuils administratifs ou de charge ne sont pas des seuils de déduction des quantités.",
+    "impact_mise_en_oeuvre": "Le texte historique ne doit pas servir seul de cahier technique actuel. Ses dispositions consultées sont abrogées ou modificatives ; une correspondance intégrale article par article n’a pas été établie dans cet audit.",
+    "alerte": "Vigilance Métreur : vérifier le zonage et le régime actuel de l’assainissement ; ne pas réutiliser automatiquement les échéances du décret de 1994.",
+    "sources": [
+      {
+        "titre": "Décret n° 94-469 du 3 juin 1994 — version consolidée",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005615953/",
+        "repere": "Chapitres et dispositions abrogés ; article 18 présenté comme disposition modificative. Contrôle au 13 novembre 2026."
+      },
+      {
+        "titre": "Code général des collectivités territoriales — article R. 2224-6",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042075073/",
+        "repere": "Version en vigueur depuis le 3 juillet 2020."
+      },
+      {
+        "titre": "Code général des collectivités territoriales — article R. 2224-10",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006396176/",
+        "repere": "Systèmes de collecte ; consultation au 13 novembre 2026."
+      }
+    ]
+  },
+  {
+    "id": "VRD-REG-ASSAIN-1994",
+    "ancienne_reference": "Livre 3, p. 10 : arrêtés du 22 décembre 1994 relatifs aux ouvrages de collecte et de traitement des eaux usées et à leur surveillance.",
+    "statut": "ABROGÉS — références techniques et de surveillance à remplacer dans leur champ d’application.",
+    "nouvelles_references": [
+      {
+        "code": "Arrêté du 21 juillet 2015 modifié",
+        "titre": "Systèmes d’assainissement collectif et installations d’assainissement non collectif, sauf celles recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+        "role_cctp": "Conception, exécution, entretien, surveillance et appréciation de conformité des systèmes relevant de ce texte.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/"
+      }
+    ],
+    "conditions_application": "Utiliser la version consolidée du 21 juillet 2015, dont la dernière mise à jour affichée est le 1er janvier 2025. Ce texte ne s’applique pas aux petites installations ANC expressément exclues de son champ.",
+    "impact_metre": "Aucun seuil de vide pour plein n’est confirmé par ces arrêtés. Quantifier séparément les réseaux, ouvrages, équipements et prestations prescrits au projet.",
+    "impact_mise_en_oeuvre": "Les deux arrêtés du 22 décembre 1994 ont été abrogés au 14 juillet 2007 par l’arrêté du 22 juin 2007, lui-même abrogé au 1er janvier 2016 par l’arrêté du 21 juillet 2015.",
+    "alerte": "Vigilance Métreur : les arrêtés de 1994 ne sont plus le référentiel technique de l’assainissement collectif ; utiliser le texte consolidé applicable au projet.",
+    "sources": [
+      {
+        "titre": "Arrêté technique du 22 décembre 1994 — texte abrogé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000735207/",
+        "repere": "Abrogation par l’article 24 de l’arrêté du 22 juin 2007."
+      },
+      {
+        "titre": "Arrêté du 22 décembre 1994 relatif à la surveillance — texte abrogé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000550850/",
+        "repere": "Abrogation au 14 juillet 2007."
+      },
+      {
+        "titre": "Arrêté du 21 juillet 2015 — version consolidée",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/",
+        "repere": "Articles 1 et 24 ; dernière mise à jour affichée : 1er janvier 2025 ; vérification au 13 novembre 2026."
+      }
+    ]
+  },
+  {
+    "id": "VRD-REG-ASSAIN-1996",
+    "ancienne_reference": "Livre 3, p. 10 : arrêté du 21 juin 1996 concernant les ouvrages de collecte et de traitement des petites agglomérations.",
+    "statut": "ABROGÉ — ne pas maintenir une branche réglementaire autonome fondée sur ce texte historique.",
+    "nouvelles_references": [
+      {
+        "code": "Arrêté du 21 juillet 2015 modifié",
+        "titre": "Prescriptions des systèmes d’assainissement entrant dans son champ",
+        "role_cctp": "Définir les obligations techniques actuelles après qualification du système.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/"
+      },
+      {
+        "code": "Arrêté du 7 septembre 2009 modifié — prescriptions techniques ANC",
+        "titre": "Installations ANC recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+        "role_cctp": "Référence distincte lorsque le système appartient au champ des petites installations ANC.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/"
+      }
+    ],
+    "conditions_application": "Le choix entre ces textes dépend du système d’assainissement et de son champ réglementaire, pas uniquement du nombre d’habitants de la commune.",
+    "impact_metre": "Le statut de petite commune ne fixe aucun coefficient de terrassement ni règle de déduction des réseaux. Utiliser le dimensionnement et les pièces du marché.",
+    "impact_mise_en_oeuvre": "L’arrêté du 21 juin 1996 a été abrogé au 14 juillet 2007 par l’arrêté du 22 juin 2007. Requalifier l’installation dans le dispositif actuel.",
+    "alerte": "Vigilance Métreur : « petite commune » ne suffit pas pour choisir les prescriptions ; distinguer collectif et non collectif.",
+    "sources": [
+      {
+        "titre": "Arrêté du 21 juin 1996 — prescriptions techniques minimales",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006130554",
+        "repere": "Dispositions abrogées au 14 juillet 2007 par l’article 24 de l’arrêté du 22 juin 2007."
+      },
+      {
+        "titre": "Arrêté du 21 juillet 2015 — version consolidée",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031052756/",
+        "repere": "Champ d’application, article 1 ; vérification au 13 novembre 2026."
+      },
+      {
+        "titre": "Arrêté technique ANC du 7 septembre 2009 — version consolidée",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/",
+        "repere": "Champ d’application, article 1 ; dernière mise à jour affichée : 1er mars 2021."
+      }
+    ]
+  },
+  {
+    "id": "VRD-REG-ANC-TECHNIQUE",
+    "ancienne_reference": "Livre 3, p. 10 : arrêté du 6 mai 1996 fixant les prescriptions techniques applicables aux systèmes d’assainissement non collectif, mentionné avec modification du 24 décembre 2003.",
+    "statut": "ANCIEN ARRÊTÉ TECHNIQUE ABROGÉ — prescriptions actuelles identifiées ; pas de validation automatique des dimensionnements du cours.",
+    "nouvelles_references": [
+      {
+        "code": "Arrêté du 7 septembre 2009 modifié",
+        "titre": "Prescriptions techniques des installations ANC recevant une charge brute de pollution organique inférieure ou égale à 1,2 kg/j de DBO5",
+        "role_cctp": "Choix, conception et réalisation de la filière dans son champ d’application.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/"
+      }
+    ],
+    "conditions_application": "Version consolidée intégrant notamment les modifications du 7 mars 2012 et du 26 février 2021. Adapter la conception à la charge, aux flux, au sol et aux contraintes du projet ; vérifier l’agrément du dispositif lorsqu’il est requis.",
+    "impact_metre": "Ne pas convertir un seuil de charge en quantité de fouille. Les surfaces de traitement et volumes sont issus de la filière et de l’étude retenues ; les ratios scolaires ne constituent pas une validation réglementaire.",
+    "impact_mise_en_oeuvre": "L’arrêté technique du 6 mai 1996 a été abrogé le 10 octobre 2009 par l’article 18 de l’arrêté du 7 septembre 2009. La mention historique du 24 décembre 2003 ne rend pas l’ancien arrêté applicable.",
+    "alerte": "Vigilance Métreur : vérifier filière, charge, étude de sol et agrément éventuel ; aucun dimensionnement ANC automatique n’est validé par ce catalogue.",
+    "sources": [
+      {
+        "titre": "Arrêté technique ANC du 6 mai 1996 — texte abrogé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000560526/",
+        "repere": "Abrogation au 10 octobre 2009."
+      },
+      {
+        "titre": "Arrêté technique ANC du 7 septembre 2009 — version consolidée",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125109/",
+        "repere": "Articles 1, 2 et 18 ; dernière mise à jour affichée : 1er mars 2021 ; contrôle au 13 novembre 2026."
+      },
+      {
+        "titre": "Arrêté du 26 février 2021 modifiant les textes techniques et de contrôle ANC",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043190509/",
+        "repere": "Modifications entrées en vigueur le 1er mars 2021."
+      }
+    ]
+  },
+  {
+    "id": "VRD-REG-ANC-CONTROLE",
+    "ancienne_reference": "Arrêté du 6 mai 1996 fixant les modalités du contrôle technique exercé par les communes sur les systèmes d’assainissement non collectif — distinct de l’arrêté technique du même jour.",
+    "statut": "ANCIEN DISPOSITIF ABROGÉ — distinguer prescriptions techniques et mission de contrôle.",
+    "nouvelles_references": [
+      {
+        "code": "Arrêté du 27 avril 2012 modifié",
+        "titre": "Modalités de l’exécution de la mission de contrôle des installations d’assainissement non collectif",
+        "role_cctp": "Organiser le contrôle de la conception, de l’exécution et des installations existantes selon le cas.",
+        "url": "https://www.legifrance.gouv.fr/loda/texte_lc/LEGITEXT000025880015/"
+      }
+    ],
+    "conditions_application": "Appliquer la version consolidée intégrant la modification du 26 février 2021 ; distinguer installation neuve ou réhabilitée et installation existante.",
+    "impact_metre": "Identifier les prestations de contrôle et les justifications prévues par le projet et le service compétent. Le texte ne fournit pas de seuil de vide pour plein.",
+    "impact_mise_en_oeuvre": "L’arrêté de contrôle du 6 mai 1996 a été abrogé le 10 octobre 2009 ; l’arrêté de contrôle du 7 septembre 2009 a ensuite été abrogé le 1er juillet 2012. Prévoir le contrôle de l’exécution selon la procédure du service compétent.",
+    "alerte": "Vigilance Métreur : organiser le contrôle ANC avec le service compétent ; ne pas confondre le texte de contrôle avec celui des prescriptions techniques.",
+    "sources": [
+      {
+        "titre": "Arrêté de contrôle ANC du 6 mai 1996 — texte abrogé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000192965",
+        "repere": "Abrogation au 10 octobre 2009."
+      },
+      {
+        "titre": "Arrêté de contrôle ANC du 7 septembre 2009 — texte abrogé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000021125154",
+        "repere": "Abrogation au 1er juillet 2012."
+      },
+      {
+        "titre": "Arrêté du 27 avril 2012 — version consolidée",
+        "url": "https://www.legifrance.gouv.fr/loda/texte_lc/LEGITEXT000025880015/",
+        "repere": "Articles 1 à 4 et 9 ; dernière mise à jour affichée : 1er mars 2021 ; contrôle au 13 novembre 2026."
+      }
+    ]
+  },
+  {
+    "id": "VRD-NORM-TERRASSEMENTS",
+    "ancienne_reference": "DTU 12 / anciennes prescriptions de terrassement éventuellement utilisées dans la base ; aucune substitution unique vers NF EN 16907 n’est démontrée ici.",
+    "statut": "CADRE CONTEMPORAIN IDENTIFIÉ — ne pas présenter NF EN 16907 ou le fascicule 2 comme remplacement automatique et équivalent du DTU 12.",
+    "nouvelles_references": [
+      {
+        "code": "NF EN 16907-1, décembre 2018",
+        "titre": "Terrassement — Partie 1 : principes et règles générales",
+        "role_cctp": "Référentiel de principes de conception, d’exécution et de contrôle des terrassements ; choisir les autres parties pertinentes selon les travaux.",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-169071/terrassement-partie-1-principes-et-regles-generales/fa170384/83577"
+      },
+      {
+        "code": "CCTG, fascicule 2",
+        "titre": "Terrassements généraux",
+        "role_cctp": "Référence contractuelle de terrassement à retenir lorsque les pièces du marché l’incorporent.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206042/"
+      }
+    ],
+    "conditions_application": "NF EN 16907-1 est affichée en vigueur au catalogue AFNOR. Le fascicule 2 figure dans la liste CCTG consolidée après modification entrée en vigueur le 19 octobre 2026. Vérifier les pièces contractuelles et l’édition précise retenue.",
+    "impact_metre": "Les profils, états des terres, quantités de déblais et remblais ainsi que les modalités de paiement doivent être définis par l’étude et le marché. Aucun coefficient universel de foisonnement ni règle de règlement n’est confirmé à partir du seul catalogue.",
+    "impact_mise_en_oeuvre": "Adapter classification, réemploi, traitements, compactage et contrôles aux études et aux référentiels effectivement applicables. Le texte intégral des normes n’a pas été consulté : aucune clause interne ni seuil ne peut être certifié ici.",
+    "alerte": "Vigilance Métreur : distinguer volume en place, foisonné et compacté ; renseigner les coefficients justifiés et le référentiel contractuel.",
+    "sources": [
+      {
+        "titre": "AFNOR — NF EN 16907-1",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-169071/terrassement-partie-1-principes-et-regles-generales/fa170384/83577",
+        "repere": "Décembre 2018 ; statut « en vigueur » affiché au 13 novembre 2026. Notice de catalogue, sans accès au texte intégral."
+      },
+      {
+        "titre": "Arrêté du 7 octobre 2021 relatif au CCTG de génie civil — version consolidée",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000044206042/",
+        "repere": "Articles 1 et 2, annexe ; dernière mise à jour affichée : 19 octobre 2026 ; fascicule 2 maintenu dans la liste."
+      }
+    ]
+  }
+]

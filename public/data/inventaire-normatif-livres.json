@@ -1,0 +1,1826 @@
+{
+  "date_audit": "2026-11-13",
+  "methode": "Détection de mentions et contexte sur toutes les pages PDF ; contrôle manuel et registre distinct nécessaires, notamment pour variantes OCR, millésimes et arrêtés sans numéro.",
+  "sources": [
+    {
+      "livre": "L1",
+      "nom": "IB2701-L1(2).PDF",
+      "sha256": "1403ac66c486669b460547d92e0c7daab42baf81a320541948da8a0c1c31fff1",
+      "pages_pdf": 176
+    },
+    {
+      "livre": "L2",
+      "nom": "IB2701-L2(4).PDF",
+      "sha256": "a98980bd6e29e7880c8a493e4bf25d8e2620d35b2831061d1f6ddee8cc43befa",
+      "pages_pdf": 172
+    },
+    {
+      "livre": "L3",
+      "nom": "IB2701-L3 (1).PDF",
+      "sha256": "6241059fb27819acbd7c16cfdbfbd6f052da578e02a8b1468746a3a5bf308adb",
+      "pages_pdf": 166
+    }
+  ],
+  "mentions": [
+    {
+      "livre": "L1",
+      "page_pdf": 11,
+      "page_cours": 9,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "1.4.8.1. Le rappel des principales lois, arrêtés, décrets et les différents codes",
+      "contexte": "24 1.4.8.1. Le rappel des principales lois, arrêtés, décrets et les différents codes 24",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 12,
+      "page_cours": 10,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "3.1.1. Le code civil",
+      "contexte": "36 3.1.1. Le code civil 36",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 12,
+      "page_cours": 10,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "3.1.2. Le code des marchés publics",
+      "contexte": "36 3.1.2. Le code des marchés publics 37",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 12,
+      "page_cours": 10,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "3.1.5. La norme française NF P 03.001",
+      "contexte": "37 3.1.5. La norme française NF P 03.001 37",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 18,
+      "page_cours": 16,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Le Code des Marchés Publics (C.M.P.) précise les définitions des différents cahiers des",
+      "contexte": "Le CdCF est un des documents constituant le Dossier de Consultation des Entreprises (DCE). Le Code des Marchés Publics (C.M.P.) précise les définitions des différents cahiers des charges (administratif et technique) dans le cadre des Marchés Publics de travaux.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 26,
+      "page_cours": 24,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "1.4.8.1. Le rappel des principales lois, arrêtés, décrets et les différents codes",
+      "contexte": "1.4.8. Que peut-on indiquer dans les Prescriptions Générales ? 1.4.8.1. Le rappel des principales lois, arrêtés, décrets et les différents codes Code civil, Code de l'urbanisme, Code de la construction et de l'habitation, Code de la santé",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 26,
+      "page_cours": 24,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Code civil, Code de l'urbanisme, Code de la construction et de l'habitation, Code de la santé",
+      "contexte": "1.4.8.1. Le rappel des principales lois, arrêtés, décrets et les différents codes Code civil, Code de l'urbanisme, Code de la construction et de l'habitation, Code de la santé publique, Code du travail et autres, ayant trait à la construction (bien que nul ne soit censé",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 26,
+      "page_cours": 24,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "publique, Code du travail et autres, ayant trait à la construction (bien que nul ne soit censé",
+      "contexte": "Code civil, Code de l'urbanisme, Code de la construction et de l'habitation, Code de la santé publique, Code du travail et autres, ayant trait à la construction (bien que nul ne soit censé ignorer la loi!).",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 26,
+      "page_cours": 24,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "document étant approuvé par décret et publié (donc suppose, comme la loi, connu de tous !), il",
+      "contexte": "des Marchés Publics qu'il est inutile de placer le C.C.T.G. dans le dossier de consultation, ce document étant approuvé par décret et publié (donc suppose, comme la loi, connu de tous !), il peut être prudent (sans alourdir le C.C.T.P.) de rappeler aux entrepreneurs certaines",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 26,
+      "page_cours": 24,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Normes techniques. Ci-dessous, l’exemple de la norme P 31-202 (DTU 40.21) (Couvertures",
+      "contexte": "entreprises sont généralement décrites dans le Cahier des Clauses Spéciales des différentes Normes techniques. Ci-dessous, l’exemple de la norme P 31-202 (DTU 40.21) (Couvertures en tuiles de terre cuite à emboîtement ou à glissement à relief) :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 27,
+      "page_cours": 25,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "P 31-202-1 (Référence DTU 40-21) ;",
+      "contexte": "la fixation des tuiles, prescrite par la norme NF P 31-202-1 (Référence DTU 40-21) ; •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 27,
+      "page_cours": 25,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "préalables requises à la norme NF P 31-202-1",
+      "contexte": "l'entrepreneur doit s'assurer que les conditions préalables requises à la norme NF P 31-202-1 (Référence DTU 40-21) sont satisfaites ; en",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 27,
+      "page_cours": 25,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "(Référence DTU 40-21) sont satisfaites ; en",
+      "contexte": "préalables requises à la norme NF P 31-202-1 (Référence DTU 40-21) sont satisfaites ; en particulier que :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 27,
+      "page_cours": 25,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "le paragraphe 4.1 de la norme NF P 31-",
+      "contexte": "sont établis selon les pentes prescrites par le paragraphe 4.1 de la norme NF P 31- 202-1 (Référence DTU 40-21) ;",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 27,
+      "page_cours": 25,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "202-1 (Référence DTU 40-21) ;",
+      "contexte": "le paragraphe 4.1 de la norme NF P 31- 202-1 (Référence DTU 40-21) ; •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 27,
+      "page_cours": 25,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "7.5.2.2, 7.5.5, 8.4, 9 et 19.1 de la norme NF P 03-",
+      "contexte": "dispositions des paragraphes 3.3, 5.1.1, 5.4.1, 6.6, 7.5.2.2, 7.5.5, 8.4, 9 et 19.1 de la norme NF P 03- 001.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 38,
+      "page_cours": 36,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "1 - Le code civil",
+      "contexte": "3.1. Principaux textes régissant les travaux du bâtiment 1 - Le code civil 2 - Le code des Marchés Publics",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 38,
+      "page_cours": 36,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "2 - Le code des Marchés Publics",
+      "contexte": "1 - Le code civil 2 - Le code des Marchés Publics 3 - Les Cahiers des Charges Généraux",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 38,
+      "page_cours": 36,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "5 - La Norme Française NF P 03.001",
+      "contexte": "4 - Les Cahiers des Charges Particuliers 5 - La Norme Française NF P 03.001 3.1.1. Le code civil",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 38,
+      "page_cours": 36,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "3.1.1. Le code civil",
+      "contexte": "5 - La Norme Française NF P 03.001 3.1.1. Le code civil Articles concernant le « louage d’ouvrage »",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "3.1.2. Le code des marchés publics",
+      "contexte": "37 3.1.2. Le code des marchés publics Décret du 1er août 2006 : Code des Marchés Publics",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Décret du 1er août 2006 : Code des Marchés Publics",
+      "contexte": "3.1.2. Le code des marchés publics Décret du 1er août 2006 : Code des Marchés Publics Circulaire du 3 août 2006 : manuel d’application du Code des Marchés Publics",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Circulaire du 3 août 2006 : manuel d’application du Code des Marchés Publics",
+      "contexte": "Décret du 1er août 2006 : Code des Marchés Publics Circulaire du 3 août 2006 : manuel d’application du Code des Marchés Publics 3.1.3. Les cahiers des charges généraux",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "CCTG (Cahier de Charges Techniques Générales)",
+      "contexte": "CCAG Travaux (Cahier des Charges Administratives Générales) CCTG (Cahier de Charges Techniques Générales) Comprenant :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "1976, date de la réforme de la Loi sur l’Ingénierie et l’Architecture.",
+      "contexte": "CCTP (CCT Particulières) remplace le terme « devis descriptif » depuis le 23 février 1976, date de la réforme de la Loi sur l’Ingénierie et l’Architecture. 3.1.5. La norme française NF P 03.001",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "3.1.5. La norme française NF P 03.001",
+      "contexte": "1976, date de la réforme de la Loi sur l’Ingénierie et l’Architecture. 3.1.5. La norme française NF P 03.001 NF P 03-001 du 5 décembre 2000 (CCAP marchés privés).",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 03-001 du 5 décembre 2000 (CCAP marchés privés).",
+      "contexte": "3.1.5. La norme française NF P 03.001 NF P 03-001 du 5 décembre 2000 (CCAP marchés privés). 3.1.6. Autres documents de référence",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Le Code de la Construction et de l’Habitat",
+      "contexte": "• Le Code de la Construction et de l’Habitat •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 39,
+      "page_cours": 37,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "La Réglementation Thermique (Réglementation Energétique RT 2000)",
+      "contexte": "• La Réglementation Thermique (Réglementation Energétique RT 2000) •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 40,
+      "page_cours": 38,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Créé en 1958, le groupe de coordination des textes techniques dans la construction a pour",
+      "contexte": "3.2. A propos des DTU Créé en 1958, le groupe de coordination des textes techniques dans la construction a pour mission d’établir des « documents techniques unifiés » DTU.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 41,
+      "page_cours": 39,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Par ailleurs, lorsque les contrats obéissent à la norme NF P 03-001, ils sont de ce fait soumis à",
+      "contexte": "39 Par ailleurs, lorsque les contrats obéissent à la norme NF P 03-001, ils sont de ce fait soumis à l’obligation de respect des DTU. La norme précise de plus que ces documents n’ont pas à être",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 42,
+      "page_cours": 40,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "intégrées, lorsqu’elles sont homologuées, ont été rendues applicables par décret.",
+      "contexte": "Pour les marchés publics : les normes françaises et les normes européennes qui y sont intégrées, lorsqu’elles sont homologuées, ont été rendues applicables par décret. Pour les marchés privés : le CCAG impose que les fournitures devront répondre aux",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 48,
+      "page_cours": 46,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "5.5.2. Terminologie de la norme NF EN 206-1",
+      "contexte": "75 5.5.2. Terminologie de la norme NF EN 206-1 75",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 48,
+      "page_cours": 46,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "5.5.4. Les avancées de la norme EN 206-1",
+      "contexte": "75 5.5.4. Les avancées de la norme EN 206-1 76",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 48,
+      "page_cours": 46,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "5.5.7. Le DTU 21 (NF P 18-201) et la norme NF EN 206-1",
+      "contexte": "81 5.5.7. Le DTU 21 (NF P 18-201) et la norme NF EN 206-1 82",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 56,
+      "page_cours": 54,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 98-304 : Bordures et caniveaux en granit et en grés.",
+      "contexte": "1.5. Documents de référence NF P 98-304 : Bordures et caniveaux en granit et en grés. NF P 61-302 : Carreaux de mosaïque de marbre",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 56,
+      "page_cours": 54,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 61-302 : Carreaux de mosaïque de marbre",
+      "contexte": "NF P 98-304 : Bordures et caniveaux en granit et en grés. NF P 61-302 : Carreaux de mosaïque de marbre NF B 10-001 et NF B 10-401 : Matériaux. Pierre calcaires",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 56,
+      "page_cours": 54,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "XP B 10-601 : Produits de carrière - Pierres naturelles",
+      "contexte": "NF B 10-103 et NF B 10-403 : Granit XP B 10-601 : Produits de carrière - Pierres naturelles P 10-202 DTU 20.1: Paroi et maçonnerie en petits éléments",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 56,
+      "page_cours": 54,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "P 10-202 DTU 20.1: Paroi et maçonnerie en petits éléments",
+      "contexte": "XP B 10-601 : Produits de carrière - Pierres naturelles P 10-202 DTU 20.1: Paroi et maçonnerie en petits éléments NF EN 771-6 (P 12-006) : Spécifications pour éléments de maçonnerie – Partie 6 : Eléments",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 56,
+      "page_cours": 54,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF EN 771-6 (P 12-006) : Spécifications pour éléments de maçonnerie – Partie 6 : Eléments",
+      "contexte": "P 10-202 DTU 20.1: Paroi et maçonnerie en petits éléments NF EN 771-6 (P 12-006) : Spécifications pour éléments de maçonnerie – Partie 6 : Eléments de maçonnerie en pierre naturelle",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 61,
+      "page_cours": 59,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-306 : Béton - Laitier granulé",
+      "contexte": "2.6. Documents de référence NF P 18-306 : Béton - Laitier granulé NF P 18-307 : Béton - Laitier expansé",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 61,
+      "page_cours": 59,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-307 : Béton - Laitier expansé",
+      "contexte": "NF P 18-306 : Béton - Laitier granulé NF P 18-307 : Béton - Laitier expansé NF P 18-308 : Béton - Pouzzolane",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 61,
+      "page_cours": 59,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-308 : Béton - Pouzzolane",
+      "contexte": "NF P 18-307 : Béton - Laitier expansé NF P 18-308 : Béton - Pouzzolane NF P 18-309 : Granulats d’argile ou de schiste expansés fabriqués en four rotatif destinés à la",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 61,
+      "page_cours": 59,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-309 : Granulats d’argile ou de schiste expansés fabriqués en four rotatif destinés à la",
+      "contexte": "NF P 18-308 : Béton - Pouzzolane NF P 18-309 : Granulats d’argile ou de schiste expansés fabriqués en four rotatif destinés à la confection des bétons",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 62,
+      "page_cours": 60,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Les ciments ont fait l’objet de la norme NF P 15.301 prenant en compte les besoins dictés par",
+      "contexte": "3.2.2. Classification des ciments Les ciments ont fait l’objet de la norme NF P 15.301 prenant en compte les besoins dictés par le marché commun et par le développement du commerce extérieur. Cette norme a donc été",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 62,
+      "page_cours": 60,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "publiée en avril 1992 sous la référence ENV 197-1 (réf européenne) et NF P 15.301 (réf",
+      "contexte": "le marché commun et par le développement du commerce extérieur. Cette norme a donc été publiée en avril 1992 sous la référence ENV 197-1 (réf européenne) et NF P 15.301 (réf",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 64,
+      "page_cours": 62,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "européenne NF EN 197-1.",
+      "contexte": "signifie que le ciment défini par son type et sa classe est conforme aux exigences de la norme européenne NF EN 197-1. La marque NF : la marque NF doit faire l’objet d’une démarche volontaire de la part des",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 65,
+      "page_cours": 63,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "LA NORME NF P 15-311 :",
+      "contexte": "La chaux est obtenue par calcination puis refroidissement du calcaire. LA NORME NF P 15-311 : Chaux de construction",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 66,
+      "page_cours": 64,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "SELON LA NORME NF P 15-311",
+      "contexte": "PROCÉDÉ DE FABRICATION DE LA CHAUX AÉRIENNE SELON LA NORME NF P 15-311",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 15-301 : Liants hydrauliques-Ciments courants",
+      "contexte": "3.4. Documents de référence NF P 15-301 : Liants hydrauliques-Ciments courants NF P 15-302 : Ciments à usage tropical",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 15-302 : Ciments à usage tropical",
+      "contexte": "NF P 15-301 : Liants hydrauliques-Ciments courants NF P 15-302 : Ciments à usage tropical NF P 15-306 : Liants hydrauliques-Ciments de laitier à la chaux CLX",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 15-306 : Liants hydrauliques-Ciments de laitier à la chaux CLX",
+      "contexte": "NF P 15-302 : Ciments à usage tropical NF P 15-306 : Liants hydrauliques-Ciments de laitier à la chaux CLX NF P 15-308 : Liants hydrauliques-Ciments naturels CN",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 15-308 : Liants hydrauliques-Ciments naturels CN",
+      "contexte": "NF P 15-306 : Liants hydrauliques-Ciments de laitier à la chaux CLX NF P 15-308 : Liants hydrauliques-Ciments naturels CN NF P 15-311 : Chaux de construction.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 15-311 : Chaux de construction.",
+      "contexte": "NF P 15-308 : Liants hydrauliques-Ciments naturels CN NF P 15-311 : Chaux de construction. NF P 15-314 : Liants hydrauliques-Ciments prompt naturel",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 15-314 : Liants hydrauliques-Ciments prompt naturel",
+      "contexte": "NF P 15-311 : Chaux de construction. NF P 15-314 : Liants hydrauliques-Ciments prompt naturel NF P 15-315 : Liants hydrauliques-Ciments alumineux fondu",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 15-315 : Liants hydrauliques-Ciments alumineux fondu",
+      "contexte": "NF P 15-314 : Liants hydrauliques-Ciments prompt naturel NF P 15-315 : Liants hydrauliques-Ciments alumineux fondu FD P 15-010 : Liants hydrauliques–Guide d’utilisation des ciments",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 67,
+      "page_cours": 65,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "FD P 15-010 : Liants hydrauliques–Guide d’utilisation des ciments",
+      "contexte": "NF P 15-315 : Liants hydrauliques-Ciments alumineux fondu FD P 15-010 : Liants hydrauliques–Guide d’utilisation des ciments",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 77,
+      "page_cours": 75,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "La norme européenne NF EN 206-1 remplace la norme béton prêt à l’emploi XP P 18-305",
+      "contexte": "composent doivent être résistants et durables. La norme européenne NF EN 206-1 remplace la norme béton prêt à l’emploi XP P 18-305 avec un champ d’application élargi :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 77,
+      "page_cours": 75,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "ouvrages, en bâtiment notamment le DTU 21 (NF P 18-201), « Travaux de bâtiment -",
+      "contexte": "l’utilisation de cette norme s’impose dans l’application des documents d’exécution des ouvrages, en bâtiment notamment le DTU 21 (NF P 18-201), « Travaux de bâtiment - Exécution des ouvrages en béton » ou en génie civil (fascicule 65 A, livret 2-21 de la",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 77,
+      "page_cours": 75,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "5.5.2. Terminologie de la norme NF EN 206-1",
+      "contexte": "SNCF…). 5.5.2. Terminologie de la norme NF EN 206-1 >Les Bétons à Propriétés Spécifiées “BPS” sont des bétons dont les performances sont",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 77,
+      "page_cours": 75,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "La norme européenne NF EN 206-1 s’inscrit dans la continuité de la norme BPE XP P 18-305",
+      "contexte": "5.5.3. Le champ d’application La norme européenne NF EN 206-1 s’inscrit dans la continuité de la norme BPE XP P 18-305 de 1996, mais sa portée est beaucoup plus étendue :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "particulier le DTU 21 « Exécution des ouvrages en béton » publié en mars 2004, la",
+      "contexte": "par l’obligation de la mise à jour des documents d’exécution des ouvrages, en particulier le DTU 21 « Exécution des ouvrages en béton » publié en mars 2004, la norme NF EN 206-1 s’impose à l’entreprise de construction et au concepteur",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "norme NF EN 206-1 s’impose à l’entreprise de construction et au concepteur",
+      "contexte": "particulier le DTU 21 « Exécution des ouvrages en béton » publié en mars 2004, la norme NF EN 206-1 s’impose à l’entreprise de construction et au concepteur d’ouvrages en béton ;",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "règles de l’art, des DTU et des normes, la norme NF EN 206-1 devient",
+      "contexte": "en raison de la référence expresse, établie par le Code des Assurances, au respect des règles de l’art, des DTU et des normes, la norme NF EN 206-1 devient incontournable.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "5.5.4. Les avancées de la norme EN 206-1",
+      "contexte": "incontournable. 5.5.4. Les avancées de la norme EN 206-1 Sécurité et fiabilité des bétons produits, grâce à l’augmentation des contrôles qualité et à",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Une meilleure durabilité, car la norme NF EN 206-1 définit 18 classes d’exposition,",
+      "contexte": "marges de tolérance par rapport à la résistance garantie. Une meilleure durabilité, car la norme NF EN 206-1 définit 18 classes d’exposition, regroupées par risque de corrosion ou d’attaques, en fonction des conditions",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "La norme NF EN 206-1 permet, à la commande, d’indiquer clairement les caractéristiques",
+      "contexte": "classe de chlorures. La norme NF EN 206-1 permet, à la commande, d’indiquer clairement les caractéristiques mécaniques, physiques et chimiques des bétons.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "la norme NF EN 206-1. Ils sont utilisés dans tous types de structure en béton armé, non-armé",
+      "contexte": "Les bétons prêts à l’emploi utilisés sur chantiers doivent être conformes aux spécifications de la norme NF EN 206-1. Ils sont utilisés dans tous types de structure en béton armé, non-armé et précontraint.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "aux exigences de la norme NF EN 206-1 et à garantir la qualité pour la classe d’exposition",
+      "contexte": "Les Bétons à Propriétés Spécifiées (BPS) sont formulés de façon à répondre rigoureusement aux exigences de la norme NF EN 206-1 et à garantir la qualité pour la classe d’exposition spécifiée.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 78,
+      "page_cours": 76,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "de la norme XP P 18-305.",
+      "contexte": "Fabriqués par les centrales de béton prêt à l’emploi, les BPS se substituent aux anciens BCN de la norme XP P 18-305.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 79,
+      "page_cours": 77,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "La norme NF EN 206-1 définit plusieurs classes d’exposition suivant le type d’agression que",
+      "contexte": "3. La classe d’exposition La norme NF EN 206-1 définit plusieurs classes d’exposition suivant le type d’agression que le béton peut avoir à subir dans l’ouvrage :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 80,
+      "page_cours": 78,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Les zones de gel sont définies par la carte donnée en figure NA.2 de la norme NF EN 206-1,",
+      "contexte": "XF4 : zone de gel sévère + sels de déverglaçage. Les zones de gel sont définies par la carte donnée en figure NA.2 de la norme NF EN 206-1, complétée par le fascicule AFNOR de documentation FD P 18-326 « Zones de gel en",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 80,
+      "page_cours": 78,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "complétée par le fascicule AFNOR de documentation FD P 18-326 « Zones de gel en",
+      "contexte": "Les zones de gel sont définies par la carte donnée en figure NA.2 de la norme NF EN 206-1, complétée par le fascicule AFNOR de documentation FD P 18-326 « Zones de gel en France » de novembre 2004.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 81,
+      "page_cours": 79,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "EXEMPLE DE DÉSIGNATION D’UN BPS NF EN 206-1",
+      "contexte": "Cette dimension est appelée Dmax. EXEMPLE DE DÉSIGNATION D’UN BPS NF EN 206-1 XF1 (F)(Classe d’exposition)",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 83,
+      "page_cours": 81,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "fréquence est fixée, par exemple par le DTU 21, suivant le type d’ouvrage à réaliser.",
+      "contexte": "L’utilisateur est également tenu d’effectuer, en cours de chantier, des contrôles dont la fréquence est fixée, par exemple par le DTU 21, suivant le type d’ouvrage à réaliser. Selon les termes de la norme NF EN 206-1, un BCP résultant d’une « étude client » ne doit",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 83,
+      "page_cours": 81,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Selon les termes de la norme NF EN 206-1, un BCP résultant d’une « étude client » ne doit",
+      "contexte": "fréquence est fixée, par exemple par le DTU 21, suivant le type d’ouvrage à réaliser. Selon les termes de la norme NF EN 206-1, un BCP résultant d’une « étude client » ne doit être spécifié que par un prescripteur expérimenté, disposant d’une réelle compétence dans la",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 83,
+      "page_cours": 81,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "21 (norme NF P 18-201) de mars 2004.",
+      "contexte": "Pour la France, les spécifications de ces bétons sont définies dans le paragraphe 4.5 du DTU 21 (norme NF P 18-201) de mars 2004. Ils ne peuvent être utilisés que pour :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 83,
+      "page_cours": 81,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "un chantier de catégorie A, tel que défini par le DTU 21 (maison individuelle ou",
+      "contexte": " un chantier de catégorie A, tel que défini par le DTU 21 (maison individuelle ou bâtiments assimilés).",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 84,
+      "page_cours": 82,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "5.5.7. Le DTU 21 (NF P 18-201) et la norme NF EN 206-1",
+      "contexte": "8 MPa pour un dosage en ciment de 250 kg/m3. 5.5.7. Le DTU 21 (NF P 18-201) et la norme NF EN 206-1 Le DTU 21 « Exécution des ouvrages en béton » a été publié en mars 2004, après révision et",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 84,
+      "page_cours": 82,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Le DTU 21 « Exécution des ouvrages en béton » a été publié en mars 2004, après révision et",
+      "contexte": "5.5.7. Le DTU 21 (NF P 18-201) et la norme NF EN 206-1 Le DTU 21 « Exécution des ouvrages en béton » a été publié en mars 2004, après révision et mise en conformité avec la norme NF EN 206-1.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 84,
+      "page_cours": 82,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "mise en conformité avec la norme NF EN 206-1.",
+      "contexte": "Le DTU 21 « Exécution des ouvrages en béton » a été publié en mars 2004, après révision et mise en conformité avec la norme NF EN 206-1. Il remplace ainsi la version précédente de mai 1993. Le DTU 21 définit les conditions",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 84,
+      "page_cours": 82,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Il remplace ainsi la version précédente de mai 1993. Le DTU 21 définit les conditions",
+      "contexte": "mise en conformité avec la norme NF EN 206-1. Il remplace ainsi la version précédente de mai 1993. Le DTU 21 définit les conditions d’exécution des ouvrages en béton ou béton armé, coulés en place ou préfabriqués sur le",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 84,
+      "page_cours": 82,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "inférieure ou égale à 80 MPa (C80/95 de la norme NF EN 206-1).",
+      "contexte": "Il s’applique aux ouvrages utilisant des bétons dont la résistance caractéristique à 28 jours est inférieure ou égale à 80 MPa (C80/95 de la norme NF EN 206-1). Il fixe les contrôles techniques qui incombent à l’entreprise et ne concernent pas directement",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 84,
+      "page_cours": 82,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Il stipule que le matériau béton utilisé doit être conforme à la norme NF EN 206-1 et à son",
+      "contexte": "le producteur de béton. Il stipule que le matériau béton utilisé doit être conforme à la norme NF EN 206-1 et à son annexe nationale, quelle que soit son origine :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "DTU 21 (NF P 18-201) : Exécution des travaux en béton",
+      "contexte": "7.3. Documents de référence DTU 21 (NF P 18-201) : Exécution des travaux en béton DTU 23-1 : Murs en béton banché",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "DTU 23-1 : Murs en béton banché",
+      "contexte": "DTU 21 (NF P 18-201) : Exécution des travaux en béton DTU 23-1 : Murs en béton banché Règles BAEL 91 révisées 99 (DTU P 18-702) :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Règles BAEL 91 révisées 99 (DTU P 18-702) :",
+      "contexte": "DTU 23-1 : Murs en béton banché Règles BAEL 91 révisées 99 (DTU P 18-702) : Règles BPEL 91 révisées 99 (DTU P 18-703):",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Règles BPEL 91 révisées 99 (DTU P 18-703):",
+      "contexte": "Règles BAEL 91 révisées 99 (DTU P 18-702) : Règles BPEL 91 révisées 99 (DTU P 18-703): Règles FB (P 92-701) : Règles de calculs-",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Eurocode 2 EN 1992 :",
+      "contexte": "Règles FB (P 92-701) : Règles de calculs- Eurocode 2 EN 1992 : NF P 18-103 : Adjuvants pour bétons",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-103 : Adjuvants pour bétons",
+      "contexte": "Eurocode 2 EN 1992 : NF P 18-103 : Adjuvants pour bétons NF P 18-306 : Béton - Laitier granulé",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-306 : Béton - Laitier granulé",
+      "contexte": "NF P 18-103 : Adjuvants pour bétons NF P 18-306 : Béton - Laitier granulé NF P 18-307 : Béton - Laitier expansé",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-307 : Béton - Laitier expansé",
+      "contexte": "NF P 18-306 : Béton - Laitier granulé NF P 18-307 : Béton - Laitier expansé NF P 18-308 : Béton - Pouzzolane",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-308 : Béton - Pouzzolane",
+      "contexte": "NF P 18-307 : Béton - Laitier expansé NF P 18-308 : Béton - Pouzzolane NF P 18-501 : Additions pour béton hydraulique – Fillers",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-501 : Additions pour béton hydraulique – Fillers",
+      "contexte": "NF P 18-308 : Béton - Pouzzolane NF P 18-501 : Additions pour béton hydraulique – Fillers NF P 18-502 : Additions pour béton hydraulique - Fumée de silice",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-502 : Additions pour béton hydraulique - Fumée de silice",
+      "contexte": "NF P 18-501 : Additions pour béton hydraulique – Fillers NF P 18-502 : Additions pour béton hydraulique - Fumée de silice P 18-503 : Surface et parements de béton - Eléments d’identification",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-506: Additions pour béton hydraulique - Laitier vitrifié moulu de haut-fourneau",
+      "contexte": "P 18-504 : Béton – Mise en œuvre des bétons de structure NF P 18-506: Additions pour béton hydraulique - Laitier vitrifié moulu de haut-fourneau NF P 18-508, Additions pour béton hydraulique – Additions calcaires – Spécifications et",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-508, Additions pour béton hydraulique – Additions calcaires – Spécifications et",
+      "contexte": "NF P 18-506: Additions pour béton hydraulique - Laitier vitrifié moulu de haut-fourneau NF P 18-508, Additions pour béton hydraulique – Additions calcaires – Spécifications et critères de conformité",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 18-370 : Adjuvants – Produits de cure pour bétons et mortiers",
+      "contexte": "critères de conformité NF P 18-370 : Adjuvants – Produits de cure pour bétons et mortiers NF EN 206-1 : Béton",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 87,
+      "page_cours": 85,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF EN 206-1 : Béton",
+      "contexte": "NF P 18-370 : Adjuvants – Produits de cure pour bétons et mortiers NF EN 206-1 : Béton XP ENV 13670-1 : Exécution des ouvrages en béton",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 90,
+      "page_cours": 88,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF A35-024 (février 1998) : Aciers pour béton - Treillis soudés constitués de fils de diamètre",
+      "contexte": "8.4. Documents de référence NF A35-024 (février 1998) : Aciers pour béton - Treillis soudés constitués de fils de diamètre inférieur à 5 mm (Indice de classement : A35-024).",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 90,
+      "page_cours": 88,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF A35-027 (janvier 2003) : Produits en acier pour béton armé - Armatures (Indice de",
+      "contexte": "inférieur à 5 mm (Indice de classement : A35-024). NF A35-027 (janvier 2003) : Produits en acier pour béton armé - Armatures (Indice de classement : A35-027).",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 93,
+      "page_cours": 91,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF EN 771-3 : blocs en béton de granulats courants et légers, elle vise les blocs",
+      "contexte": " NF EN 771-3 : blocs en béton de granulats courants et légers, elle vise les blocs destinés à être enduits et les blocs destinés à rester apparents.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 93,
+      "page_cours": 91,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF EN 771-4 : blocs en béton cellulaire autoclavé",
+      "contexte": " NF EN 771-4 : blocs en béton cellulaire autoclavé ",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 93,
+      "page_cours": 91,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF EN 771-5 : blocs en pierre reconstituée en béton",
+      "contexte": " NF EN 771-5 : blocs en pierre reconstituée en béton ",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 93,
+      "page_cours": 91,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 12023-2 : système français de classification des blocs en béton de granulats",
+      "contexte": " NF P 12023-2 : système français de classification des blocs en béton de granulats courants et légers",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 93,
+      "page_cours": 91,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 12024-2 : système français de classification des blocs en béton cellulaire",
+      "contexte": " NF P 12024-2 : système français de classification des blocs en béton cellulaire autoclavé",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 93,
+      "page_cours": 91,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "précisent pour toutes les caractéristiques des normes européennes (NF EN), les valeurs et",
+      "contexte": "Les systèmes français de classification destinés aux prescripteurs utilisateurs et fabricants précisent pour toutes les caractéristiques des normes européennes (NF EN), les valeurs et classes de performances nécessaires pour réaliser des ouvrages de maçonnerie conformes à la",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 93,
+      "page_cours": 91,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "norme française P 10-202, référencée DTU 20.1, « ouvrages en maçonnerie de petits éléments",
+      "contexte": "classes de performances nécessaires pour réaliser des ouvrages de maçonnerie conformes à la norme française P 10-202, référencée DTU 20.1, « ouvrages en maçonnerie de petits éléments – parois et murs ».",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 95,
+      "page_cours": 93,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "202 DTU 20-1.",
+      "contexte": "performances des produits et leur aptitude à réaliser des ouvrages conformes à la Norme P 10- 202 DTU 20-1. Marquage",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 95,
+      "page_cours": 93,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "norme EN 1996 – référence Eurocode 6.",
+      "contexte": "Les blocs NF répondent pour la classe de résistance qui leur est attribuée à la catégorie Ι de la norme EN 1996 – référence Eurocode 6.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 96,
+      "page_cours": 94,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "La stabilité mécanique qui est la première exigence du code de la construction et",
+      "contexte": " La stabilité mécanique qui est la première exigence du code de la construction et dont les règles de conception, de calcul et d'exécution sont définies dans :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 96,
+      "page_cours": 94,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "la norme XP P 10-202-2 - référence DTU 20-1 : parois et maçonnerie en petits",
+      "contexte": "o la norme XP P 10-202-2 - référence DTU 20-1 : parois et maçonnerie en petits éléments ;",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 96,
+      "page_cours": 94,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "la norme EN 1996 - référence Eurocode 6 : calculs des ouvrages en",
+      "contexte": "o la norme EN 1996 - référence Eurocode 6 : calculs des ouvrages en maçonnerie.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 96,
+      "page_cours": 94,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "la norme XPP 10 202 -1 et 3 - référence DTU 20-1.",
+      "contexte": "o la norme XPP 10 202 -1 et 3 - référence DTU 20-1. ",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 96,
+      "page_cours": 94,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "L'isolation thermique dont les exigences sont formulées dans l’arrêté du 29",
+      "contexte": " L'isolation thermique dont les exigences sont formulées dans l’arrêté du 29 novembre 2000, pour lesquelles existent des règles de calcul règles Th-C-U-S et I et",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 96,
+      "page_cours": 94,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "un logement (ou un local) dans les arrêtés du 30 juin 1999 et qui peut être respectée en",
+      "contexte": "L'isolation acoustique dont l'exigence est exprimée en termes de résultat global pour un logement (ou un local) dans les arrêtés du 30 juin 1999 et qui peut être respectée en appliquant les « Exemples de Solutions Acoustiques » : ESA.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 96,
+      "page_cours": 94,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "incombustibles) et la résistance au feu (arrêté du 03 août 1999) qui caractérise le",
+      "contexte": "laquelle les blocs en béton sont classés dans la catégorie MO (matériaux incombustibles) et la résistance au feu (arrêté du 03 août 1999) qui caractérise le temps pendant lequel le mur assure les fonctions suivantes : stabilité au feu, pare-",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 97,
+      "page_cours": 95,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "collage avec un mortier colle spécial. Ils relèvent de la Norme NF P 14.306 : blocs en",
+      "contexte": "Les blocs parfaitement calibrés, en général de densité proche de 0,5, à maçonner par collage avec un mortier colle spécial. Ils relèvent de la Norme NF P 14.306 : blocs en béton cellulaire autoclavé pour mur, et font l’objet d’Avis Techniques qui mentionnent",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 99,
+      "page_cours": 97,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Blocs en béton cellulaire autoclavé MVn 400, Rcn 3,5 de 25 x 20 x 60, NF P 14-306, Marque",
+      "contexte": "Exemple : Blocs en béton cellulaire autoclavé MVn 400, Rcn 3,5 de 25 x 20 x 60, NF P 14-306, Marque NF.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 100,
+      "page_cours": 98,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 14-306 : Agglomérés – Blocs en béton cellulaire autoclavé pour murs et cloisons",
+      "contexte": "10.5. Documents de référence NF P 14-306 : Agglomérés – Blocs en béton cellulaire autoclavé pour murs et cloisons",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 103,
+      "page_cours": 101,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "brique C : 16 trous 15 x 20 x 40 NF P 13-301",
+      "contexte": "Exemples : brique C : 16 trous 15 x 20 x 40 NF P 13-301 ",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 103,
+      "page_cours": 101,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "brique RJ à 5 rangées verticales d’alvéoles 22,5 x 20 x 40 NF P 13-301",
+      "contexte": " brique RJ à 5 rangées verticales d’alvéoles 22,5 x 20 x 40 NF P 13-301",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 13.301 : Céramique - Briques creuses de terre cuite",
+      "contexte": "11.7. Documents de référence NF P 13.301 : Céramique - Briques creuses de terre cuite NF P 13-302 : Entrevous en terre cuite pour planchers à poutrelles préfabriquées",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 13-302 : Entrevous en terre cuite pour planchers à poutrelles préfabriquées",
+      "contexte": "NF P 13.301 : Céramique - Briques creuses de terre cuite NF P 13-302 : Entrevous en terre cuite pour planchers à poutrelles préfabriquées NF P 13.304 : Briques en terre cuite destinées à rester apparentes",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 13.304 : Briques en terre cuite destinées à rester apparentes",
+      "contexte": "NF P 13-302 : Entrevous en terre cuite pour planchers à poutrelles préfabriquées NF P 13.304 : Briques en terre cuite destinées à rester apparentes NF P 13.306 : Blocs perforées en terre cuite destinés à rester apparents",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 13.306 : Blocs perforées en terre cuite destinés à rester apparents",
+      "contexte": "NF P 13.304 : Briques en terre cuite destinées à rester apparentes NF P 13.306 : Blocs perforées en terre cuite destinés à rester apparents NF P 51.301 : Briques de terre cuite pour conduits de fumée.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 51.301 : Briques de terre cuite pour conduits de fumée.",
+      "contexte": "NF P 13.306 : Blocs perforées en terre cuite destinés à rester apparents NF P 51.301 : Briques de terre cuite pour conduits de fumée. NF P 51.302 : Briques réfractaires pour conduits de fumée.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "NF P 51.302 : Briques réfractaires pour conduits de fumée.",
+      "contexte": "NF P 51.301 : Briques de terre cuite pour conduits de fumée. NF P 51.302 : Briques réfractaires pour conduits de fumée. Norme P10-202 : DTU 20.1: Parois et murs en maçonnerie de petits éléments.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Norme P10-202 : DTU 20.1: Parois et murs en maçonnerie de petits éléments.",
+      "contexte": "NF P 51.302 : Briques réfractaires pour conduits de fumée. Norme P10-202 : DTU 20.1: Parois et murs en maçonnerie de petits éléments. Norme P 51-201 : DTU 24.1 : Travaux de fumisterie",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 106,
+      "page_cours": 104,
+      "perimetre": "generalites_et_materiaux",
+      "ligne_source": "Norme P 51-201 : DTU 24.1 : Travaux de fumisterie",
+      "contexte": "Norme P10-202 : DTU 20.1: Parois et murs en maçonnerie de petits éléments. Norme P 51-201 : DTU 24.1 : Travaux de fumisterie Nous vous invitons à effectuer l’autotest n°2 à la page 43",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 107,
+      "page_cours": 105,
+      "perimetre": "lot01",
+      "ligne_source": "1.3. Classification des sols selon la DTU 12, article 0.3",
+      "contexte": "107 1.3. Classification des sols selon la DTU 12, article 0.3 109",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 107,
+      "page_cours": 105,
+      "perimetre": "lot01",
+      "ligne_source": "3.1.3. Définition des fouilles : DTU 12",
+      "contexte": "116 3.1.3. Définition des fouilles : DTU 12 117",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 109,
+      "page_cours": 107,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 11.1 : Sondage des sols de fondation (document retiré).Ce document a été",
+      "contexte": "• DTU 11.1 : Sondage des sols de fondation (document retiré).Ce document a été retiré de la liste officielle des DTU et Normes-DTU, par décision du 17 mai 2000",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 109,
+      "page_cours": 107,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 : Terrassement pour le bâtiment (document retiré). Ce document a été",
+      "contexte": "• DTU 12 : Terrassement pour le bâtiment (document retiré). Ce document a été retiré de la liste officielle des DTU et Normes-DTU, par décision du 17 mai 2000",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 109,
+      "page_cours": 107,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 13.1 : Fondations superficielles et Règles de calcul.",
+      "contexte": "• DTU 13.1 : Fondations superficielles et Règles de calcul. •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 109,
+      "page_cours": 107,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 13.2 : Fondations profondes.",
+      "contexte": "• DTU 13.2 : Fondations profondes. •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 109,
+      "page_cours": 107,
+      "perimetre": "lot01",
+      "ligne_source": "Norme NF P 98-331 : Chaussée et dépendance. Tranchées : ouverture,",
+      "contexte": "• Norme NF P 98-331 : Chaussée et dépendance. Tranchées : ouverture, remblayage, réfection.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 109,
+      "page_cours": 107,
+      "perimetre": "lot01",
+      "ligne_source": "Fascicule n°2 : Terrassements généraux : arrêté du 3 janvier 2003. Marchés",
+      "contexte": "• Fascicule n°2 : Terrassements généraux : arrêté du 3 janvier 2003. Marchés publics de travaux. Cahier des clauses Techniques Générales.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 110,
+      "page_cours": 108,
+      "perimetre": "lot01",
+      "ligne_source": "décret N-65-48 du 8 janvier 1965, titre 4,",
+      "contexte": "• décret N-65-48 du 8 janvier 1965, titre 4, -art 64 : « Avant tous travaux de terrassement à ciel ouvert, s’assurer auprès des",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 110,
+      "page_cours": 108,
+      "perimetre": "lot01",
+      "ligne_source": "l’article 178 de décret du 8 janvier 1965 oblige la signalisation de ceux-ci et la",
+      "contexte": "vielles fondations, terres rapportées, etc. Dans le cas de présence de canalisations, l’article 178 de décret du 8 janvier 1965 oblige la signalisation de ceux-ci et la présence d’un surveillant afin que la pelle mécanique ne s’approche pas à moins de",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 111,
+      "page_cours": 109,
+      "perimetre": "lot01",
+      "ligne_source": "1.3. Classification des sols selon la DTU 12, article 0.3",
+      "contexte": "109 1.3. Classification des sols selon la DTU 12, article 0.3 Les terrains sont classés selon les difficultés d’extraction, dans l’ordre suivant :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 119,
+      "page_cours": 117,
+      "perimetre": "lot01",
+      "ligne_source": "3.1.3. Définition des fouilles : DTU 12",
+      "contexte": "REMBLAI 3.1.3. Définition des fouilles : DTU 12 Rigole :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 129,
+      "page_cours": 127,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 : article 1.0 Travaux préliminaires.",
+      "contexte": "3.4.1. Préparation du terrain avant travaux DTU 12 : article 1.0 Travaux préliminaires. •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 130,
+      "page_cours": 128,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 : article 2. Étaiement et blindage.",
+      "contexte": "COUPE BB EN LIMITE DE PROPRIÉTÉ DTU 12 : article 2. Étaiement et blindage. L’étaiement du blindage des fouilles et, s’il y a lieu, ceux des constructions existantes, sont",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 133,
+      "page_cours": 131,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 : article 3, Eaux dans les fouilles",
+      "contexte": "Solutions pour terrassements en présence d’eau dans le sol : DTU 12 : article 3, Eaux dans les fouilles Les eaux de ruissellement extérieures peuvent être recueillies dans des rigoles et évacuées à",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 134,
+      "page_cours": 132,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 : article 1,31, Tranchées pour canalisations",
+      "contexte": "température -15 à -20 °C. DTU 12 : article 1,31, Tranchées pour canalisations Les tranchées de grande longueur ne sont pas ouvertes dans leur totalité mais par tronçons",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 135,
+      "page_cours": 133,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 : chapitre 5, Remblaiements",
+      "contexte": "le remblai doit permettre la mise en place de terre végétale en finition pour plantation. DTU 12 : chapitre 5, Remblaiements Le sol de l’emprise du remblaiement doit être propre pour une bonne liaison entre les terres.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 139,
+      "page_cours": 137,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 juin 1964",
+      "contexte": "137 DTU 12 juin 1964 DTU P 11-201 : Renseignements préliminaires sur le terrain",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 140,
+      "page_cours": 138,
+      "perimetre": "lot01",
+      "ligne_source": "NF P 98-331 Techniques et contraintes liées aux terrassements.",
+      "contexte": "x NF P 98-331 Techniques et contraintes liées aux terrassements. x",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 140,
+      "page_cours": 138,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 11.1 : Travaux de sondage des sols de fondations.",
+      "contexte": "x DTU 11.1 : Travaux de sondage des sols de fondations. x",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 140,
+      "page_cours": 138,
+      "perimetre": "lot01",
+      "ligne_source": "DTU 12 : Travaux de terrassements.",
+      "contexte": "x DTU 12 : Travaux de terrassements. 01.01.02",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 141,
+      "page_cours": 139,
+      "perimetre": "lot01",
+      "ligne_source": "du DTU 12.",
+      "contexte": "Tous les travaux d’implantation seront exécutés conformément au C.C.S. du DTU 12. ",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 147,
+      "page_cours": 145,
+      "perimetre": "lot02",
+      "ligne_source": "• DTU P 11-211 DTU 13.11 : Fondations superficielles",
+      "contexte": "1.2. Documents de références • DTU P 11-211 DTU 13.11 : Fondations superficielles • DTU P 11-711 DTU 13.12   Règles de calcul pour des fondations superficielles.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 147,
+      "page_cours": 145,
+      "perimetre": "lot02",
+      "ligne_source": "• DTU P 11-711 DTU 13.12   Règles de calcul pour des fondations superficielles.",
+      "contexte": "• DTU P 11-211 DTU 13.11 : Fondations superficielles • DTU P 11-711 DTU 13.12   Règles de calcul pour des fondations superficielles. • NF P 11-212 DTU 13.2 :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 147,
+      "page_cours": 145,
+      "perimetre": "lot02",
+      "ligne_source": "• NF P 11-212 DTU 13.2 :",
+      "contexte": "• DTU P 11-711 DTU 13.12   Règles de calcul pour des fondations superficielles. • NF P 11-212 DTU 13.2 : Travaux de fondations profondes pour le bâtiment.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 147,
+      "page_cours": 145,
+      "perimetre": "lot02",
+      "ligne_source": "• Norme NF P 98-331 :",
+      "contexte": "Travaux de fondations profondes pour le bâtiment. • Norme NF P 98-331 : Techniques et contraintes liées aux terrassements.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 147,
+      "page_cours": 145,
+      "perimetre": "lot02",
+      "ligne_source": "DTU 13.11   chap  1    Domaine d’application :",
+      "contexte": "Techniques et contraintes liées aux terrassements. DTU 13.11   chap  1    Domaine d’application : Le présent DTU (cahier de clauses techniques) est applicable aux travaux de fondations",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 147,
+      "page_cours": 145,
+      "perimetre": "lot02",
+      "ligne_source": "profondes qui relèvent du DTU 13.2.",
+      "contexte": "Lorsque le rapport de la largeur à la hauteur est supérieur à 3 m, il s’agit de fondations profondes qui relèvent du DTU 13.2. LA FONDATION EST CONSIDÉRÉE SUPERFICIELLE OU PROFONDE SUIVANT LA VALEUR DE D",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 150,
+      "page_cours": 148,
+      "perimetre": "lot02",
+      "ligne_source": "béton armé en vigueur. (Règles BAEL). Les actions des ouvrages de fondation sont dues aux",
+      "contexte": "Les actions et sollicitations des ouvrages de fondation sont évaluées en fonction des règles de béton armé en vigueur. (Règles BAEL). Les actions des ouvrages de fondation sont dues aux charges permanentes (poids propre du bâtiment) et aux charges d’exploitation (charges dues à",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 154,
+      "page_cours": 152,
+      "perimetre": "lot02",
+      "ligne_source": "DTU 13.11   chapitre  2    Fouilles pour ouvrages de fondations superficielles :",
+      "contexte": "2.4. Conditions d’exécution des semelles DTU 13.11   chapitre  2    Fouilles pour ouvrages de fondations superficielles : •",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 155,
+      "page_cours": 153,
+      "perimetre": "lot02",
+      "ligne_source": "DTU 13.11 chapitre  3    Ouvrages de fondations",
+      "contexte": "assainissement du fond de fouille. DTU 13.11 chapitre  3    Ouvrages de fondations Béton de propreté : dans le cas d’un risque de souillure du béton en cours de coulage, un",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 155,
+      "page_cours": 153,
+      "perimetre": "lot02",
+      "ligne_source": "NF.P 15 301, et la norme NF EN 206-1 pour les bétons de structure.",
+      "contexte": "Dosages minimaux des bétons en fondation : ciments courant 32,5 et 32,5R de la norme NF.P 15 301, et la norme NF EN 206-1 pour les bétons de structure. 1 / béton de propreté et gros béton   → 150 kg de ciment /m3 de béton",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 158,
+      "page_cours": 156,
+      "perimetre": "lot02",
+      "ligne_source": "Chapitre basé sur DTU 13.2 (P11-212) : Travaux de fondations profondes pour le bâtiment",
+      "contexte": "3.1. Définition Chapitre basé sur DTU 13.2 (P11-212) : Travaux de fondations profondes pour le bâtiment Les fondations profondes trouvent leur utilité dans tous les cas où l’on veut construire un",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF P03-001 Décembre 2000 Marchés privés - Cahiers types - Cahier des",
+      "contexte": "suivantes : NF P03-001 Décembre 2000 Marchés privés - Cahiers types - Cahier des clauses administratives générales applicable aux travaux de bâtiment",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 206-1, et son annexe nationale française : Béton — Partie 1 :",
+      "contexte": "faisant l'objet de marchés privés NF EN 206-1, et son annexe nationale française : Béton — Partie 1 : Spécification, performances, production et conformité.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12350-1, Essai pour béton frais - Partie 1 : Prélèvement.",
+      "contexte": "Spécification, performances, production et conformité. NF EN 12350-1, Essai pour béton frais - Partie 1 : Prélèvement. NF EN 12350-2, Essai pour béton frais - Partie 2 : Essai d'affaissement.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12350-2, Essai pour béton frais - Partie 2 : Essai d'affaissement.",
+      "contexte": "NF EN 12350-1, Essai pour béton frais - Partie 1 : Prélèvement. NF EN 12350-2, Essai pour béton frais - Partie 2 : Essai d'affaissement. NF EN 12350-6, Essai pour béton frais - Partie 6 : Masse volumique.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12350-6, Essai pour béton frais - Partie 6 : Masse volumique.",
+      "contexte": "NF EN 12350-2, Essai pour béton frais - Partie 2 : Essai d'affaissement. NF EN 12350-6, Essai pour béton frais - Partie 6 : Masse volumique. NF EN 12350-7, Essai pour béton frais - Partie 7 : Teneur en air –",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12350-7, Essai pour béton frais - Partie 7 : Teneur en air –",
+      "contexte": "NF EN 12350-6, Essai pour béton frais - Partie 6 : Masse volumique. NF EN 12350-7, Essai pour béton frais - Partie 7 : Teneur en air – Méthode de la compressibilité.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12390-1, Essai pour béton durci - Partie 1 : Forme, dimensions et",
+      "contexte": "Méthode de la compressibilité. NF EN 12390-1, Essai pour béton durci - Partie 1 : Forme, dimensions et autres exigences relatives aux éprouvettes et aux moules.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12390-2, Essai pour béton durci - Partie 2 : Confection et",
+      "contexte": "autres exigences relatives aux éprouvettes et aux moules. NF EN 12390-2, Essai pour béton durci - Partie 2 : Confection et conservation des éprouvettes pour essais de résistance.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12390-3:1999, Essai pour béton durci – Partie 3 : Résistance en",
+      "contexte": "conservation des éprouvettes pour essais de résistance. NF EN 12390-3:1999, Essai pour béton durci – Partie 3 : Résistance en compression des éprouvettes.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12390-6, Essai pour béton durci - Partie 6 : Résistance en traction",
+      "contexte": "compression des éprouvettes. NF EN 12390-6, Essai pour béton durci - Partie 6 : Résistance en traction par fendage d’éprouvettes.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12390-7, Essai pour béton durci - Partie 7 : Masse volumique du",
+      "contexte": "par fendage d’éprouvettes. NF EN 12390-7, Essai pour béton durci - Partie 7 : Masse volumique du béton.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "DIN 4030-2, Évaluation des liquides, sols et gaz nocifs pour le béton -",
+      "contexte": "béton. DIN 4030-2, Évaluation des liquides, sols et gaz nocifs pour le béton - Partie 2 : Prélèvement et analyse des échantillons d’eau et de sol.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "ISO 4316, Agents de surface actifs - Détermination du pH des solutions",
+      "contexte": "Partie 2 : Prélèvement et analyse des échantillons d’eau et de sol. ISO 4316, Agents de surface actifs - Détermination du pH des solutions aqueuses - Méthode potentiométrique.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "FD P18-011, Bétons - Classification des environnements agressifs",
+      "contexte": "aqueuses - Méthode potentiométrique. FD P18-011, Bétons - Classification des environnements agressifs NF EN 197-1, Ciments – Partie 1 : Composition, spécifications et critères",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 197-1, Ciments – Partie 1 : Composition, spécifications et critères",
+      "contexte": "FD P18-011, Bétons - Classification des environnements agressifs NF EN 197-1, Ciments – Partie 1 : Composition, spécifications et critères de conformité de ciments courants.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12620, Granulats pour béton",
+      "contexte": "de conformité de ciments courants. NF EN 12620, Granulats pour béton NF EN 934-2, Adjuvants pour béton, mortiers et coulis - Partie 2 :",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 934-2, Adjuvants pour béton, mortiers et coulis - Partie 2 :",
+      "contexte": "NF EN 12620, Granulats pour béton NF EN 934-2, Adjuvants pour béton, mortiers et coulis - Partie 2 : Adjuvants pour béton – Définitions et exigences.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 1008, Eau de gâchage pour bétons - Spécifications",
+      "contexte": "Adjuvants pour béton – Définitions et exigences. NF EN 1008, Eau de gâchage pour bétons - Spécifications d’échantillonnage, d’essais et d’évaluation de l’aptitude à l’emploi, y",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF P18-201, DTU 21 — Travaux de bâtiment. Exécution des ouvrages en",
+      "contexte": "gâchage pour béton. NF P18-201, DTU 21 — Travaux de bâtiment. Exécution des ouvrages en béton. Cahier des clauses techniques",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF P18-210",
+      "contexte": "béton. Cahier des clauses techniques NF P18-210 Travaux de bâtiment - Murs en béton banché - Cahier",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "des clauses techniques (DTU 23.1).",
+      "contexte": "Travaux de bâtiment - Murs en béton banché - Cahier des clauses techniques (DTU 23.1). FD P18-503, Surfaces et parements de béton — Éléments d'identification.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "FD P18-503, Surfaces et parements de béton — Éléments d'identification.",
+      "contexte": "des clauses techniques (DTU 23.1). FD P18-503, Surfaces et parements de béton — Éléments d'identification. NF EN 12504-2, Essais pour béton dans les structures — Partie 2 : essais",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "NF EN 12504-2, Essais pour béton dans les structures — Partie 2 : essais",
+      "contexte": "FD P18-503, Surfaces et parements de béton — Éléments d'identification. NF EN 12504-2, Essais pour béton dans les structures — Partie 2 : essais non-destructifs — Détermination de l'indice de rebondissement (Indice de",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 170,
+      "page_cours": 168,
+      "perimetre": "lot02",
+      "ligne_source": "prNF EN 13791, Évaluation de la résistance à la compression du béton",
+      "contexte": "classement : P 18-445). prNF EN 13791, Évaluation de la résistance à la compression du béton dans les structures ou les éléments structuraux (Indice de classement : P",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "conformément à la norme NF EN 206-1. Ils doivent être produits",
+      "contexte": "construction de l'ouvrage précité. Ces bétons sont prescrits conformément à la norme NF EN 206-1. Ils doivent être produits conformément à cette même norme et mis en œuvre conformément à",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "la norme NF P 18-201 (DTU 21).",
+      "contexte": "conformément à cette même norme et mis en œuvre conformément à la norme NF P 18-201 (DTU 21). Les bétons à utiliser sont les suivants (n’indiquer dans le CCTP que les",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Désignation : BPS NF EN 206-1  C16/20  X0  S3  cl 1,0 Dmax",
+      "contexte": "Béton non armé pour fondations superficielles coulées à sec Désignation : BPS NF EN 206-1  C16/20  X0  S3  cl 1,0 Dmax Classe de résistance : C16/20",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Exigences complémentaires : Dosage minimum en liant équivalent 200 kg (DTU 13.11)",
+      "contexte": "Classe de consistance : S3 Exigences complémentaires : Dosage minimum en liant équivalent 200 kg (DTU 13.11) Béton non armé pour fondations superficielles coulées dans l'eau",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Désignation : BPS NF EN 206-1  C16/20  X0  S3  cl 1,0 Dmax",
+      "contexte": "Béton non armé pour fondations superficielles coulées dans l'eau Désignation : BPS NF EN 206-1  C16/20  X0  S3  cl 1,0 Dmax Classe de résistance : C16/20",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Exigences complémentaires : Dosage minimum en liant équivalent 300 kg (DTU 13.11)",
+      "contexte": "Classe de consistance : S3 Exigences complémentaires : Dosage minimum en liant équivalent 300 kg (DTU 13.11) Béton pour fondations superficielles avec uniquement armatures de",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Désignation :  BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax",
+      "contexte": "chaînage coulées à sec Désignation :  BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax Classe de résistance : C20/25",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Désignation : BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax",
+      "contexte": "chaînage coulées dans l'eau Désignation : BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax Classe de résistance : C20/25",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Exigences complémentaires : Dosage minimum en liant équivalent 350 kg  (DTU 13.11).",
+      "contexte": "Classe de consistance : S3 Exigences complémentaires : Dosage minimum en liant équivalent 350 kg  (DTU 13.11). Il ne doit comporter aucune armature de structure.",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Désignation : BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax",
+      "contexte": "Béton armé pour fondations superficielles coulées à sec Désignation : BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax Classe de résistance : C20/25",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Exigences complémentaires : Dosage minimum en liant équivalent 300 kg (DTU 13.11)",
+      "contexte": "Classe de consistance : S3 Exigences complémentaires : Dosage minimum en liant équivalent 300 kg (DTU 13.11) Béton armé pour fondations superficielles coulées dans l'eau",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Désignation : BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax",
+      "contexte": "Béton armé pour fondations superficielles coulées dans l'eau Désignation : BPS NF EN 206-1  C20/25  XC1  S3  cl 0,40 Dmax Classe de résistance : C20/25",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    },
+    {
+      "livre": "L1",
+      "page_pdf": 171,
+      "page_cours": 169,
+      "perimetre": "lot02",
+      "ligne_source": "Exigences complémentaires : Dosage minimum en liant équivalent 400 kg (DTU 13.11)",
+      "contexte": "Classe de consistance : S3 Exigences complémentaires : Dosage minimum en liant équivalent 400 kg (DTU 13.11)",
+      "statut": "candidat_repere_a_rapprocher_au_registre"
+    }
+  ]
+}

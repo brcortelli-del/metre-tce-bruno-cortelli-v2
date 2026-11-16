@@ -1,0 +1,4 @@
+web-ifc 0.0.79 — That Open Company / contributors — MPL-2.0
+Sources non modifiées : https://github.com/ThatOpen/engine_web-ifc/tree/v0.0.79
+Licence : web-ifc-LICENSE.md
+Les autres avis de licence figurent dans les fichiers .LEGAL.txt du dossier.

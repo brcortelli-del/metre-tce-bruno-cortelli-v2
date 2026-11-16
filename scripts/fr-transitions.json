@@ -1,0 +1,252 @@
+[
+  {
+    "id": "FR-TRANSITION-BAEL-EC2",
+    "ancienne_reference": "Règles BAEL 91, DTU P18-702 ; mention BAEL 91 modifiées 99 à identifier dans chaque extrait du cours",
+    "statut": "BASE BAEL 91 ANNULÉE ; TRANSITION EUROCODE 2 À SÉCURISER PAR ÉDITION. Vérification publique au 2026-11-13, sans lecture intégrale des textes payants.",
+    "nouvelles_references": [
+      {
+        "code": "NF EN 1992-1-1 et annexe nationale française, génération cohérente à préciser",
+        "titre": "Eurocode 2 — Calcul des structures en béton",
+        "role_cctp": "Référentiel de calcul structural à désigner avec son édition et son annexe nationale ; ne fournit pas un ratio universel d'armatures pour le métré.",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784"
+      },
+      {
+        "code": "NF EN 1992-1-1/NA, août 2026 — compatibilité avec le texte européen à confirmer",
+        "titre": "Annexe nationale française à l'Eurocode 2, partie 1-1",
+        "role_cctp": "Fixe les choix nationaux ; une nouvelle annexe ne doit pas être associée automatiquement à une ancienne génération du texte européen.",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211-na/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa300691/604320"
+      }
+    ],
+    "conditions_application": "La fiche AFNOR du BAEL 91 de mars 1992 est annulée et renvoie à l'Eurocode 2. La fiche NF EN 1992-1-1 d'octobre 2005 conserve un en-tête « en vigueur » tout en annonçant une annulation en octobre 2026 ; cette contradiction empêche de certifier cette édition au 13 novembre 2026. La nouvelle annexe nationale publiée en août 2026 doit être raccordée à la bonne génération par le bureau d'études. L'édition contractuelle d'un ancien marché et la justification d'un ouvrage existant demandent une analyse distincte. Les amendements BAEL cités dans le cours restent à identifier individuellement.",
+    "impact_metre": "Conserver le calcul géométrique des volumes ; reprendre les sections, les plans de ferraillage et les nomenclatures issus de l'étude structurale retenue. Ne pas convertir une formule BAEL en formule Eurocode par simple changement de titre. Aucun seuil de réservation ni ratio kg/m³ n'est établi par cet audit.",
+    "impact_mise_en_oeuvre": "Adapter les prescriptions aux plans et à l'étude validés. L'Eurocode de calcul ne remplace pas à lui seul les textes d'exécution et de spécification du béton.",
+    "alerte": "BAEL : référence historique annulée. Faire valider la génération de l'Eurocode 2 et son annexe nationale avant d'appliquer un calcul structural.",
+    "sources": [
+      {
+        "titre": "AFNOR — DTU P18-702, Règles BAEL 91, mars 1992",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p18702/regles-bael-91-regles-techniques-de-conception-et-de-calcul-des-ouvrages-et/fa026070/47746",
+        "repere": "Fiche catalogue : statut annulé et documents de remplacement ; ne démontre pas les règles de métré ni le statut de chaque amendement."
+      },
+      {
+        "titre": "AFNOR — NF EN 1992-1-1, octobre 2005",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784",
+        "repere": "En-tête en vigueur ; champ date d'annulation ultérieure : octobre 2026. Métadonnées contradictoires à la date de l'audit."
+      },
+      {
+        "titre": "AFNOR Norm'Info — Annexe nationale Eurocode 2 publiée le 19 août 2026",
+        "url": "https://norminfo.afnor.org/norme/pr-nf-en-1992-1-1na/eurocode-2-calcul-des-structures-en-beton-partie-1-1-regles-generales-et-regles-pour-les-batiments-annexe-nationale-a/214424",
+        "repere": "Publication indiquée le 2026-08-19 ; cohérence de génération à contrôler dans les textes acquis."
+      }
+    ]
+  },
+  {
+    "id": "FR-TRANSITION-BPEL-EC2",
+    "ancienne_reference": "Règles BPEL 91, DTU P18-703 ; éventuels modificatifs cités dans le cours à identifier séparément",
+    "statut": "BASE BPEL 91 ANNULÉE ; ÉDITION EUROCODE 2 À CONFIRMER AU 2026-11-13",
+    "nouvelles_references": [
+      {
+        "code": "NF EN 1992-1-1 et annexe nationale française, génération cohérente à préciser",
+        "titre": "Eurocode 2 — Calcul des structures en béton",
+        "role_cctp": "Calcul du béton précontraint dans son domaine d'application ; sélectionner aussi les parties adaptées à la nature de l'ouvrage.",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784"
+      }
+    ],
+    "conditions_application": "La fiche BPEL d'avril 1992 est annulée et indique des références Eurocode 2 en remplacement. Il ne s'agit pas d'une substitution automatique des hypothèses, pertes de précontrainte et vérifications. La transition de génération de l'Eurocode 2 observée en 2026 exige de fixer le couple texte européen/annexe nationale dans le marché et l'étude. Préserver les références d'origine pour un diagnostic historique, sans les présenter comme référentiel courant d'un projet neuf.",
+    "impact_metre": "Les quantités de béton, câbles, ancrages et accessoires proviennent des plans et nomenclatures du système étudié. Aucun coefficient de précontrainte ou ratio d'acier ne peut être ajouté par cette table de correspondance.",
+    "impact_mise_en_oeuvre": "Faire établir les prescriptions de précontrainte et d'exécution à partir du système retenu et de l'étude ; ne pas reprendre des dispositions BPEL en les attribuant à l'Eurocode.",
+    "alerte": "BPEL annulé : calcul de précontrainte et génération Eurocode 2 à valider par le bureau d'études.",
+    "sources": [
+      {
+        "titre": "AFNOR — DTU P18-703, Règles BPEL 91, avril 1992",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p18703/regles-bpel-91-regles-techniques-de-conception-et-de-calcul-des-ouvrages-et/fa026069/47748",
+        "repere": "Statut annulé ; liste de remplacement Eurocode 2."
+      },
+      {
+        "titre": "AFNOR — NF EN 1992-1-1, octobre 2005",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199211/eurocode-2-calcul-des-structures-en-beton-partie-11-regles-generales-et-reg/fa039724/25784",
+        "repere": "En-tête et date d'annulation octobre 2026 contradictoires ; ne pas certifier cette ancienne édition comme actuelle."
+      }
+    ]
+  },
+  {
+    "id": "FR-TRANSITION-NV65-EC1",
+    "ancienne_reference": "Règles NV 65, DTU P06-002, notamment édition février 2009",
+    "statut": "ÉDITION FÉVRIER 2009 ANNULÉE EN SEPTEMBRE 2026 ; GÉNÉRATION EUROCODE 1 À PRÉCISER",
+    "nouvelles_references": [
+      {
+        "code": "NF EN 1991-1-4 et annexe nationale française, édition applicable à confirmer",
+        "titre": "Eurocode 1 — Actions sur les structures — Actions du vent",
+        "role_cctp": "Détermination des actions du vent avec les paramètres nationaux et locaux retenus par l'étude.",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1991-1-4/eurocode-1-actions-sur-les-structures-partie-1-4-actions-generales-actions-du-vent/fa104153/25897"
+      },
+      {
+        "code": "NF EN 1991-1-3 et annexe nationale française, édition applicable à confirmer",
+        "titre": "Eurocode 1 — Actions sur les structures — Charges de neige",
+        "role_cctp": "Détermination des charges de neige en fonction du site et des formes de toiture ; ne pas réutiliser une zone ou un coefficient NV 65 sans contrôle.",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199113/eurocode-1-actions-sur-les-structures-partie-13-actions-generales-charges-d/fa102764/22841"
+      }
+    ],
+    "conditions_application": "Le statut annulé de NV 65 est confirmé sur la fiche AFNOR directe de février 2009, malgré des extraits anciens encore indexés. Les fiches Eurocode 1 vent de novembre 2005 et neige d'avril 2004 affichent à la fois en vigueur et une annulation en octobre 2026 : vérifier la génération applicable et les annexes nationales avant insertion. Un projet d'amendement en enquête n'est pas une norme publiée. Des textes spéciaux peuvent maintenir une référence historique selon la date de mise en service, notamment pour certaines structures itinérantes : ne pas effacer ces références sans analyse de leur domaine juridique.",
+    "impact_metre": "Les formules géométriques de surfaces et volumes ne changent pas par le seul changement de norme climatique. Les sections, fixations, contreventements et quantités peuvent évoluer après recalcul du bureau d'études. Aucun pourcentage forfaitaire de majoration ne doit être appliqué.",
+    "impact_mise_en_oeuvre": "Renseigner le lieu, l'altitude, l'exposition et les paramètres de l'étude. Reprendre les fixations et dispositions prescrites par les calculs cohérents avec le référentiel choisi.",
+    "alerte": "NV 65 annulé en 2026 : vérifier le référentiel vent/neige, sa génération et le domaine juridique du projet avant recalcul.",
+    "sources": [
+      {
+        "titre": "AFNOR — DTU P06-002, Règles NV 65, février 2009",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-p06002/regles-nv-65-regles-definissant-les-effets-de-la-neige-et-du-vent-sur-les-c/fa133509/60248",
+        "repere": "Statut annulé ; date d'annulation septembre 2026 ; remplacement catalogue par la partie vent de l'Eurocode 1."
+      },
+      {
+        "titre": "AFNOR — NF EN 1991-1-4, novembre 2005",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-1991-1-4/eurocode-1-actions-sur-les-structures-partie-1-4-actions-generales-actions-du-vent/fa104153/25897",
+        "repere": "En-tête en vigueur et date d'annulation octobre 2026 : réserve d'édition."
+      },
+      {
+        "titre": "AFNOR — NF EN 1991-1-3, avril 2004",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/nf-en-199113/eurocode-1-actions-sur-les-structures-partie-13-actions-generales-charges-d/fa102764/22841",
+        "repere": "En-tête en vigueur et date d'annulation octobre 2026 : réserve d'édition."
+      },
+      {
+        "titre": "Légifrance — Article 3 de l'arrêté du 13 novembre 2024 relatif à certaines structures provisoires et démontables",
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000050830689",
+        "repere": "Exemple de référence à la version applicable lors de la mise en service ; exception de domaine, sans portée générale sur tous les bâtiments."
+      }
+    ]
+  },
+  {
+    "id": "FR-TRANSITION-RT2000",
+    "ancienne_reference": "RT 2000 — arrêté du 29 novembre 2000 et décret n° 2000-1153",
+    "statut": "RÉFÉRENTIEL HISTORIQUE ; PAS DE REMPLACEMENT RÉTROACTIF AUTOMATIQUE",
+    "nouvelles_references": [
+      {
+        "code": "CCH, articles R172-1 à R172-9 — RE2020 selon champ et date",
+        "titre": "Exigences de performance énergétique et environnementale des constructions",
+        "role_cctp": "Déterminer le régime applicable au projet avant de fixer les performances des ouvrages.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000053382800"
+      }
+    ],
+    "conditions_application": "La date du cours ne détermine pas la réglementation du chantier. Conserver RT 2000 pour l'analyse d'un dossier historiquement soumis à ce régime. Pour un projet actuel, qualifier neuf, extension ou rénovation, usage, localisation et date de dépôt du permis ou de la déclaration préalable. Vérifier ensuite le régime réglementaire correspondant ; RE2020 n'est pas applicable rétroactivement à tous les bâtiments.",
+    "impact_metre": "Ne pas modifier les quantités ou les coefficients géométriques sur la seule présence du sigle RT 2000. Actualiser les épaisseurs et compositions uniquement d'après l'étude applicable ; les données nécessaires à l'analyse environnementale sont à distinguer du métré de règlement.",
+    "impact_mise_en_oeuvre": "Remplacer une prescription historique dans un CCTP neuf seulement après détermination du régime et validation des performances par l'étude thermique/environnementale.",
+    "alerte": "RT 2000 : référence historique. Renseigner date de dépôt, usage, localisation et nature des travaux avant de choisir le régime actuel.",
+    "sources": [
+      {
+        "titre": "Légifrance — Arrêté du 29 novembre 2000",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000220217",
+        "repere": "Texte d'origine de la RT 2000 ; référence historique, sans assimilation à une règle de déduction des quantités."
+      },
+      {
+        "titre": "Légifrance — CCH R172-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556",
+        "repere": "Champ de la RE2020 selon date et destination."
+      }
+    ]
+  },
+  {
+    "id": "FR-TRANSITION-RT2005",
+    "ancienne_reference": "RT 2005 — arrêté du 24 mai 2006",
+    "statut": "RÉFÉRENTIEL HISTORIQUE ; RÉGIME ACTUEL À DÉTERMINER PAR PROJET",
+    "nouvelles_references": [
+      {
+        "code": "CCH, articles R172-1 à R172-9 — RE2020 selon champ et date",
+        "titre": "Exigences de performance énergétique et environnementale des constructions",
+        "role_cctp": "Sélectionner les exigences du projet ; ne pas recopier des performances RT 2005 dans un projet neuf actuel sans vérification.",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000053382800"
+      }
+    ],
+    "conditions_application": "Identifier le régime initial d'un ouvrage existant. Pour un nouveau projet, vérifier les dates d'entrée en application et les exceptions de destination, de surface et de nature des travaux. La rénovation d'un bâtiment existant n'est pas assimilée globalement à une construction neuve RE2020. Le remplacement du libellé RT 2005 par RE2020 dans tous les documents serait incorrect.",
+    "impact_metre": "Les surfaces réglementaires thermiques ou environnementales ne sont pas automatiquement les surfaces facturées au bordereau. Conserver les deux définitions et leurs sources ; les choix d'isolation et de systèmes peuvent modifier les quantités après étude.",
+    "impact_mise_en_oeuvre": "Décrire les compositions et performances validées pour le projet plutôt que d'appliquer une valeur universelle issue du cours.",
+    "alerte": "RT 2005 : vérifier le régime du dossier et distinguer les surfaces réglementaires des quantités du marché.",
+    "sources": [
+      {
+        "titre": "Légifrance — Arrêté du 24 mai 2006",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000427149",
+        "repere": "Texte historique de la RT 2005 ; domaine d'application et exclusions définis par le texte."
+      },
+      {
+        "titre": "Légifrance — CCH R172-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556",
+        "repere": "Champ et calendrier du régime RE2020."
+      },
+      {
+        "titre": "Ministère — Fiche d'application extensions et constructions de petite surface",
+        "url": "https://rt-re-batiment.developpement-durable.gouv.fr/IMG/pdf/fiche_application_extension_batiment_et_const_inf_50.pdf",
+        "repere": "Distinction entre parties nouvelles et travaux sur bâtiments existants."
+      }
+    ]
+  },
+  {
+    "id": "FR-TRANSITION-RT2012-RE2020",
+    "ancienne_reference": "RT 2012 — notamment arrêté du 26 octobre 2010, complété par les textes propres aux autres usages",
+    "statut": "TRANSITION RÉGLEMENTAIRE CONDITIONNELLE ; CHAMP RE2020 ÉTENDU EN 2026, NON RÉTROACTIF",
+    "nouvelles_references": [
+      {
+        "code": "CCH R172-1 et suivants — RE2020",
+        "titre": "Performance énergétique et environnementale des bâtiments neufs",
+        "role_cctp": "Définir les exigences applicables aux ouvrages à partir des études énergétiques et environnementales du projet.",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556"
+      },
+      {
+        "code": "CCH R172-3 ; décret n° 2026-200 du 18 mars 2026",
+        "titre": "Exigences alternatives pour certaines petites constructions, extensions et surélévations",
+        "role_cctp": "Vérifier les modalités spécifiques et leurs arrêtés d'application ; ne pas considérer toutes les extensions comme soumises aux mêmes exigences.",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053703809/"
+      }
+    ],
+    "conditions_application": "En France métropolitaine, l'entrée dans le champ RE2020 dépend du dépôt du permis ou de la déclaration préalable : habitation à partir du 1er janvier 2022, bureaux et enseignement primaire/secondaire à partir du 1er juillet 2022, autres usages énumérés au III de R172-1 à partir du 1er mai 2026. Les constructions temporaires, petites surfaces, extensions, surélévations et situations dérogatoires nécessitent un examen particulier ; certaines dispositions du décret 2026-200 concernent les dépôts à compter du 1er juillet 2026. Vérifier la version applicable à la date du projet, les exceptions et les territoires. Un dossier antérieur ne bascule pas automatiquement vers les exigences postérieures.",
+    "impact_metre": "L'étude environnementale nécessite des données de produits et de quantités documentées ; ces données ne créent aucun seuil universel de vides pour pleins. Mettre à jour les quantités lorsque les compositions ou dimensions validées changent. Séparer surfaces réglementaires, quantités physiques et quantités de règlement.",
+    "impact_mise_en_oeuvre": "Rédiger le CCTP à partir des performances et solutions validées par l'étude du projet. Ne pas prescrire automatiquement un isolant, une épaisseur, une résistance thermique ou un dosage au seul motif du passage à RE2020.",
+    "alerte": "RE2020 : renseigner date de dépôt, usage, territoire et nature des travaux. Les règles et adaptations 2026 ne s'appliquent pas à tous les dossiers antérieurs.",
+    "sources": [
+      {
+        "titre": "Légifrance — Arrêté du 26 octobre 2010 consolidé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022959397/",
+        "repere": "Texte RT 2012 pour les usages de son domaine ; son existence dans la base ne signifie pas application à tout projet neuf de 2026."
+      },
+      {
+        "titre": "Légifrance — CCH R172-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046680556",
+        "repere": "Paragraphes I, II et III : dates, usages et exclusions ; version applicable depuis le 1er mai 2026."
+      },
+      {
+        "titre": "Légifrance — Décret n° 2026-200 du 18 mars 2026",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053703809/",
+        "repere": "Article 3 : dépôts à compter du 1er juillet 2026 ; article 1 modifiant R172-3."
+      },
+      {
+        "titre": "Ministère — Calendrier et champ d'application de la RE2020",
+        "url": "https://rt-re-batiment.developpement-durable.gouv.fr/calendrier-et-champ-d-application-a1222.html",
+        "repere": "FAQ mise à jour le 8 octobre 2026 ; vérifier la version réglementaire selon la date de dépôt."
+      }
+    ]
+  },
+  {
+    "id": "FR-ANCIEN-DTU-11-1",
+    "ancienne_reference": "DTU 11.1 — Sondage des sols de fondation, décembre 1968, édition mai 1981",
+    "statut": "ANNULÉ ; AUCUN REMPLACEMENT UNIQUE ÉTABLI PAR LA FICHE CONSULTÉE",
+    "nouvelles_references": [],
+    "conditions_application": "La fiche AFNOR propre au DTU 11.1 confirme son annulation. Il s'agit des sondages de sols de fondation, à distinguer du DTU 12 sur les terrassements. La fiche publique consultée ne justifie pas une substitution unique à un autre DTU ou à un Eurocode. Identifier les missions, investigations et essais nécessaires puis leurs références actuelles avec le géotechnicien.",
+    "impact_metre": "Ne pas utiliser cette annulation pour modifier une formule de volume de terrassement. Les prestations de reconnaissance et leurs quantités doivent être définies par le programme d'investigations et le bordereau ; aucune unité ou déduction universelle n'est déduite de cette fiche.",
+    "impact_mise_en_oeuvre": "Actualiser le programme de reconnaissance et les prescriptions à partir de l'étude géotechnique et des textes adaptés aux essais retenus.",
+    "alerte": "DTU 11.1 annulé : référence de sondage historique, distincte du DTU 12. Référentiel actuel à préciser avec le géotechnicien.",
+    "sources": [
+      {
+        "titre": "AFNOR — DTU 11.1, Sondage des sols de fondation, édition mai 1981",
+        "url": "https://www.boutique.afnor.org/fr-fr/norme/dtu-111/dtu-111-sondage-des-sols-de-fondation-edition-mai-1981/fa006656/47732",
+        "repere": "Référence DTU 11.1 ; statut annulé ; aucun remplacement unique établi dans les informations publiques consultées."
+      }
+    ]
+  },
+  {
+    "id": "FR-REFERENCE-NFT54-090",
+    "ancienne_reference": "NF T54-090 — référence citée dans le cours, édition exacte et objet à rapprocher de l'extrait source",
+    "statut": "NON VÉRIFIÉ SUR SOURCE PRIMAIRE AU 2026-11-13 ; REMPLACEMENT AUTOMATIQUE BLOQUÉ",
+    "nouvelles_references": [],
+    "conditions_application": "Les recherches exactes dans les sources AFNOR/Norm'Info accessibles n'ont pas livré de fiche primaire exploitable. Une absence de résultat n'établit ni la validité ni l'annulation. Aucun remplacement par une norme de produit actuelle ne peut être certifié sans identifier le matériau, l'usage, l'édition et la fiche officielle correspondante.",
+    "impact_metre": "Aucune correction d'unité, de quantité ou de déduction n'est justifiée par les éléments vérifiés.",
+    "impact_mise_en_oeuvre": "Ne pas attribuer à cette référence des caractéristiques, couleurs, classes ou prescriptions de pose non vérifiées. Faire confirmer la norme exacte dans le dossier produit et le catalogue officiel.",
+    "alerte": "NF T54-090 : référence à vérifier. Aucun statut actuel ni texte de remplacement confirmé ; pas de clause normative générée automatiquement.",
+    "sources": []
+  }
+]

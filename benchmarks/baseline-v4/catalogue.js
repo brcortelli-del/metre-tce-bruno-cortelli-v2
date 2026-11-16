@@ -1,0 +1,105 @@
+// Désignations dédupliquées des avant-métrés 3, 4, 6 et du CCTP 5.
+const field=(key,label,kind='m')=>[key,label,kind];
+const rect=[field('L','Longueur'),field('w','Largeur')];
+const wall=[field('L','Longueur développée'),field('h','Hauteur')];
+const area=[field('S','Surface de référence','m²')];
+const defs=[
+['reconnaissance','Terrassement','01.02.01','Reconnaissance du terrain et vérification des niveaux et de l’assise.','count',['forfait'],[]],
+['implantation','Terrassement','01.02.02','Implantation planimétrique et altimétrique, chaises, contrôles et maintien des repères.','count',['forfait'],[]],
+['preparation','Terrassement','01.02.03','Préparation du terrain et des zones de stockage ; accès, balisage, protection des abords.','count',['forfait'],[]],
+['herbaces','Terrassement','01.02.04','Enlèvement des herbacés sur l’emprise de travail, compris collecte et évacuation des déchets verts.','rect',['m²'],rect],
+['herbaces_surface','Terrassement','01.02.04','Enlèvement des herbacés — emprise relevée au plan.','area',['m²'],area],
+['excavation_surface','Terrassement','01.02.06','Excavation surfacique en classe B — emprise relevée au plan.','area',['m³'],area],
+['rigoles_surface','Terrassement','01.02.07','Fouilles en rigole — emprise nette après correction des intersections.','area',['m³'],area],
+['murets_surface','Soubassements','01.03.04','Béton des murets de soubassement — emprise nette.','area',['m³'],area],
+['decapage','Terrassement','01.02.05','Décapage de terre végétale classe A, mise en dépôt distinct pour régalage.','rect',['m²','m³'],rect],
+['decapage_surface','Terrassement','01.02.05','Décapage de terre végétale / terre A mise en réserve — surface reprise.','area',['m³','m²'],area],
+['excavation','Terrassement','01.02.06','Excavation surfacique en classe B, fond dressé à la cote du projet.','rect',['m³','m²'],rect],
+['excavation_niveaux','Terrassement','','Excavation surfacique — profondeur par différence de niveaux.','levels',['m³'],[...area,field('zt','Niveau haut','cote'),field('zb','Niveau bas','cote')]],
+['rigoles','Terrassement','01.02.07','Fouilles complémentaires en rigole jusqu’au bon sol.','section',['m³','m²','m'],rect],
+['cadre_rigoles','Terrassement','','Emprise des rigoles — cadre plein moins vide.','frame',['m²','m³'],[...rect,field('Li','Longueur du vide (D.O.)'),field('wi','Largeur du vide (D.O.)')]],
+['remblai','Terrassement','01.02.08','Remblai des ouvrages avec terres réutilisables, tri, reprise et compactage par couches.','area',['m³','m²'],area],
+['remblai_debords','Terrassement','','Remblai au-dessus des débords de semelles : emprise des rigoles moins emprise des murs.','area_diff',['m³'],[field('S','Emprise des rigoles','m²'),field('Si','Emprise des murs','m²'),field('h','Hauteur de remblai')]],
+['abords','Terrassement','','Abords libres dans la plate-forme — surface totale moins emprise du bâtiment.','area_diff',['m²','m³'],[field('S','Surface de plate-forme','m²'),field('Si','Emprise du bâtiment','m²')]],
+['regalage','Terrassement','','Finition en terre A : régalage séparé de terre végétale.','area',['m³','m²'],area],
+['evacuation','Terrassement','01.02.09','Évacuation des terres excédentaires, chargement, transport et réception en filière adaptée.','earth',['m³'],[field('V','Déblais en place','m³'),field('R','Terres réemployées en place','m³'),field('k','Coefficient de foisonnement','coef')]],
+['proprete','Fondations','01.03.01','Forme de propreté — emprise nette des semelles.','section',['m²','m³'],rect],
+['proprete_surface','Fondations','01.03.01','Béton de propreté depuis une emprise nette reprise.','area',['m³','m²'],area],
+['beton_semelles','Fondations','01.03.02','Béton des semelles filantes.','section',['m³','m²'],rect],
+['semelles_surface','Fondations','01.03.02','Volume de béton des semelles depuis la surface nette de fondation.','area',['m³'],area],
+['aciers_semelles','Fondations','01.03.03','Armatures des semelles filantes — poids estimé des aciers.','steel',['kg'],[field('V','Volume de béton','m³'),field('rho','Taux de ferraillage à justifier','kg/m³')]],
+['recouvrement','Fondations','','Déduction des recouvrements aux jonctions en T.','rect',['m²','m³'],rect,-1],
+['murets','Soubassements','01.03.04','Béton des murets de soubassement.','wall',['m³','m²'],wall],
+['emprise_murs','Soubassements','','Emprise des soubassements — plein moins vide.','frame',['m²','m³'],[...rect,field('Li','Longueur du vide (D.O.)'),field('wi','Largeur du vide (D.O.)')]],
+['coffrage','Soubassements','01.03.05','Coffrage des murets par banches — faces réellement coffrées.','formwork',['m²'],[...wall,field('f','Nombre de faces','u')]],
+['treillis','Soubassements','01.03.06','Armatures des murets — treillis soudé.','mesh',['m²'],[...wall,field('k','Coefficient de treillis','coef')]],
+['attentes','Soubassements','01.03.07','Attentes pour chaînages verticaux — longueur totale.','linear',['m'],[field('L','Longueur par position')]],
+['positions','Soubassements','','Angles et jonctions en T — nombre de positions.','count',['u'],[]],
+['drainage','Protections contre l’humidité','01.04.01','Drainage périmétrique — drains, collecte et évacuation des eaux du sol.','linear',['m'],[field('L','Longueur développée du drain')]],
+['regards','Protections contre l’humidité','','Regards de contrôle du drainage.','count',['u'],[]],
+['remblai_drainant','Protections contre l’humidité','01.04.02','Remblai drainant et raccordement des tranchées périphériques.','section',['m³'],rect],
+['ecran','Protections contre l’humidité','01.04.03','Écran vertical d’imperméabilisation des soubassements.','wall',['m²'],wall],
+['protection_ecran','Protections contre l’humidité','01.04.04','Protection mécanique de l’écran par nappe à excroissances.','wall',['m²'],wall],
+['arase','Protections contre l’humidité','01.04.05','Arase étanche en tête des murs de soubassement.','section',['m','m²','m³'],rect],
+['forme','Ouvrages au sol','01.05.01','Support et forme d’isolement — granulats compactés.','area',['m³','m²'],area],
+['sable','Ouvrages au sol','','Lit de sable de réglage sous dallage.','area',['m³','m²'],area],
+['isolant','Ouvrages au sol','01.05.02','Isolation thermique sous dallage.','area',['m²','m³'],area],
+['film','Ouvrages au sol','01.05.03','Film anti-capillarité sous dallage.','area',['m²'],area],
+['dallage','Ouvrages au sol','01.05.04','Dalle en béton armé sur terre-plein.','area',['m³','m²'],area],
+['joints','Ouvrages au sol','01.05.05','Joints d’isolement périphériques, de retrait et de fractionnement du dallage.','linear',['m'],[field('L','Longueur totale des joints')]],
+['chape_usure','Ouvrages au sol','01.05.06','Finitions et chape d’usure du passage voitures.','area',['m²','m³'],area],
+['pignons_moyens','Maçonneries','','Pignons est et ouest — linéaire moyen entre cotes H.O. et D.O.','mean',['m'],[field('a','Cote H.O.'),field('b','Cote D.O.')]],
+['facade_nord','Maçonneries','','Façade nord — deux ailes.','linear',['m'],[field('L','Longueur d’une aile')]],
+['facade_sud','Maçonneries','','Façade sud — deux ailes.','linear',['m'],[field('L','Longueur d’une aile')]],
+['retours','Maçonneries','','Retours extérieurs nord et sud, façades des avancées et cage.','linear',['m'],[field('L','Longueur développée')]],
+['peripherie','Maçonneries','','Linéaire périphérique / périmètre restant après déduction du passage voitures.','linear',['m'],[field('L','Linéaire brut')]],
+['maconnerie_rdc','Maçonneries','','RDC — maçonneries périphériques, surface brute courante ou passage voitures.','wall',['m²','m³'],wall],
+['maconnerie_etage','Maçonneries','','Étage — maçonneries périphériques entre planchers.','wall',['m²','m³'],wall],
+['refends','Maçonneries','','Refends du RDC — traverse nord, refends longitudinaux et linéaire en U.','wall',['m²','m³'],wall],
+['baies','Maçonneries','','Déduction des fenêtres, portes-fenêtres, baies et passages voitures.','rect',['m²','m³'],rect,-1],
+['appuis','Maçonneries','','Déduction des appuis de fenêtres et de l’appui commun de baie.','rect',['m²'],rect,-1],
+['seuils','Maçonneries','','Déduction des seuils des portes-fenêtres.','rect',['m²'],rect,-1],
+['reprise','Repères et calculs intermédiaires','','Reprise d’une quantité / sous-total de l’avant-métré.','quantity',['m','m²','m³','kg','t','u','forfait'],[field('Q','Quantité reprise','result')]]
+];
+const initial={L:'5',w:'0,5',h:'0,2',Li:'4',wi:'0,3',S:'20',Si:'5',V:'10',R:'2',k:'1,35',rho:'25',f:'2',a:'7,51',b:'7,11',zt:'-0,23',zb:'-0,43',Q:'1'};
+export const EXTRA_PRESETS=Object.fromEntries(defs.map(([key,lot,article,title,kind,units,fields,sign=1])=>[key,{title,description:title,lot,category:lot,article,kind,units,unit:units[0],fields,sign,defaults:{...initial,...(kind==='rect'?{w:'4'}:{}),...(kind==='wall'?{h:'2,55'}:{}),...(key==='treillis'?{k:'2,2'}:{}),...(key==='proprete'||key==='proprete_surface'?{h:'0,05'}:{}),...(key==='beton_semelles'||key==='semelles_surface'?{h:'0,3'}:{}),...(key==='murets'?{w:'0,2',h:'0,37'}:{}),...(key==='dallage'?{h:'0,14'}:{})},source:lot==='Terrassement'?'Avant-métré 3':lot==='Fondations'||lot==='Soubassements'?'Avant-métré 4':lot==='Maçonneries'||lot==='Repères et calculs intermédiaires'?'Avant-métré 6':'CCTP 5',formula:''}]));
+// Repères et désignations détaillées de la maçonnerie et des lignes de report.
+const aliases=[
+['facade_cage','pignons_moyens','Façade nord de la cage — linéaire moyen H.O. / D.O.','m',1],
+['facade_avancee','pignons_moyens','Façade de l’avancée sud — linéaire moyen H.O. / D.O.','m',1],
+['retours_nord','retours','Retours extérieurs nord.','m',2],
+['retours_sud','retours','Retours extérieurs sud.','m',2],
+['passage_voitures','peripherie','Périmètre du passage voitures.','m',1],
+['rdc_passage','maconnerie_rdc','RDC — surface brute du passage voitures.','m²',1],
+['surface_rdc','reprise','Surface brute RDC — reprise du sous-total.','m²',1],
+['net_rdc','reprise','Sous-total RDC après déductions chiffrées.','m²',1],
+['fenetre_nord','baies','Déduction — fenêtre de la chambre nord.','m²',1],
+['fenetre_sdb','baies','Déduction — fenêtre de la salle de bains nord.','m²',1],
+['portes_fenetres','baies','Déduction — deux portes-fenêtres sud.','m²',2],
+['passages_nord_sud','baies','Déduction — passage voitures nord et sud.','m²',2],
+['appuis_rdc','appuis','Déduction — appuis des fenêtres du RDC.','m²',1],
+['seuils_sud','seuils','Déduction — seuils sud.','m²',2],
+['fenetres_chambres','baies','Déduction — fenêtres des chambres nord à l’étage.','m²',2],
+['fenetres_sdb_etage','baies','Déduction — fenêtres des salles de bains nord à l’étage.','m²',2],
+['fenetres_ailes','baies','Déduction — fenêtres des deux ailes sud.','m²',4],
+['baie_sud','baies','Déduction — partie droite de la baie sud.','m²',3],
+['appuis_etage','appuis','Déduction — appuis des fenêtres courantes à l’étage.','m²',1],
+['appui_commun','appuis','Déduction — appui commun de la baie sud.','m²',1],
+['net_etage','reprise','Sous-total étage après déductions chiffrées.','m²',1],
+['traverse_studio','peripherie','RDC — traverse nord du studio.','m',1],
+['refends_longitudinaux','peripherie','RDC — deux refends longitudinaux.','m',2],
+['refends_u','reprise','RDC — linéaire des refends en U.','m',1],
+['surface_refends','refends','RDC — surface brute des refends.','m²',1],
+['surface_semelles','reprise','Surface brute / emprise nette estimée des semelles.','m²',1],
+['surface_murets','reprise','Surface brute / emprise nette en plan des soubassements.','m²',1],
+['longueur_murs','peripherie','Linéaire cumulé des murs — reprise des tronçons.','m',1]
+];
+for(const [key,base,title,unit,countDefault]of aliases){const source=EXTRA_PRESETS[base];EXTRA_PRESETS[key]={...source,title,description:title,units:[unit],unit,countDefault,article:'',source:['surface_semelles','surface_murets','longueur_murs'].includes(key)?'Avant-métré 4':'Avant-métré 6',category:['surface_semelles','surface_murets','longueur_murs'].includes(key)?'Repères et calculs intermédiaires':'Maçonneries'};}
+for(const key of ['pignons_moyens','facade_nord','facade_sud'])EXTRA_PRESETS[key].countDefault=2;
+
+Object.assign(EXTRA_PRESETS,{
+trapeze:{title:'Surface de trapèze',lot:'Géométrie',category:'Géométrie complexe',kind:'trapezoid',unit:'m²',units:['m²'],fields:[['a','Grande base','m'],['b','Petite base','m'],['h','Hauteur','m']],defaults:{a:'6',b:'4',h:'3'},formula:'(B + b) × H ÷ 2'},
+toiture_developpee:{title:'Développé de toiture à pente constante',lot:'Couverture',category:'Géométrie complexe',kind:'roof',unit:'m²',units:['m²'],fields:[['L','Longueur du pan','m'],['w','Projection horizontale du pan','m'],['pente','Pente en degrés','deg'],['f','Nombre de pans identiques','u']],defaults:{L:'10',w:'4',pente:'30',f:'2'},formula:'L × projection ÷ cos(pente) × pans'},
+talus:{title:'Terrassement avec talus réguliers',lot:'Terrassement',category:'Géométrie complexe',kind:'talus',unit:'m³',units:['m³'],fields:[['L','Longueur au fond','m'],['w','Largeur au fond','m'],['h','Profondeur','m'],['slope','Fruit horizontal / vertical','coef']],defaults:{L:'10',w:'5',h:'2',slope:'1'},formula:'Volume prismoïdal à fruit constant'},
+comptage:{title:'Comptage — portes, prises ou équipements',lot:'Électricité',category:'Géométrie courante',kind:'quantity',unit:'u',units:['u'],fields:[['Q','Nombre compté','result']],defaults:{Q:'1'},formula:'Nombre de points'}
+});
