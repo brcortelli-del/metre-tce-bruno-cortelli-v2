@@ -2,7 +2,7 @@
 export const ROW_CCTP_MAX=16000;
 export const CCTP_HEADINGS=['LOCALISATION & SUPPORT','DESCRIPTION TECHNIQUE & NORMES','MISE EN ŒUVRE & SUJÉTIONS INCLUSES','MODE DE MÉTRÉ & RÈGLEMENT'];
 export function rowCctpPayload(row,country='france'){
- return {designation:String(row.label||'').slice(0,200),lot:String(row.lot||'').slice(0,80),zone:String(row.room||row.location||'').slice(0,200),niveau:String(row.level||'').slice(0,80),unite:String(row.result?.unit||'u').slice(0,20),quantite:row.result?.total??0,country:country==='luxembourg'?'luxembourg':'france'};
+ return {...(row.catalogueCode?{catalogueCode:String(row.catalogueCode).slice(0,40)}:{}),designation:String(row.label||'').slice(0,200),lot:String(row.lot||'').slice(0,80),zone:String(row.room||row.location||'').slice(0,200),niveau:String(row.level||'').slice(0,80),unite:String(row.result?.unit||'u').slice(0,20),quantite:row.result?.total??0,country:country==='luxembourg'?'luxembourg':'france'};
 }
 export function rowCctpFingerprint(row,country='france'){
  const text=JSON.stringify(rowCctpPayload(row,country));let h=2166136261;for(const c of text)h=Math.imul(h^c.charCodeAt(0),16777619);return 'v1-'+(h>>>0).toString(36);

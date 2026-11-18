@@ -305,7 +305,7 @@ function renderRows() {
   const totals = { m: 0, "m²": 0, "m³": 0, kg: 0, u: 0, forfait: 0 };
   rows.forEach(
     (r) =>
-      (totals[r.result.unit] = (totals[r.result.unit] || 0) + r.result.total),
+      (totals[['mm','cm','ml'].includes(r.result.unit)?'m':r.result.unit] = (totals[['mm','cm','ml'].includes(r.result.unit)?'m':r.result.unit] || 0) + r.result.total * ({mm:.001,cm:.01,ml:1}[r.result.unit]??1)),
   );
   for (const [id, u] of [
     ["totalM", "m"],
@@ -970,11 +970,11 @@ import('/ux/atelier.js').then(({mountAtelier})=>mountAtelier({
   setMeasurementSlope:(id,slope)=>{slopeInfo(slope);return updateRow(id,r=>{if(slope.enabled)r.input.slope={enabled:true,mode:slope.mode==='degrees'?'degrees':'percent',value:String(slope.value)};else delete r.input.slope;});},
   addMeasurementModel:model=>{if(proApi?.isReadOnly())throw new Error('Projet en consultation.');const m=validateMeasurementModel(model),next=insertProjectRows(project,[{id:crypto.randomUUID(),label:m.name,lot:m.lot,workColor:m.color,level:'',room:'',location:'',rowNumber:'',code:'',unitPrice:null,input:m.input}]);if(!next.lots.includes(m.lot))next.lots=[...next.lots,m.lot];return commitProject(next);},
   saveRowCctp:(id,article,expectedFingerprint)=>{if(proApi?.isReadOnly())throw new Error('Ce projet est en consultation.');return commitProject(saveCctpToProject(project,id,article,expectedFingerprint));},
-  saveProfessionalRow:row=>{
+  saveProfessionalRow:(row,{allowMigration=false}={})=>{
     if(proApi?.isReadOnly())throw new Error('Projet en consultation.');
     if(row.input?.preset!=='minute-pro')throw new Error('Type de minute professionnelle requis.');
     const previous=project.rows.find(r=>r.id===row.id);
-    if(previous&&previous.input.preset!=='minute-pro')throw new Error('Une ancienne minute ne peut pas être convertie implicitement.');
+    if(previous&&previous.input.preset!=='minute-pro'&&!(allowMigration&&row.input.dynamicMinute&&row.previousMinute))throw new Error('Une ancienne minute ne peut pas être convertie implicitement.');
     const next=previous?patchProjectRow(project,row.id,r=>Object.assign(r,row)):insertProjectRows(project,[row]);
     if(!next.lots.includes(row.lot))next.lots=[...next.lots,row.lot];commitProject(next);
   },

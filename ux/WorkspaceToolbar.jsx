@@ -21,7 +21,7 @@ export default function WorkspaceToolbar({bridge,view}) {
     if(control&&control.value!==next){control.value=next;control.dispatchEvent(new Event('change',{bubbles:true}));}
   },[active,view,rows]);
   const visible=active?rows.filter(r=>r.lot===active):rows;
-  const sum=unit=>visible.filter(r=>r.result?.unit===unit).reduce((n,r)=>n+(Number(r.result.total)||0),0);
+  const sum=unit=>visible.reduce((n,r)=>{const u=r.result?.unit,f=unit==='m'?({mm:.001,cm:.01,m:1,ml:1}[u]):u===unit?1:undefined;return n+(f===undefined?0:(Number(r.result.total)||0)*f);},0);
   const number=n=>n.toLocaleString('fr-FR',{maximumFractionDigits:3});
   const choose=lot=>{setSelected(lot);if(view!=='minute')bridge.showView('minute');};
   return <div className="workspace-toolbar">

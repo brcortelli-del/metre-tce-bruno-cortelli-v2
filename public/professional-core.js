@@ -1,3 +1,4 @@
+import {calculateDynamic} from './dynamic-minute.js';
 import {evaluateExpression} from './expression.js';
 import {lotColor} from './lot-colors.js';
 export const PRO_UNITS=['m','m²','m³','u'];
@@ -5,6 +6,7 @@ export const normalizeProUnit=u=>({ml:'m',m2:'m²',m3:'m³'}[u]||u);
 export const workColor=row=>/^#[0-9a-f]{6}$/i.test(row?.workColor||row?.color||'')?(row.workColor||row.color):lotColor(row?.lot||row?.purpose).color;
 const fmt=n=>n.toLocaleString('fr-FR',{maximumFractionDigits:6});
 export function calculateProfessional(input,variables=[]) {
+  if(input.dynamicMinute)return calculateDynamic(input,variables);
   const unit=normalizeProUnit(input.outputUnit||'m²');
   if(!PRO_UNITS.includes(unit))throw Error('Unité de minute professionnelle invalide.');
   const factor={m:1,cm:.01,mm:.001}[input.dimensionUnit||'m'];

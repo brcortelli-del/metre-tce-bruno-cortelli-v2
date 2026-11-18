@@ -48,7 +48,7 @@ test('ventilation sans additionner les unités et sans inventer un prix manquant
 test('CSV et impression : colonnes de passerelle, anti-injection et titre imposé',()=>{
  const p=project([make({label:'=cmd|malveillant',lot:'<script>alert(1)</script>'})]);
  assert.match(professionalCSV(p),/"Code";"Désignation"/);assert.match(professionalCSV(p),/"'=cmd/);
- const html=professionalPrintHTML(p);assert.ok(html.includes('Métré TCE – Bruno Cortelli'));assert.ok(html.includes('&lt;script&gt;'));assert.ok(!html.includes('<script>'));assert.match(html,/incomplet/);
+ const html=professionalPrintHTML(p);assert.ok(html.includes('Atelier Métré Pro'));assert.ok(html.includes('&lt;script&gt;'));assert.ok(!html.includes('<script>'));assert.match(html,/incomplet/);
 });
 test('Excel : vraie archive XLSX, quantités et montants numériques, détails présents',async()=>{
  const p=project([make({unitPrice:'10'})]),wb=createProfessionalWorkbook(p,ExcelJS),bytes=await wb.xlsx.writeBuffer();

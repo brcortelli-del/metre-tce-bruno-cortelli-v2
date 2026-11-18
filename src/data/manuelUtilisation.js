@@ -1,4 +1,8 @@
 export const NOUVEAUTES_AUTO=[
+ '986 fiches BTP recherchables, désignations libres et bibliothèque personnelle dans la nouvelle minute.',
+ 'Calculs dynamiques sur la même ligne : géométrie, mm/cm/m, surfaces, volumes, kg/t, ensembles et forfaits, ouvertures et pertes.',
+ 'Trames A4 portrait CCTP et avant-métré inspirées des modèles fournis, avec pagination et reports.',
+ 'Rapprochements normatifs sourcés dans les articles de ligne, sans certification automatique du domaine ni de l’édition.',
  'Lecture IA Vision par page, cadres colorés synchronisés, masquage et correction manuelle des positions approximatives.',
  'Kutch PDF multipage, calibration, longueurs/surfaces/comptages, couleurs et provenance des mesures.',
  'Minutes N × L × l × H, déductions, pente %/degrés et modèles réutilisables.',

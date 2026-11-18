@@ -2739,3 +2739,5 @@ button[data-tooltip]:is(:hover,:focus-visible)::after,.header-topline .ux-icon-b
 @import './plan-vision.css';
 
 @import './final-release.css';
+
+@import './dynamic-minute.css';

@@ -8963,3 +8963,36 @@ button[data-tooltip]:is(:hover,:focus-visible)::after,.header-topline .ux-icon-b
   gap: 6px;
   max-width: 100%;
 }
+.btp-library-results {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+  gap: 6px;
+  max-height: 260px;
+  overflow: auto;
+  margin: 12px 0;
+}
+.btp-library-results button {
+  text-align: left;
+  justify-content: flex-start;
+  white-space: normal;
+}
+.btp-library-results small {
+  display: block;
+  color: var(--muted);
+  font-size: 10px;
+}
+.pro-editor-grid select {
+  padding: 10px;
+  width: 100%;
+}
+.pro-minute-editor>label {
+  display: grid;
+  gap: 6px;
+  margin: 12px 0;
+}
+.pro-minute-editor>label>input {
+  padding: 10px;
+}
+.pro-minute-editor details>summary {
+  cursor: pointer;
+}
